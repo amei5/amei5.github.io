@@ -7,7 +7,9 @@ d3.csv('constructor_standings.csv').then(function(data) {
     });
   
     // Extract unique constructors from the data
-    var constructors = d3.map(data, function(d) { return d.constructor; }).keys();
+    var constructors = d3.nest() // nest function allows to group the calculation per level of a factor
+    .key(function(d) { return d.constructor;})
+    .entries(data);
   
     // Set up dimensions for the chart
   var margin = { top: 20, right: 30, bottom: 30, left: 60 },
