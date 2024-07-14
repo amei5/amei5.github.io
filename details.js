@@ -34,11 +34,6 @@ var color = d3.scaleOrdinal()
 .domain(constructors)
 .range(d3.schemeCategory10);
 
-// Define line generator
-var line = d3.line()
-.x(function(d) { return x(d.year); })
-.y(function(d) { return y(d.position); });
-
 // Draw lines for each constructor
 svg.selectAll(".line")
 .data(constructors)
