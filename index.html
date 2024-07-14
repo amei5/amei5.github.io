@@ -3,16 +3,22 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Formula1 Constructor Standings</title>
+  <title>Constructor Standings</title>
   <script src="https://d3js.org/d3.v7.min.js"></script>
+  <style>
+    /* CSS styles for the chart */
+    .line {
+      fill: none;
+      stroke-width: 2px;
+    }
+  </style>
 </head>
 <body>
-  <div id="dropdown-container">
-    <select id="constructorSelect">
-      <option value="" selected disabled>Select an option</option>
-    </select>
+  <div id="chart-container">
+    <!-- SVG container for the chart -->
+    <svg id="chart" width="800" height="400"></svg>
   </div>
 
-  <script src="details.js"></script>
+  <script src="script.js"></script>
 </body>
 </html>
