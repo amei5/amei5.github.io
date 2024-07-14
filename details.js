@@ -7,7 +7,7 @@ d3.csv('constructor_standings.csv').then(function(data) {
     });
   
     // Extract unique constructors from the data
-    var constructors = d3.nest() // nest function allows to group the calculation per level of a factor
+    var constructors = d3.group() // nest function allows to group the calculation per level of a factor
     .key(function(d) { return d.constructor;})
     .entries(data);
   
