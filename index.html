@@ -1,19 +1,18 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Simple D3 Page</title>
-    <script src="https://d3js.org/d3.v7.min.js"></script>
-    <style>
-        /* Add any CSS styles here */
-    </style>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Formula1 Constructor Standings</title>
+  <script src="https://d3js.org/d3.v7.min.js"></script>
 </head>
 <body>
-    <!-- Create a container for your D3 visualization -->
-    <div id="viz"></div>
+  <div id="dropdown-container">
+    <select id="constructorSelect">
+      <option value="" selected disabled>Select an option</option>
+    </select>
+  </div>
 
-    <!-- Include your JavaScript code for D3 -->
-    <script src="script.js"></script>
+  <script src="details.js"></script>
 </body>
 </html>
