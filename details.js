@@ -39,21 +39,6 @@ var line = d3.line()
 .x(function(d) { return x(d.year); })
 .y(function(d) { return y(d.position); });
 
-
-svg.selectAll(".line")
-      .data(sumstat)
-      .enter()
-      .append("path")
-        .attr("fill", "none")
-        .attr("stroke", function(d){ return color(d.key) })
-        .attr("stroke-width", 1.5)
-        .attr("d", function(d){
-          return d3.line()
-            .x(function(d) { return x(d.year); })
-            .y(function(d) { return y(+d.n); })
-        })
-
-
 // Draw lines for each constructor
 svg.selectAll(".line")
 .data(constructors)
