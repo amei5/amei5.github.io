@@ -46,7 +46,7 @@ svg.selectAll(".line")
         return d3.line()
             .x(function(d) { return x(d.year); })
             .y(function(d) { return y(d.position); })
-        })
+        });
 
 // Add points for each data point
 //svg.selectAll(".point")
