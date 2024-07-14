@@ -51,12 +51,11 @@ svg.selectAll(".line")
           return d3.line()
             .x(function(d) { return x(d.year); })
             .y(function(d) { return y(+d.n); })
-            (d.values)
         })
 
 
 // Draw lines for each constructor
-var constructorLines = svg.selectAll(".line")
+svg.selectAll(".line")
 .data(constructors)
 .enter()
 .append("path")
@@ -70,18 +69,18 @@ var constructorLines = svg.selectAll(".line")
         })
 
 // Add points for each data point
-constructorLines.selectAll(".point")
-.data(function(c) {
-  return data.filter(function(d) {
-    return d.constructor === c;
-  });
-})
-.enter().append("circle")
-.attr("class", "point")
-.attr("cx", function(d) { return x(d.year); })
-.attr("cy", function(d) { return y(d.position); })
-.attr("r", 4)
-.style("fill", function(d) { return color(d.constructor); });
+//svg.selectAll(".point")
+//.data(function(c) {
+ // return data.filter(function(d) {
+ //   return d.constructor === c;
+ // });
+//})
+//.enter().append("circle")
+//.attr("class", "point")
+//.attr("cx", function(d) { return x(d.year); })
+//.attr("cy", function(d) { return y(d.position); })
+//.attr("r", 4)
+//.style("fill", function(d) { return color(d.constructor); });
 
 // Add axes
 svg.append("g")
