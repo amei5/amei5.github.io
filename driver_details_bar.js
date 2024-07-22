@@ -108,9 +108,15 @@ d3.csv('driver_details.csv').then(function(data) {
             tooltip.style("white-space", "pre");
             tooltip.style("line-height", "1em");
             tooltip.style("z-index", "300");
-            tooltip.html(`<strong>Name:</strong> ${d.name}<br><strong>Race:</strong> ${d.race}<br><strong>Date:</strong> ${d.date}<br><strong>Total Points:</strong> ${d.totalpoints}<br><strong>Points:</strong> ${d.points}`)
+            if(selectedOption === 'totalpoints'){
+            tooltip.html(`<strong>Name:</strong> ${d.name}<br><strong>Grand Prix:</strong> ${d.race}<br><strong>Date:</strong> ${d.date}<br><strong>Total Points:</strong> ${d.totalpoints}`)
                 .style('left', (event.pageX + 10) + "px")
                 .style('top', (event.pageY - 28) + "px");
+            }else{
+                tooltip.html(`<strong>Name:</strong> ${d.name}<br><strong>Grand Prix:</strong> ${d.race}<br><strong>Date:</strong> ${d.date}<br><strong>Points:</strong> ${d.points}`)
+                .style('left', (event.pageX + 10) + "px")
+                .style('top', (event.pageY - 28) + "px");
+            }
         })
         .on('mouseout', function(d) {
             tooltip.style('opacity', 0);
@@ -178,7 +184,7 @@ d3.csv('driver_details.csv').then(function(data) {
 
     // Radio button change event listener
     d3.selectAll('input[name="values"]').on("change", function() {
-        var selectedOption = this.value;
+        selectedOption = this.value;
         updateYAxis(selectedOption);
      });
 

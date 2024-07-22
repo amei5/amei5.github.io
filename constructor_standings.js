@@ -85,7 +85,7 @@ d3.csv('constructor_standings.csv').then(function(data) {
             tooltip.style("line-height", "1em");
             tooltip.style("z-index", "300");
             tooltip.style('opacity', 1);
-            tooltip.html(`<strong>Constructor:</strong> ${d.constructor} <br><strong>Year:</strong> ${d.year}<br><strong>Position:</strong> ${d.position}<br><strong>Points:</strong> ${d.points}`)
+            tooltip.html(`<strong>Constructor:</strong> ${d.constructor} <br><strong>Year:</strong> ${d.year}<br><strong>Position:</strong> ${d.position}<br><strong>Total Points:</strong> ${d.points}`)
             .style('left', (event.pageX + 10) + "px")
             .style('top', (event.pageY - 28) + "px");
         })
