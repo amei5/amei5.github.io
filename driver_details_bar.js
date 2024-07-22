@@ -8,6 +8,7 @@ d3.csv('driver_details.csv').then(function(data) {
         d.race = d.race_name.trim();
         d.firstname = d.firstname.trim();
         d.lastname = d.lastname.trim();
+        d.name = d.firstname + ' ' + d.lastname;
         d.position = +d.position; // Convert position to numeric
         d.points = +d.points; // Convert points to numeric
         d.totalpoints = +d.cumulative_points
@@ -107,7 +108,7 @@ d3.csv('driver_details.csv').then(function(data) {
             tooltip.style("white-space", "pre");
             tooltip.style("line-height", "1em");
             tooltip.style("z-index", "300");
-            tooltip.html(`<strong>First Name:</strong> ${d.firstname} <br><strong>Last Name:</strong> ${d.lastname}<br><strong>Race:</strong> ${d.race}<br><strong>Date:</strong> ${d.date}<br><strong>Total Points:</strong> ${d.totalpoints}<br><strong>Points:</strong> ${d.points}`)
+            tooltip.html(`<strong>Name:</strong> ${d.name}<br><strong>Race:</strong> ${d.race}<br><strong>Date:</strong> ${d.date}<br><strong>Total Points:</strong> ${d.totalpoints}<br><strong>Points:</strong> ${d.points}`)
                 .style('left', (event.pageX + 10) + "px")
                 .style('top', (event.pageY - 28) + "px");
         })
