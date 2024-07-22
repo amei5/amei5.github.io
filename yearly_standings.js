@@ -183,7 +183,7 @@ d3.csv('race_details.csv').then(function(data) {
         
         // Update the y-axis label
         svg.select(".y-axis-label")
-            .text(selectedOption === 'position' ? "Position" : "Points");
+            .text(selectedOption === 'position' ? "Position" : "Total Points");
 
         // Update the y-axis
         svg.select(".y-axis")
@@ -226,7 +226,7 @@ d3.csv('race_details.csv').then(function(data) {
             
             // Update the y-axis label
             svg.select(".y-axis-label")
-                .text(selectedOption === 'position' ? "Position" : "Points");
+                .text(selectedOption === 'position' ? "Position" : "Total Points");
     
             // Update the y-axis
             svg.select(".y-axis")
@@ -307,12 +307,11 @@ d3.csv('race_details.csv').then(function(data) {
     // Slider change event listener
     d3.select("#year-slider").on("input", function() {
         var year = +d3.select(this).property("value");
-        d3.select("#slider-value").text(selectedYear);
+        d3.select("#slider-value").text(year);
         selectedYear = year;
         if (d3.select('input[name="values"]:checked').property("value") === 'points') {
             selectedOption = 'points';
-        }
-        else {selectedOption = 'position'}
+        }else {selectedOption = 'position'}
         updateChart(selectedYear, selectedOption);
     });
 

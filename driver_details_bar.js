@@ -143,7 +143,7 @@ d3.csv('driver_details.csv').then(function(data) {
 
         // Update the y-axis label
         svg.select(".y-axis-label")
-            .text(selectedOption === 'totalpoints' ? "Total Points" : "Points");
+            .text(selectedOption === 'totalpoints' ? "Total Points" : "Points Per Race");
     }
 
     // Initial Function to update y-axis based on dropdown selection w/out transition
@@ -170,7 +170,7 @@ d3.csv('driver_details.csv').then(function(data) {
 
         // Update the y-axis label
         svg.select(".y-axis-label")
-            .text(selectedOption === 'totalpoints' ? "Total Points" : "Points");
+            .text(selectedOption === 'totalpoints' ? "Total Points" : "Points Per Race");
     }
 
     //Initial update

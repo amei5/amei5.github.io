@@ -132,7 +132,7 @@ d3.csv('constructor_standings.csv').then(function(data) {
         
         // Update the y-axis label
         svg.select(".y-axis-label")
-            .text(selectedOption === 'position' ? "Position" : "Points");
+            .text(selectedOption === 'position' ? "Position" : "Total Points");
 
         // Update the y-axis
         svg.select(".y-axis")
