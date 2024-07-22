@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Constructor Standings</title>
+  <script src="https://d3js.org/d3.v7.min.js"></script>
+  <script src="d3-annotation.min.js"></script>
+  <style>
+   body {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        text-align: center;
+	    font-family: Verdana, sans-serif;
+    }
+
+    h1 {
+	    text-align: center;
+	    font-size: 25px;
+	    color: darkslategrey;
+	    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.3);
+	    margin-bottom: 10px;
+    }
+    /* CSS styles for the chart */
+    .line {
+      fill: none;
+      stroke-width: 2px;
+    }
+
+    .point {
+      fill: steelblue;
+      stroke: #fff;
+      stroke-width: 1.5px;
+    }
+
+    .controls {
+        display: flex;
+        justify-content: center;
+        gap: 20px;
+        padding: 20px;
+    }
+
+    .buttons {
+        display: flex;
+        justify-content: center;
+        gap: 20px;
+        padding: 20px;
+    }
+
+    .narrative-text{
+	    margin-top: 20px;
+	    font-size: 15px;
+	    text-align: center;
+	    color: darkslategrey;
+    }
+
+    .footnote{
+	    font-size: 12px;
+	    text-align: center;
+	    color: darkslategrey;
+    }
+    .grid line {
+      stroke: #ccc; /* Light gray color */
+      stroke-opacity: 0.2; /* Adjust opacity as needed */
+      shape-rendering: crispEdges; /* Ensure crisp edges */
+    }
+  </style>
+</head>
+<body>
+  <div id="chart-container">
+    <h1 id="title">Formula 1 Constructor Standings Each Year</h1>
+    <div class="narrative-text">
+      <p>
+          Explore <b class="b">global video game sales</b> with our interactive world map featuring bubbles
+          representing sales in North America, Europe, Japan, Rest of the World, and Total Global Sales. Use
+          the year range <b class="b">slider</b> to observe trends over time and click the
+          <b class="b">"Play"</b> button for an automated journey through the years.
+          <b class="b">Hover over bubbles</b> for region-specific details and <b class="b">click</b> on them
+          to access more in-depth sales data for specific years. Uncover the gaming industry's global impact
+          and discover the top-selling games, genres, publishers, and platforms that shaped each region's
+          gaming landscape.
+      </p>
+      
+  </div>
+    <!-- SVG container for the chart -->
+    <svg id="chart" width="1400" height="700"></svg>
+  </div>
+<div class="controls">
+  <div id="sliderLabel"></div>
+  <div id="slider-container">
+    <input type="range" min="2000" max="2023" value="2000" class="slider" id="year-slider">
+    <span id="slider-value"></span>
+  </div>
+  <div>
+    <div id="y-axis-select"></div>
+    <label><input type="radio" name="values" value="position" checked> Position</label>
+    <label><input type="radio" name="values" value="points"> Total Points</label>
+</div>
+</div>
+
+  <div class="buttons">
+    <button onclick="location.href='index.html'">Back to Constructor Standings</button>
+    <button onclick="location.href='driver_details.html'">Driver Breakdown</button>
+</div>
+<script src="yearly_standings.js"></script>
+</div>
+</body>
+</html>

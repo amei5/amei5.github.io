@@ -1,0 +1,4026 @@
+points,position,wins,year,date,race_name,constructor
+16,1,1,2000,2000-03-12,Australian,Ferrari
+4,2,0,2000,2000-03-12,Australian,Williams
+2,4,0,2000,2000-03-12,Australian,Alpine F1 Team
+0,5,0,2000,2000-03-12,Australian,AlphaTauri
+26,1,2,2000,2000-03-26,Brazilian,Ferrari
+8,2,0,2000,2000-03-26,Brazilian,Alpine F1 Team
+7,3,0,2000,2000-03-26,Brazilian,Aston Martin
+7,4,0,2000,2000-03-26,Brazilian,Williams
+0,7,0,2000,2000-03-26,Brazilian,AlphaTauri
+39,1,3,2000,2000-04-09,San Marino,Ferrari
+10,2,0,2000,2000-04-09,San Marino,McLaren
+8,3,0,2000,2000-04-09,San Marino,Alpine F1 Team
+7,4,0,2000,2000-04-09,San Marino,Aston Martin
+7,5,0,2000,2000-04-09,San Marino,Williams
+1,7,0,2000,2000-04-09,San Marino,Alfa Romeo
+0,10,0,2000,2000-04-09,San Marino,AlphaTauri
+43,1,3,2000,2000-04-23,British,Ferrari
+26,2,1,2000,2000-04-23,British,McLaren
+12,3,0,2000,2000-04-23,British,Williams
+8,4,0,2000,2000-04-23,British,Alpine F1 Team
+8,5,0,2000,2000-04-23,British,Aston Martin
+1,7,0,2000,2000-04-23,British,Alfa Romeo
+0,10,0,2000,2000-04-23,British,AlphaTauri
+49,1,3,2000,2000-05-07,Spanish,Ferrari
+42,2,2,2000,2000-05-07,Spanish,McLaren
+15,3,0,2000,2000-05-07,Spanish,Williams
+9,4,0,2000,2000-05-07,Spanish,Aston Martin
+8,5,0,2000,2000-05-07,Spanish,Alpine F1 Team
+1,7,0,2000,2000-05-07,Spanish,Alfa Romeo
+0,10,0,2000,2000-05-07,Spanish,AlphaTauri
+62,1,4,2000,2000-05-21,European,Ferrari
+52,2,2,2000,2000-05-21,European,McLaren
+15,3,0,2000,2000-05-21,European,Williams
+10,4,0,2000,2000-05-21,European,Alpine F1 Team
+9,5,0,2000,2000-05-21,European,Aston Martin
+1,7,0,2000,2000-05-21,European,Alfa Romeo
+0,10,0,2000,2000-05-21,European,AlphaTauri
+68,1,4,2000,2000-06-04,Monaco,Ferrari
+63,2,3,2000,2000-06-04,Monaco,McLaren
+15,3,0,2000,2000-06-04,Monaco,Williams
+14,4,0,2000,2000-06-04,Monaco,Alpine F1 Team
+9,5,0,2000,2000-06-04,Monaco,Aston Martin
+3,8,0,2000,2000-06-04,Monaco,Alfa Romeo
+0,10,0,2000,2000-06-04,Monaco,AlphaTauri
+84,1,5,2000,2000-06-18,Canadian,Ferrari
+66,2,3,2000,2000-06-18,Canadian,McLaren
+18,3,0,2000,2000-06-18,Canadian,Alpine F1 Team
+15,4,0,2000,2000-06-18,Canadian,Williams
+10,5,0,2000,2000-06-18,Canadian,Aston Martin
+3,8,0,2000,2000-06-18,Canadian,Alfa Romeo
+0,10,0,2000,2000-06-18,Canadian,AlphaTauri
+88,1,5,2000,2000-07-02,French,Ferrari
+82,2,4,2000,2000-07-02,French,McLaren
+18,3,0,2000,2000-07-02,French,Alpine F1 Team
+17,4,0,2000,2000-07-02,French,Williams
+11,5,0,2000,2000-07-02,French,Aston Martin
+3,8,0,2000,2000-07-02,French,Alfa Romeo
+0,10,0,2000,2000-07-02,French,AlphaTauri
+98,1,5,2000,2000-07-16,Austrian,McLaren
+92,2,5,2000,2000-07-16,Austrian,Ferrari
+19,3,0,2000,2000-07-16,Austrian,Williams
+18,4,0,2000,2000-07-16,Austrian,Alpine F1 Team
+11,6,0,2000,2000-07-16,Austrian,Aston Martin
+4,7,0,2000,2000-07-16,Austrian,Alfa Romeo
+0,10,0,2000,2000-07-16,Austrian,AlphaTauri
+108,1,5,2000,2000-07-30,German,McLaren
+102,2,6,2000,2000-07-30,German,Ferrari
+22,3,0,2000,2000-07-30,German,Williams
+18,4,0,2000,2000-07-30,German,Alpine F1 Team
+11,6,0,2000,2000-07-30,German,Aston Martin
+6,7,0,2000,2000-07-30,German,Alfa Romeo
+0,10,0,2000,2000-07-30,German,AlphaTauri
+122,1,6,2000,2000-08-13,Hungarian,McLaren
+111,2,6,2000,2000-08-13,Hungarian,Ferrari
+24,3,0,2000,2000-08-13,Hungarian,Williams
+18,4,0,2000,2000-08-13,Hungarian,Alpine F1 Team
+12,5,0,2000,2000-08-13,Hungarian,Aston Martin
+6,7,0,2000,2000-08-13,Hungarian,Alfa Romeo
+0,10,0,2000,2000-08-13,Hungarian,AlphaTauri
+135,1,7,2000,2000-08-27,Belgian,McLaren
+117,2,6,2000,2000-08-27,Belgian,Ferrari
+30,3,0,2000,2000-08-27,Belgian,Williams
+18,4,0,2000,2000-08-27,Belgian,Alpine F1 Team
+13,5,0,2000,2000-08-27,Belgian,Aston Martin
+6,7,0,2000,2000-08-27,Belgian,Alfa Romeo
+0,10,0,2000,2000-08-27,Belgian,AlphaTauri
+141,1,7,2000,2000-09-10,Italian,McLaren
+127,2,7,2000,2000-09-10,Italian,Ferrari
+34,3,0,2000,2000-09-10,Italian,Williams
+20,4,0,2000,2000-09-10,Italian,Alpine F1 Team
+13,5,0,2000,2000-09-10,Italian,Aston Martin
+6,8,0,2000,2000-09-10,Italian,Alfa Romeo
+0,10,0,2000,2000-09-10,Italian,AlphaTauri
+143,1,8,2000,2000-09-24,United States,Ferrari
+143,2,7,2000,2000-09-24,United States,McLaren
+34,3,0,2000,2000-09-24,United States,Williams
+20,4,0,2000,2000-09-24,United States,Alpine F1 Team
+17,5,0,2000,2000-09-24,United States,Aston Martin
+6,8,0,2000,2000-09-24,United States,Alfa Romeo
+0,10,0,2000,2000-09-24,United States,AlphaTauri
+156,1,9,2000,2000-10-08,Japanese,Ferrari
+153,2,7,2000,2000-10-08,Japanese,McLaren
+36,3,0,2000,2000-10-08,Japanese,Williams
+20,4,0,2000,2000-10-08,Japanese,Alpine F1 Team
+17,6,0,2000,2000-10-08,Japanese,Aston Martin
+6,8,0,2000,2000-10-08,Japanese,Alfa Romeo
+0,10,0,2000,2000-10-08,Japanese,AlphaTauri
+170,1,10,2000,2000-10-22,Malaysian,Ferrari
+162,2,7,2000,2000-10-22,Malaysian,McLaren
+36,3,0,2000,2000-10-22,Malaysian,Williams
+20,4,0,2000,2000-10-22,Malaysian,Alpine F1 Team
+17,6,0,2000,2000-10-22,Malaysian,Aston Martin
+6,8,0,2000,2000-10-22,Malaysian,Alfa Romeo
+0,10,0,2000,2000-10-22,Malaysian,AlphaTauri
+14,1,1,2001,2001-03-04,Australian,Ferrari
+6,2,0,2001,2001-03-04,Australian,McLaren
+4,3,0,2001,2001-03-04,Australian,Alfa Romeo
+2,4,0,2001,2001-03-04,Australian,Aston Martin
+0,9,0,2001,2001-03-04,Australian,AlphaTauri
+0,10,0,2001,2001-03-04,Australian,Alpine F1 Team
+30,1,2,2001,2001-03-18,Malaysian,Ferrari
+11,2,0,2001,2001-03-18,Malaysian,McLaren
+5,3,0,2001,2001-03-18,Malaysian,Aston Martin
+4,4,0,2001,2001-03-18,Malaysian,Alfa Romeo
+2,5,0,2001,2001-03-18,Malaysian,Williams
+0,10,0,2001,2001-03-18,Malaysian,Alpine F1 Team
+0,11,0,2001,2001-03-18,Malaysian,AlphaTauri
+36,1,2,2001,2001-04-01,Brazilian,Ferrari
+21,2,1,2001,2001-04-01,Brazilian,McLaren
+8,3,0,2001,2001-04-01,Brazilian,Alfa Romeo
+7,4,0,2001,2001-04-01,Brazilian,Aston Martin
+2,6,0,2001,2001-04-01,Brazilian,Williams
+1,7,0,2001,2001-04-01,Brazilian,Alpine F1 Team
+0,11,0,2001,2001-04-01,Brazilian,AlphaTauri
+40,1,2,2001,2001-04-15,San Marino,Ferrari
+30,2,1,2001,2001-04-15,San Marino,McLaren
+12,3,1,2001,2001-04-15,San Marino,Williams
+10,4,0,2001,2001-04-15,San Marino,Aston Martin
+8,5,0,2001,2001-04-15,San Marino,Alfa Romeo
+1,7,0,2001,2001-04-15,San Marino,Alpine F1 Team
+0,11,0,2001,2001-04-15,San Marino,AlphaTauri
+50,1,3,2001,2001-04-29,Spanish,Ferrari
+32,2,1,2001,2001-04-29,Spanish,McLaren
+18,3,1,2001,2001-04-29,Spanish,Williams
+13,4,0,2001,2001-04-29,Spanish,Aston Martin
+9,5,0,2001,2001-04-29,Spanish,Alfa Romeo
+1,7,0,2001,2001-04-29,Spanish,Alpine F1 Team
+0,11,0,2001,2001-04-29,Spanish,AlphaTauri
+60,1,3,2001,2001-05-13,Austrian,Ferrari
+42,2,2,2001,2001-05-13,Austrian,McLaren
+18,3,1,2001,2001-05-13,Austrian,Williams
+13,4,0,2001,2001-05-13,Austrian,Aston Martin
+12,5,0,2001,2001-05-13,Austrian,Alfa Romeo
+1,8,0,2001,2001-05-13,Austrian,Alpine F1 Team
+0,11,0,2001,2001-05-13,Austrian,AlphaTauri
+76,1,4,2001,2001-05-27,Monaco,Ferrari
+44,2,2,2001,2001-05-27,Monaco,McLaren
+18,3,1,2001,2001-05-27,Monaco,Williams
+13,4,0,2001,2001-05-27,Monaco,Aston Martin
+12,6,0,2001,2001-05-27,Monaco,Alfa Romeo
+1,9,0,2001,2001-05-27,Monaco,Alpine F1 Team
+0,11,0,2001,2001-05-27,Monaco,AlphaTauri
+82,1,4,2001,2001-06-10,Canadian,Ferrari
+48,2,2,2001,2001-06-10,Canadian,McLaren
+28,3,2,2001,2001-06-10,Canadian,Williams
+15,4,0,2001,2001-06-10,Canadian,Alfa Romeo
+13,5,0,2001,2001-06-10,Canadian,Aston Martin
+1,10,0,2001,2001-06-10,Canadian,Alpine F1 Team
+0,11,0,2001,2001-06-10,Canadian,AlphaTauri
+94,1,5,2001,2001-06-24,European,Ferrari
+53,2,2,2001,2001-06-24,European,McLaren
+37,3,2,2001,2001-06-24,European,Williams
+15,4,0,2001,2001-06-24,European,Alfa Romeo
+13,5,0,2001,2001-06-24,European,Aston Martin
+1,10,0,2001,2001-06-24,European,Alpine F1 Team
+0,11,0,2001,2001-06-24,European,AlphaTauri
+108,1,6,2001,2001-07-01,French,Ferrari
+56,2,2,2001,2001-07-01,French,McLaren
+43,3,2,2001,2001-07-01,French,Williams
+16,4,0,2001,2001-07-01,French,Alfa Romeo
+15,5,0,2001,2001-07-01,French,Aston Martin
+1,10,0,2001,2001-07-01,French,Alpine F1 Team
+0,11,0,2001,2001-07-01,French,AlphaTauri
+118,1,6,2001,2001-07-15,British,Ferrari
+66,2,3,2001,2001-07-15,British,McLaren
+46,3,2,2001,2001-07-15,British,Williams
+19,4,0,2001,2001-07-15,British,Alfa Romeo
+15,5,0,2001,2001-07-15,British,Aston Martin
+1,10,0,2001,2001-07-15,British,Alpine F1 Team
+0,11,0,2001,2001-07-15,British,AlphaTauri
+124,1,6,2001,2001-07-29,German,Ferrari
+66,2,3,2001,2001-07-29,German,McLaren
+56,3,3,2001,2001-07-29,German,Williams
+19,4,0,2001,2001-07-29,German,Alfa Romeo
+15,6,0,2001,2001-07-29,German,Aston Martin
+6,7,0,2001,2001-07-29,German,Alpine F1 Team
+0,11,0,2001,2001-07-29,German,AlphaTauri
+140,1,7,2001,2001-08-19,Hungarian,Ferrari
+72,2,3,2001,2001-08-19,Hungarian,McLaren
+59,3,3,2001,2001-08-19,Hungarian,Williams
+20,4,0,2001,2001-08-19,Hungarian,Alfa Romeo
+15,6,0,2001,2001-08-19,Hungarian,Aston Martin
+6,7,0,2001,2001-08-19,Hungarian,Alpine F1 Team
+0,11,0,2001,2001-08-19,Hungarian,AlphaTauri
+152,1,8,2001,2001-09-02,Belgian,Ferrari
+81,2,3,2001,2001-09-02,Belgian,McLaren
+59,3,3,2001,2001-09-02,Belgian,Williams
+20,4,0,2001,2001-09-02,Belgian,Alfa Romeo
+16,6,0,2001,2001-09-02,Belgian,Aston Martin
+10,7,0,2001,2001-09-02,Belgian,Alpine F1 Team
+0,11,0,2001,2001-09-02,Belgian,AlphaTauri
+161,1,8,2001,2001-09-16,Italian,Ferrari
+81,2,3,2001,2001-09-16,Italian,McLaren
+73,3,4,2001,2001-09-16,Italian,Williams
+20,4,0,2001,2001-09-16,Italian,Alfa Romeo
+16,6,0,2001,2001-09-16,Italian,Aston Martin
+10,7,0,2001,2001-09-16,Italian,Alpine F1 Team
+0,11,0,2001,2001-09-16,Italian,AlphaTauri
+167,1,8,2001,2001-09-30,United States,Ferrari
+95,2,4,2001,2001-09-30,United States,McLaren
+73,3,4,2001,2001-09-30,United States,Williams
+21,4,0,2001,2001-09-30,United States,Alfa Romeo
+19,5,0,2001,2001-09-30,United States,Aston Martin
+10,7,0,2001,2001-09-30,United States,Alpine F1 Team
+0,11,0,2001,2001-09-30,United States,AlphaTauri
+179,1,9,2001,2001-10-14,Japanese,Ferrari
+102,2,4,2001,2001-10-14,Japanese,McLaren
+80,3,4,2001,2001-10-14,Japanese,Williams
+21,4,0,2001,2001-10-14,Japanese,Alfa Romeo
+19,5,0,2001,2001-10-14,Japanese,Aston Martin
+10,7,0,2001,2001-10-14,Japanese,Alpine F1 Team
+0,11,0,2001,2001-10-14,Japanese,AlphaTauri
+10,1,1,2002,2002-03-03,Australian,Ferrari
+6,2,0,2002,2002-03-03,Australian,Williams
+4,3,0,2002,2002-03-03,Australian,McLaren
+2,5,0,2002,2002-03-03,Australian,AlphaTauri
+22,1,1,2002,2002-03-17,Malaysian,Williams
+14,2,1,2002,2002-03-17,Malaysian,Ferrari
+4,3,0,2002,2002-03-17,Malaysian,McLaren
+3,5,0,2002,2002-03-17,Malaysian,Alpine F1 Team
+3,6,0,2002,2002-03-17,Malaysian,Alfa Romeo
+2,7,0,2002,2002-03-17,Malaysian,AlphaTauri
+0,10,0,2002,2002-03-17,Malaysian,Aston Martin
+30,1,1,2002,2002-03-31,Brazilian,Williams
+24,2,2,2002,2002-03-31,Brazilian,Ferrari
+8,3,0,2002,2002-03-31,Brazilian,McLaren
+6,4,0,2002,2002-03-31,Brazilian,Alpine F1 Team
+3,6,0,2002,2002-03-31,Brazilian,Alfa Romeo
+2,7,0,2002,2002-03-31,Brazilian,AlphaTauri
+0,10,0,2002,2002-03-31,Brazilian,Aston Martin
+40,1,3,2002,2002-04-14,San Marino,Ferrari
+37,2,1,2002,2002-04-14,San Marino,Williams
+9,3,0,2002,2002-04-14,San Marino,McLaren
+8,4,0,2002,2002-04-14,San Marino,Alpine F1 Team
+3,6,0,2002,2002-04-14,San Marino,Alfa Romeo
+2,7,0,2002,2002-04-14,San Marino,AlphaTauri
+0,10,0,2002,2002-04-14,San Marino,Aston Martin
+50,1,4,2002,2002-04-28,Spanish,Ferrari
+43,2,1,2002,2002-04-28,Spanish,Williams
+13,3,0,2002,2002-04-28,Spanish,McLaren
+8,4,0,2002,2002-04-28,Spanish,Alpine F1 Team
+8,5,0,2002,2002-04-28,Spanish,Alfa Romeo
+2,7,0,2002,2002-04-28,Spanish,AlphaTauri
+0,11,0,2002,2002-04-28,Spanish,Aston Martin
+66,1,5,2002,2002-05-12,Austrian,Ferrari
+50,2,1,2002,2002-05-12,Austrian,Williams
+14,3,0,2002,2002-05-12,Austrian,McLaren
+8,4,0,2002,2002-05-12,Austrian,Alpine F1 Team
+8,5,0,2002,2002-05-12,Austrian,Alfa Romeo
+2,7,0,2002,2002-05-12,Austrian,AlphaTauri
+2,8,0,2002,2002-05-12,Austrian,Aston Martin
+72,1,5,2002,2002-05-26,Monaco,Ferrari
+54,2,1,2002,2002-05-26,Monaco,Williams
+24,3,1,2002,2002-05-26,Monaco,McLaren
+11,4,0,2002,2002-05-26,Monaco,Alpine F1 Team
+8,5,0,2002,2002-05-26,Monaco,Alfa Romeo
+4,6,0,2002,2002-05-26,Monaco,Aston Martin
+2,8,0,2002,2002-05-26,Monaco,AlphaTauri
+86,1,6,2002,2002-06-09,Canadian,Ferrari
+54,2,1,2002,2002-06-09,Canadian,Williams
+33,3,1,2002,2002-06-09,Canadian,McLaren
+12,4,0,2002,2002-06-09,Canadian,Alpine F1 Team
+8,5,0,2002,2002-06-09,Canadian,Alfa Romeo
+6,6,0,2002,2002-06-09,Canadian,Aston Martin
+2,8,0,2002,2002-06-09,Canadian,AlphaTauri
+102,1,7,2002,2002-06-23,European,Ferrari
+57,2,1,2002,2002-06-23,European,Williams
+37,3,1,2002,2002-06-23,European,McLaren
+14,4,0,2002,2002-06-23,European,Alpine F1 Team
+9,5,0,2002,2002-06-23,European,Alfa Romeo
+6,6,0,2002,2002-06-23,European,Aston Martin
+2,8,0,2002,2002-06-23,European,AlphaTauri
+118,1,8,2002,2002-07-07,British,Ferrari
+61,2,1,2002,2002-07-07,British,Williams
+37,3,1,2002,2002-07-07,British,McLaren
+14,4,0,2002,2002-07-07,British,Alpine F1 Team
+10,5,0,2002,2002-07-07,British,Alfa Romeo
+6,6,0,2002,2002-07-07,British,Aston Martin
+2,9,0,2002,2002-07-07,British,AlphaTauri
+128,1,9,2002,2002-07-21,French,Ferrari
+66,2,1,2002,2002-07-21,French,Williams
+47,3,1,2002,2002-07-21,French,McLaren
+15,4,0,2002,2002-07-21,French,Alpine F1 Team
+10,5,0,2002,2002-07-21,French,Alfa Romeo
+6,6,0,2002,2002-07-21,French,Aston Martin
+2,9,0,2002,2002-07-21,French,AlphaTauri
+141,1,10,2002,2002-07-28,German,Ferrari
+76,2,1,2002,2002-07-28,German,Williams
+49,3,1,2002,2002-07-28,German,McLaren
+15,4,0,2002,2002-07-28,German,Alpine F1 Team
+11,5,0,2002,2002-07-28,German,Alfa Romeo
+6,6,0,2002,2002-07-28,German,Aston Martin
+2,9,0,2002,2002-07-28,German,AlphaTauri
+157,1,11,2002,2002-08-18,Hungarian,Ferrari
+80,2,1,2002,2002-08-18,Hungarian,Williams
+54,3,1,2002,2002-08-18,Hungarian,McLaren
+15,4,0,2002,2002-08-18,Hungarian,Alpine F1 Team
+11,5,0,2002,2002-08-18,Hungarian,Alfa Romeo
+7,6,0,2002,2002-08-18,Hungarian,Aston Martin
+2,9,0,2002,2002-08-18,Hungarian,AlphaTauri
+173,1,12,2002,2002-09-01,Belgian,Ferrari
+86,2,1,2002,2002-09-01,Belgian,Williams
+57,3,1,2002,2002-09-01,Belgian,McLaren
+15,4,0,2002,2002-09-01,Belgian,Alpine F1 Team
+11,5,0,2002,2002-09-01,Belgian,Alfa Romeo
+7,6,0,2002,2002-09-01,Belgian,Aston Martin
+2,9,0,2002,2002-09-01,Belgian,AlphaTauri
+189,1,13,2002,2002-09-15,Italian,Ferrari
+86,2,1,2002,2002-09-15,Italian,Williams
+57,3,1,2002,2002-09-15,Italian,McLaren
+20,4,0,2002,2002-09-15,Italian,Alpine F1 Team
+11,5,0,2002,2002-09-15,Italian,Alfa Romeo
+7,7,0,2002,2002-09-15,Italian,Aston Martin
+2,9,0,2002,2002-09-15,Italian,AlphaTauri
+205,1,14,2002,2002-09-29,United States,Ferrari
+89,2,1,2002,2002-09-29,United States,Williams
+61,3,1,2002,2002-09-29,United States,McLaren
+22,4,0,2002,2002-09-29,United States,Alpine F1 Team
+11,5,0,2002,2002-09-29,United States,Alfa Romeo
+7,8,0,2002,2002-09-29,United States,Aston Martin
+2,9,0,2002,2002-09-29,United States,AlphaTauri
+221,1,15,2002,2002-10-13,Japanese,Ferrari
+92,2,1,2002,2002-10-13,Japanese,Williams
+65,3,1,2002,2002-10-13,Japanese,McLaren
+23,4,0,2002,2002-10-13,Japanese,Alpine F1 Team
+11,5,0,2002,2002-10-13,Japanese,Alfa Romeo
+9,6,0,2002,2002-10-13,Japanese,Aston Martin
+2,9,0,2002,2002-10-13,Japanese,AlphaTauri
+16,1,1,2003,2003-03-09,Australian,McLaren
+9,2,0,2003,2003-03-09,Australian,Williams
+6,3,0,2003,2003-03-09,Australian,Alpine F1 Team
+5,4,0,2003,2003-03-09,Australian,Ferrari
+3,5,0,2003,2003-03-09,Australian,Alfa Romeo
+0,7,0,2003,2003-03-09,Australian,AlphaTauri
+26,1,2,2003,2003-03-23,Malaysian,McLaren
+16,2,0,2003,2003-03-23,Malaysian,Ferrari
+16,3,0,2003,2003-03-23,Malaysian,Alpine F1 Team
+14,4,0,2003,2003-03-23,Malaysian,Williams
+4,5,0,2003,2003-03-23,Malaysian,Alfa Romeo
+0,7,0,2003,2003-03-23,Malaysian,Aston Martin
+0,8,0,2003,2003-03-23,Malaysian,AlphaTauri
+39,1,2,2003,2003-04-06,Brazilian,McLaren
+23,2,0,2003,2003-04-06,Brazilian,Alpine F1 Team
+16,3,0,2003,2003-04-06,Brazilian,Ferrari
+16,4,0,2003,2003-04-06,Brazilian,Williams
+10,5,1,2003,2003-04-06,Brazilian,Aston Martin
+8,6,0,2003,2003-04-06,Brazilian,Alfa Romeo
+0,10,0,2003,2003-04-06,Brazilian,AlphaTauri
+51,1,2,2003,2003-04-20,San Marino,McLaren
+32,2,1,2003,2003-04-20,San Marino,Ferrari
+26,3,0,2003,2003-04-20,San Marino,Alpine F1 Team
+23,4,0,2003,2003-04-20,San Marino,Williams
+10,5,1,2003,2003-04-20,San Marino,Aston Martin
+8,6,0,2003,2003-04-20,San Marino,Alfa Romeo
+0,10,0,2003,2003-04-20,San Marino,AlphaTauri
+51,1,2,2003,2003-05-04,Spanish,McLaren
+48,2,2,2003,2003-05-04,Spanish,Ferrari
+34,3,0,2003,2003-05-04,Spanish,Alpine F1 Team
+32,4,0,2003,2003-05-04,Spanish,Williams
+11,5,1,2003,2003-05-04,Spanish,Aston Martin
+8,6,0,2003,2003-05-04,Spanish,Alfa Romeo
+0,10,0,2003,2003-05-04,Spanish,AlphaTauri
+64,1,3,2003,2003-05-18,Austrian,Ferrari
+63,2,2,2003,2003-05-18,Austrian,McLaren
+35,3,0,2003,2003-05-18,Austrian,Alpine F1 Team
+35,4,0,2003,2003-05-18,Austrian,Williams
+11,5,1,2003,2003-05-18,Austrian,Aston Martin
+8,7,0,2003,2003-05-18,Austrian,Alfa Romeo
+0,10,0,2003,2003-05-18,Austrian,AlphaTauri
+73,1,2,2003,2003-06-01,Monaco,McLaren
+71,2,3,2003,2003-06-01,Monaco,Ferrari
+50,3,1,2003,2003-06-01,Monaco,Williams
+42,4,0,2003,2003-06-01,Monaco,Alpine F1 Team
+11,5,1,2003,2003-06-01,Monaco,Aston Martin
+8,7,0,2003,2003-06-01,Monaco,Alfa Romeo
+0,10,0,2003,2003-06-01,Monaco,AlphaTauri
+85,1,4,2003,2003-06-15,Canadian,Ferrari
+76,2,2,2003,2003-06-15,Canadian,McLaren
+64,3,1,2003,2003-06-15,Canadian,Williams
+47,4,0,2003,2003-06-15,Canadian,Alpine F1 Team
+11,5,1,2003,2003-06-15,Canadian,Aston Martin
+8,7,0,2003,2003-06-15,Canadian,Alfa Romeo
+0,10,0,2003,2003-06-15,Canadian,AlphaTauri
+95,1,4,2003,2003-06-29,European,Ferrari
+82,2,2,2003,2003-06-29,European,Williams
+76,3,2,2003,2003-06-29,European,McLaren
+52,4,0,2003,2003-06-29,European,Alpine F1 Team
+11,6,1,2003,2003-06-29,European,Aston Martin
+9,7,0,2003,2003-06-29,European,Alfa Romeo
+0,10,0,2003,2003-06-29,European,AlphaTauri
+103,1,4,2003,2003-07-06,French,Ferrari
+100,2,3,2003,2003-07-06,French,Williams
+85,3,2,2003,2003-07-06,French,McLaren
+52,4,0,2003,2003-07-06,French,Alpine F1 Team
+11,7,1,2003,2003-07-06,French,Aston Martin
+9,8,0,2003,2003-07-06,French,Alfa Romeo
+0,10,0,2003,2003-07-06,French,AlphaTauri
+118,1,5,2003,2003-07-20,British,Ferrari
+108,2,3,2003,2003-07-20,British,Williams
+95,3,2,2003,2003-07-20,British,McLaren
+55,4,0,2003,2003-07-20,British,Alpine F1 Team
+11,7,1,2003,2003-07-20,British,Aston Martin
+9,8,0,2003,2003-07-20,British,Alfa Romeo
+0,10,0,2003,2003-07-20,British,AlphaTauri
+120,1,5,2003,2003-08-03,German,Ferrari
+118,2,4,2003,2003-08-03,German,Williams
+103,3,2,2003,2003-08-03,German,McLaren
+66,4,0,2003,2003-08-03,German,Alpine F1 Team
+11,8,1,2003,2003-08-03,German,Aston Martin
+9,9,0,2003,2003-08-03,German,Alfa Romeo
+0,10,0,2003,2003-08-03,German,AlphaTauri
+129,1,4,2003,2003-08-24,Hungarian,Williams
+121,2,5,2003,2003-08-24,Hungarian,Ferrari
+115,3,2,2003,2003-08-24,Hungarian,McLaren
+78,4,1,2003,2003-08-24,Hungarian,Alpine F1 Team
+11,8,1,2003,2003-08-24,Hungarian,Aston Martin
+9,9,0,2003,2003-08-24,Hungarian,Alfa Romeo
+0,10,0,2003,2003-08-24,Hungarian,AlphaTauri
+141,1,4,2003,2003-09-14,Italian,Williams
+137,2,6,2003,2003-09-14,Italian,Ferrari
+120,3,2,2003,2003-09-14,Italian,McLaren
+79,4,1,2003,2003-09-14,Italian,Alpine F1 Team
+11,8,1,2003,2003-09-14,Italian,Aston Martin
+9,9,0,2003,2003-09-14,Italian,Alfa Romeo
+0,10,0,2003,2003-09-14,Italian,AlphaTauri
+147,1,7,2003,2003-09-28,United States,Ferrari
+144,2,4,2003,2003-09-28,United States,Williams
+128,3,2,2003,2003-09-28,United States,McLaren
+84,4,1,2003,2003-09-28,United States,Alpine F1 Team
+19,5,0,2003,2003-09-28,United States,Alfa Romeo
+13,9,1,2003,2003-09-28,United States,Aston Martin
+0,10,0,2003,2003-09-28,United States,AlphaTauri
+158,1,8,2003,2003-10-12,Japanese,Ferrari
+144,2,4,2003,2003-10-12,Japanese,Williams
+142,3,2,2003,2003-10-12,Japanese,McLaren
+88,4,1,2003,2003-10-12,Japanese,Alpine F1 Team
+19,6,0,2003,2003-10-12,Japanese,Alfa Romeo
+13,9,1,2003,2003-10-12,Japanese,Aston Martin
+0,10,0,2003,2003-10-12,Japanese,AlphaTauri
+18,1,1,2004,2004-03-07,Australian,Ferrari
+9,2,0,2004,2004-03-07,Australian,Williams
+8,3,0,2004,2004-03-07,Australian,Alpine F1 Team
+1,5,0,2004,2004-03-07,Australian,McLaren
+0,6,0,2004,2004-03-07,Australian,Alfa Romeo
+0,9,0,2004,2004-03-07,Australian,Aston Martin
+33,1,2,2004,2004-03-21,Malaysian,Ferrari
+17,2,0,2004,2004-03-21,Malaysian,Williams
+14,3,0,2004,2004-03-21,Malaysian,Alpine F1 Team
+4,5,0,2004,2004-03-21,Malaysian,McLaren
+1,6,0,2004,2004-03-21,Malaysian,Alfa Romeo
+0,9,0,2004,2004-03-21,Malaysian,Aston Martin
+0,10,0,2004,2004-03-21,Malaysian,AlphaTauri
+51,1,3,2004,2004-04-04,Bahrain,Ferrari
+22,2,0,2004,2004-04-04,Bahrain,Alpine F1 Team
+19,3,0,2004,2004-04-04,Bahrain,Williams
+4,5,0,2004,2004-04-04,Bahrain,McLaren
+1,6,0,2004,2004-04-04,Bahrain,Alfa Romeo
+0,9,0,2004,2004-04-04,Bahrain,Aston Martin
+0,10,0,2004,2004-04-04,Bahrain,AlphaTauri
+64,1,4,2004,2004-04-25,San Marino,Ferrari
+31,2,0,2004,2004-04-25,San Marino,Alpine F1 Team
+27,4,0,2004,2004-04-25,San Marino,Williams
+5,5,0,2004,2004-04-25,San Marino,McLaren
+1,6,0,2004,2004-04-25,San Marino,Alfa Romeo
+0,9,0,2004,2004-04-25,San Marino,Aston Martin
+0,10,0,2004,2004-04-25,San Marino,AlphaTauri
+82,1,5,2004,2004-05-09,Spanish,Ferrari
+42,2,0,2004,2004-05-09,Spanish,Alpine F1 Team
+30,4,0,2004,2004-05-09,Spanish,Williams
+5,5,0,2004,2004-05-09,Spanish,McLaren
+3,6,0,2004,2004-05-09,Spanish,Alfa Romeo
+0,9,0,2004,2004-05-09,Spanish,Aston Martin
+0,10,0,2004,2004-05-09,Spanish,AlphaTauri
+88,1,5,2004,2004-05-23,Monaco,Ferrari
+52,2,1,2004,2004-05-23,Monaco,Alpine F1 Team
+35,4,0,2004,2004-05-23,Monaco,Williams
+7,5,0,2004,2004-05-23,Monaco,Alfa Romeo
+5,6,0,2004,2004-05-23,Monaco,McLaren
+2,8,0,2004,2004-05-23,Monaco,Aston Martin
+0,10,0,2004,2004-05-23,Monaco,AlphaTauri
+106,1,6,2004,2004-05-30,European,Ferrari
+61,2,1,2004,2004-05-30,European,Alpine F1 Team
+36,4,0,2004,2004-05-30,European,Williams
+10,5,0,2004,2004-05-30,European,Alfa Romeo
+5,6,0,2004,2004-05-30,European,McLaren
+2,9,0,2004,2004-05-30,European,Aston Martin
+0,10,0,2004,2004-05-30,European,AlphaTauri
+124,1,7,2004,2004-06-13,Canadian,Ferrari
+61,2,1,2004,2004-06-13,Canadian,Alpine F1 Team
+36,4,0,2004,2004-06-13,Canadian,Williams
+15,5,0,2004,2004-06-13,Canadian,Alfa Romeo
+12,6,0,2004,2004-06-13,Canadian,McLaren
+5,7,0,2004,2004-06-13,Canadian,Aston Martin
+0,10,0,2004,2004-06-13,Canadian,AlphaTauri
+142,1,8,2004,2004-06-20,United States,Ferrari
+66,2,1,2004,2004-06-20,United States,Alpine F1 Team
+36,4,0,2004,2004-06-20,United States,Williams
+17,5,0,2004,2004-06-20,United States,McLaren
+15,6,0,2004,2004-06-20,United States,Alfa Romeo
+5,8,0,2004,2004-06-20,United States,Aston Martin
+1,10,0,2004,2004-06-20,United States,AlphaTauri
+158,1,9,2004,2004-07-04,French,Ferrari
+79,2,1,2004,2004-07-04,French,Alpine F1 Team
+37,4,0,2004,2004-07-04,French,Williams
+22,5,0,2004,2004-07-04,French,McLaren
+15,6,0,2004,2004-07-04,French,Alfa Romeo
+5,8,0,2004,2004-07-04,French,Aston Martin
+1,10,0,2004,2004-07-04,French,AlphaTauri
+174,1,10,2004,2004-07-11,British,Ferrari
+79,2,1,2004,2004-07-11,British,Alpine F1 Team
+41,4,0,2004,2004-07-11,British,Williams
+32,5,0,2004,2004-07-11,British,McLaren
+18,6,0,2004,2004-07-11,British,Alfa Romeo
+5,8,0,2004,2004-07-11,British,Aston Martin
+1,10,0,2004,2004-07-11,British,AlphaTauri
+184,1,11,2004,2004-07-25,German,Ferrari
+85,2,1,2004,2004-07-25,German,Alpine F1 Team
+47,4,0,2004,2004-07-25,German,Williams
+37,5,0,2004,2004-07-25,German,McLaren
+18,6,0,2004,2004-07-25,German,Alfa Romeo
+5,9,0,2004,2004-07-25,German,Aston Martin
+1,10,0,2004,2004-07-25,German,AlphaTauri
+202,1,12,2004,2004-08-15,Hungarian,Ferrari
+91,2,1,2004,2004-08-15,Hungarian,Alpine F1 Team
+54,4,0,2004,2004-08-15,Hungarian,Williams
+37,5,0,2004,2004-08-15,Hungarian,McLaren
+19,6,0,2004,2004-08-15,Hungarian,Alfa Romeo
+5,9,0,2004,2004-08-15,Hungarian,Aston Martin
+1,10,0,2004,2004-08-15,Hungarian,AlphaTauri
+216,1,12,2004,2004-08-29,Belgian,Ferrari
+91,2,1,2004,2004-08-29,Belgian,Alpine F1 Team
+54,4,0,2004,2004-08-29,Belgian,Williams
+49,5,1,2004,2004-08-29,Belgian,McLaren
+28,6,0,2004,2004-08-29,Belgian,Alfa Romeo
+5,9,0,2004,2004-08-29,Belgian,Aston Martin
+1,10,0,2004,2004-08-29,Belgian,AlphaTauri
+234,1,13,2004,2004-09-12,Italian,Ferrari
+91,3,1,2004,2004-09-12,Italian,Alpine F1 Team
+60,4,0,2004,2004-09-12,Italian,Williams
+52,5,1,2004,2004-09-12,Italian,McLaren
+29,6,0,2004,2004-09-12,Italian,Alfa Romeo
+5,9,0,2004,2004-09-12,Italian,Aston Martin
+1,10,0,2004,2004-09-12,Italian,AlphaTauri
+244,1,14,2004,2004-09-26,Chinese,Ferrari
+96,3,1,2004,2004-09-26,Chinese,Alpine F1 Team
+64,4,0,2004,2004-09-26,Chinese,Williams
+58,5,1,2004,2004-09-26,Chinese,McLaren
+32,6,0,2004,2004-09-26,Chinese,Alfa Romeo
+5,9,0,2004,2004-09-26,Chinese,Aston Martin
+1,10,0,2004,2004-09-26,Chinese,AlphaTauri
+254,1,15,2004,2004-10-10,Japanese,Ferrari
+100,3,1,2004,2004-10-10,Japanese,Alpine F1 Team
+74,4,0,2004,2004-10-10,Japanese,Williams
+61,5,1,2004,2004-10-10,Japanese,McLaren
+33,6,0,2004,2004-10-10,Japanese,Alfa Romeo
+5,9,0,2004,2004-10-10,Japanese,Aston Martin
+1,10,0,2004,2004-10-10,Japanese,AlphaTauri
+262,1,15,2004,2004-10-24,Brazilian,Ferrari
+105,3,1,2004,2004-10-24,Brazilian,Alpine F1 Team
+88,4,1,2004,2004-10-24,Brazilian,Williams
+69,5,1,2004,2004-10-24,Brazilian,McLaren
+34,6,0,2004,2004-10-24,Brazilian,Alfa Romeo
+5,9,0,2004,2004-10-24,Brazilian,Aston Martin
+1,10,0,2004,2004-10-24,Brazilian,AlphaTauri
+16,1,1,2005,2005-03-06,Australian,Alpine F1 Team
+8,2,0,2005,2005-03-06,Australian,Ferrari
+7,3,0,2005,2005-03-06,Australian,Red Bull
+4,4,0,2005,2005-03-06,Australian,Williams
+4,5,0,2005,2005-03-06,Australian,McLaren
+0,7,0,2005,2005-03-06,Australian,Alfa Romeo
+0,8,0,2005,2005-03-06,Australian,Aston Martin
+0,9,0,2005,2005-03-06,Australian,AlphaTauri
+26,1,2,2005,2005-03-20,Malaysian,Alpine F1 Team
+11,3,0,2005,2005-03-20,Malaysian,Red Bull
+10,4,0,2005,2005-03-20,Malaysian,Ferrari
+10,5,0,2005,2005-03-20,Malaysian,Williams
+9,6,0,2005,2005-03-20,Malaysian,McLaren
+0,7,0,2005,2005-03-20,Malaysian,Alfa Romeo
+0,8,0,2005,2005-03-20,Malaysian,Aston Martin
+0,9,0,2005,2005-03-20,Malaysian,AlphaTauri
+36,1,3,2005,2005-04-03,Bahrain,Alpine F1 Team
+19,3,0,2005,2005-04-03,Bahrain,McLaren
+13,4,0,2005,2005-04-03,Bahrain,Williams
+12,5,0,2005,2005-04-03,Bahrain,Red Bull
+10,6,0,2005,2005-04-03,Bahrain,Ferrari
+2,7,0,2005,2005-04-03,Bahrain,Alfa Romeo
+0,8,0,2005,2005-04-03,Bahrain,Aston Martin
+0,9,0,2005,2005-04-03,Bahrain,AlphaTauri
+46,1,4,2005,2005-04-24,San Marino,Alpine F1 Team
+25,3,0,2005,2005-04-24,San Marino,McLaren
+18,4,0,2005,2005-04-24,San Marino,Ferrari
+18,5,0,2005,2005-04-24,San Marino,Williams
+13,6,0,2005,2005-04-24,San Marino,Red Bull
+7,7,0,2005,2005-04-24,San Marino,Alfa Romeo
+0,8,0,2005,2005-04-24,San Marino,Aston Martin
+0,9,0,2005,2005-04-24,San Marino,AlphaTauri
+58,1,4,2005,2005-05-08,Spanish,Alpine F1 Team
+37,3,1,2005,2005-05-08,Spanish,McLaren
+21,4,0,2005,2005-05-08,Spanish,Williams
+18,5,0,2005,2005-05-08,Spanish,Ferrari
+14,6,0,2005,2005-05-08,Spanish,Red Bull
+7,7,0,2005,2005-05-08,Spanish,Alfa Romeo
+0,8,0,2005,2005-05-08,Spanish,Aston Martin
+0,9,0,2005,2005-05-08,Spanish,AlphaTauri
+63,1,4,2005,2005-05-22,Monaco,Alpine F1 Team
+51,2,2,2005,2005-05-22,Monaco,McLaren
+35,4,0,2005,2005-05-22,Monaco,Williams
+21,5,0,2005,2005-05-22,Monaco,Ferrari
+14,6,0,2005,2005-05-22,Monaco,Red Bull
+7,7,0,2005,2005-05-22,Monaco,Alfa Romeo
+0,8,0,2005,2005-05-22,Monaco,Aston Martin
+0,9,0,2005,2005-05-22,Monaco,AlphaTauri
+76,1,5,2005,2005-05-29,European,Alpine F1 Team
+53,2,2,2005,2005-05-29,European,McLaren
+43,4,0,2005,2005-05-29,European,Williams
+31,5,0,2005,2005-05-29,European,Ferrari
+19,6,0,2005,2005-05-29,European,Red Bull
+7,7,0,2005,2005-05-29,European,Alfa Romeo
+0,8,0,2005,2005-05-29,European,Aston Martin
+0,10,0,2005,2005-05-29,European,AlphaTauri
+76,1,5,2005,2005-06-12,Canadian,Alpine F1 Team
+63,2,3,2005,2005-06-12,Canadian,McLaren
+47,3,0,2005,2005-06-12,Canadian,Williams
+45,5,0,2005,2005-06-12,Canadian,Ferrari
+22,6,0,2005,2005-06-12,Canadian,Red Bull
+12,7,0,2005,2005-06-12,Canadian,Alfa Romeo
+0,8,0,2005,2005-06-12,Canadian,Aston Martin
+0,10,0,2005,2005-06-12,Canadian,AlphaTauri
+76,1,5,2005,2005-06-19,United States,Alpine F1 Team
+63,2,3,2005,2005-06-19,United States,McLaren
+63,3,1,2005,2005-06-19,United States,Ferrari
+47,4,0,2005,2005-06-19,United States,Williams
+22,6,0,2005,2005-06-19,United States,Red Bull
+12,7,0,2005,2005-06-19,United States,Alfa Romeo
+11,8,0,2005,2005-06-19,United States,Aston Martin
+7,9,0,2005,2005-06-19,United States,AlphaTauri
+89,1,6,2005,2005-07-03,French,Alpine F1 Team
+71,2,3,2005,2005-07-03,French,McLaren
+69,3,1,2005,2005-07-03,French,Ferrari
+47,5,0,2005,2005-07-03,French,Williams
+22,6,0,2005,2005-07-03,French,Red Bull
+13,7,0,2005,2005-07-03,French,Alfa Romeo
+11,8,0,2005,2005-07-03,French,Aston Martin
+7,9,0,2005,2005-07-03,French,AlphaTauri
+102,1,6,2005,2005-07-10,British,Alpine F1 Team
+87,2,4,2005,2005-07-10,British,McLaren
+74,3,1,2005,2005-07-10,British,Ferrari
+47,5,0,2005,2005-07-10,British,Williams
+22,6,0,2005,2005-07-10,British,Red Bull
+13,7,0,2005,2005-07-10,British,Alfa Romeo
+11,8,0,2005,2005-07-10,British,Aston Martin
+7,10,0,2005,2005-07-10,British,AlphaTauri
+117,1,7,2005,2005-07-24,German,Alpine F1 Team
+95,2,4,2005,2005-07-24,German,McLaren
+78,3,1,2005,2005-07-24,German,Ferrari
+47,5,0,2005,2005-07-24,German,Williams
+24,6,0,2005,2005-07-24,German,Red Bull
+14,8,0,2005,2005-07-24,German,Alfa Romeo
+11,9,0,2005,2005-07-24,German,Aston Martin
+7,10,0,2005,2005-07-24,German,AlphaTauri
+117,1,7,2005,2005-07-31,Hungarian,Alpine F1 Team
+105,2,5,2005,2005-07-31,Hungarian,McLaren
+86,3,1,2005,2005-07-31,Hungarian,Ferrari
+52,5,0,2005,2005-07-31,Hungarian,Williams
+24,6,0,2005,2005-07-31,Hungarian,Red Bull
+14,8,0,2005,2005-07-31,Hungarian,Alfa Romeo
+11,9,0,2005,2005-07-31,Hungarian,Aston Martin
+7,10,0,2005,2005-07-31,Hungarian,AlphaTauri
+130,1,7,2005,2005-08-21,Turkish,Alpine F1 Team
+121,2,6,2005,2005-08-21,Turkish,McLaren
+86,3,1,2005,2005-08-21,Turkish,Ferrari
+52,5,0,2005,2005-08-21,Turkish,Williams
+27,6,0,2005,2005-08-21,Turkish,Red Bull
+14,8,0,2005,2005-08-21,Turkish,Alfa Romeo
+11,9,0,2005,2005-08-21,Turkish,Aston Martin
+7,10,0,2005,2005-08-21,Turkish,AlphaTauri
+144,1,7,2005,2005-09-04,Italian,Alpine F1 Team
+136,2,7,2005,2005-09-04,Italian,McLaren
+86,3,1,2005,2005-09-04,Italian,Ferrari
+54,5,0,2005,2005-09-04,Italian,Williams
+27,6,0,2005,2005-09-04,Italian,Red Bull
+14,8,0,2005,2005-09-04,Italian,Alfa Romeo
+11,9,0,2005,2005-09-04,Italian,Aston Martin
+7,10,0,2005,2005-09-04,Italian,AlphaTauri
+152,1,7,2005,2005-09-11,Belgian,Alpine F1 Team
+146,2,8,2005,2005-09-11,Belgian,McLaren
+90,3,1,2005,2005-09-11,Belgian,Ferrari
+59,5,0,2005,2005-09-11,Belgian,Williams
+27,7,0,2005,2005-09-11,Belgian,Red Bull
+17,8,0,2005,2005-09-11,Belgian,Alfa Romeo
+12,9,0,2005,2005-09-11,Belgian,Aston Martin
+7,10,0,2005,2005-09-11,Belgian,AlphaTauri
+164,1,9,2005,2005-09-25,Brazilian,McLaren
+162,2,7,2005,2005-09-25,Brazilian,Alpine F1 Team
+98,3,1,2005,2005-09-25,Brazilian,Ferrari
+59,5,0,2005,2005-09-25,Brazilian,Williams
+27,7,0,2005,2005-09-25,Brazilian,Red Bull
+17,8,0,2005,2005-09-25,Brazilian,Alfa Romeo
+12,9,0,2005,2005-09-25,Brazilian,Aston Martin
+7,10,0,2005,2005-09-25,Brazilian,AlphaTauri
+176,1,7,2005,2005-10-09,Japanese,Alpine F1 Team
+174,2,10,2005,2005-10-09,Japanese,McLaren
+100,3,1,2005,2005-10-09,Japanese,Ferrari
+64,5,0,2005,2005-10-09,Japanese,Williams
+30,7,0,2005,2005-10-09,Japanese,Red Bull
+17,8,0,2005,2005-10-09,Japanese,Alfa Romeo
+12,9,0,2005,2005-10-09,Japanese,Aston Martin
+7,10,0,2005,2005-10-09,Japanese,AlphaTauri
+191,1,8,2005,2005-10-16,Chinese,Alpine F1 Team
+182,2,10,2005,2005-10-16,Chinese,McLaren
+100,3,1,2005,2005-10-16,Chinese,Ferrari
+66,5,0,2005,2005-10-16,Chinese,Williams
+34,7,0,2005,2005-10-16,Chinese,Red Bull
+20,8,0,2005,2005-10-16,Chinese,Alfa Romeo
+12,9,0,2005,2005-10-16,Chinese,Aston Martin
+7,10,0,2005,2005-10-16,Chinese,AlphaTauri
+10,1,1,2006,2006-03-12,Bahrain,Alpine F1 Team
+10,2,0,2006,2006-03-12,Bahrain,McLaren
+8,3,0,2006,2006-03-12,Bahrain,Ferrari
+5,4,0,2006,2006-03-12,Bahrain,Mercedes
+5,5,0,2006,2006-03-12,Bahrain,Williams
+1,6,0,2006,2006-03-12,Bahrain,Red Bull
+0,7,0,2006,2006-03-12,Bahrain,AlphaTauri
+0,8,0,2006,2006-03-12,Bahrain,Alfa Romeo
+28,1,2,2006,2006-03-19,Malaysian,Alpine F1 Team
+15,2,0,2006,2006-03-19,Malaysian,Ferrari
+15,3,0,2006,2006-03-19,Malaysian,McLaren
+11,4,0,2006,2006-03-19,Malaysian,Mercedes
+5,5,0,2006,2006-03-19,Malaysian,Williams
+2,6,0,2006,2006-03-19,Malaysian,Alfa Romeo
+1,8,0,2006,2006-03-19,Malaysian,Red Bull
+0,9,0,2006,2006-03-19,Malaysian,AlphaTauri
+42,1,3,2006,2006-04-02,Australian,Alpine F1 Team
+23,2,0,2006,2006-04-02,Australian,McLaren
+15,3,0,2006,2006-04-02,Australian,Ferrari
+13,4,0,2006,2006-04-02,Australian,Mercedes
+10,5,0,2006,2006-04-02,Australian,Alfa Romeo
+5,7,0,2006,2006-04-02,Australian,Williams
+2,8,0,2006,2006-04-02,Australian,Red Bull
+0,9,0,2006,2006-04-02,Australian,AlphaTauri
+51,1,3,2006,2006-04-23,San Marino,Alpine F1 Team
+33,2,0,2006,2006-04-23,San Marino,McLaren
+30,3,1,2006,2006-04-23,San Marino,Ferrari
+15,4,0,2006,2006-04-23,San Marino,Mercedes
+10,5,0,2006,2006-04-23,San Marino,Alfa Romeo
+8,6,0,2006,2006-04-23,San Marino,Williams
+2,8,0,2006,2006-04-23,San Marino,Red Bull
+0,9,0,2006,2006-04-23,San Marino,AlphaTauri
+62,1,3,2006,2006-05-07,European,Alpine F1 Team
+46,2,2,2006,2006-05-07,European,Ferrari
+38,3,0,2006,2006-05-07,European,McLaren
+19,4,0,2006,2006-05-07,European,Mercedes
+11,5,0,2006,2006-05-07,European,Alfa Romeo
+10,6,0,2006,2006-05-07,European,Williams
+2,8,0,2006,2006-05-07,European,Red Bull
+0,9,0,2006,2006-05-07,European,AlphaTauri
+78,1,4,2006,2006-05-14,Spanish,Alpine F1 Team
+59,2,2,2006,2006-05-14,Spanish,Ferrari
+42,3,0,2006,2006-05-14,Spanish,McLaren
+24,4,0,2006,2006-05-14,Spanish,Mercedes
+12,5,0,2006,2006-05-14,Spanish,Alfa Romeo
+10,6,0,2006,2006-05-14,Spanish,Williams
+2,8,0,2006,2006-05-14,Spanish,Red Bull
+0,9,0,2006,2006-05-14,Spanish,AlphaTauri
+91,1,5,2006,2006-05-28,Monaco,Alpine F1 Team
+63,2,2,2006,2006-05-28,Monaco,Ferrari
+50,3,0,2006,2006-05-28,Monaco,McLaren
+29,4,0,2006,2006-05-28,Monaco,Mercedes
+14,5,0,2006,2006-05-28,Monaco,Alfa Romeo
+10,6,0,2006,2006-05-28,Monaco,Williams
+8,8,0,2006,2006-05-28,Monaco,Red Bull
+0,9,0,2006,2006-05-28,Monaco,AlphaTauri
+106,1,6,2006,2006-06-11,British,Alpine F1 Team
+75,2,2,2006,2006-06-11,British,Ferrari
+59,3,0,2006,2006-06-11,British,McLaren
+29,4,0,2006,2006-06-11,British,Mercedes
+17,5,0,2006,2006-06-11,British,Alfa Romeo
+10,6,0,2006,2006-06-11,British,Williams
+8,8,0,2006,2006-06-11,British,Red Bull
+0,9,0,2006,2006-06-11,British,AlphaTauri
+121,1,7,2006,2006-06-25,Canadian,Alpine F1 Team
+87,2,2,2006,2006-06-25,Canadian,Ferrari
+65,3,0,2006,2006-06-25,Canadian,McLaren
+29,4,0,2006,2006-06-25,Canadian,Mercedes
+19,5,0,2006,2006-06-25,Canadian,Alfa Romeo
+10,7,0,2006,2006-06-25,Canadian,Williams
+9,8,0,2006,2006-06-25,Canadian,Red Bull
+0,9,0,2006,2006-06-25,Canadian,AlphaTauri
+131,1,7,2006,2006-07-02,United States,Alpine F1 Team
+105,2,3,2006,2006-07-02,United States,Ferrari
+65,3,0,2006,2006-07-02,United States,McLaren
+32,4,0,2006,2006-07-02,United States,Mercedes
+19,5,0,2006,2006-07-02,United States,Alfa Romeo
+11,7,0,2006,2006-07-02,United States,Red Bull
+10,8,0,2006,2006-07-02,United States,Williams
+1,9,0,2006,2006-07-02,United States,AlphaTauri
+142,1,7,2006,2006-07-16,French,Alpine F1 Team
+121,2,4,2006,2006-07-16,French,Ferrari
+71,3,0,2006,2006-07-16,French,McLaren
+32,4,0,2006,2006-07-16,French,Mercedes
+20,6,0,2006,2006-07-16,French,Alfa Romeo
+11,7,0,2006,2006-07-16,French,Red Bull
+10,8,0,2006,2006-07-16,French,Williams
+1,9,0,2006,2006-07-16,French,AlphaTauri
+149,1,7,2006,2006-07-30,German,Alpine F1 Team
+139,2,5,2006,2006-07-30,German,Ferrari
+77,3,0,2006,2006-07-30,German,McLaren
+37,4,0,2006,2006-07-30,German,Mercedes
+20,6,0,2006,2006-07-30,German,Alfa Romeo
+12,7,0,2006,2006-07-30,German,Red Bull
+10,8,0,2006,2006-07-30,German,Williams
+1,9,0,2006,2006-07-30,German,AlphaTauri
+149,1,7,2006,2006-08-06,Hungarian,Alpine F1 Team
+142,2,5,2006,2006-08-06,Hungarian,Ferrari
+85,3,0,2006,2006-08-06,Hungarian,McLaren
+52,4,1,2006,2006-08-06,Hungarian,Mercedes
+26,6,0,2006,2006-08-06,Hungarian,Alfa Romeo
+16,7,0,2006,2006-08-06,Hungarian,Red Bull
+10,8,0,2006,2006-08-06,Hungarian,Williams
+1,9,0,2006,2006-08-06,Hungarian,AlphaTauri
+160,1,7,2006,2006-08-27,Turkish,Alpine F1 Team
+158,2,6,2006,2006-08-27,Turkish,Ferrari
+89,3,0,2006,2006-08-27,Turkish,McLaren
+58,4,1,2006,2006-08-27,Turkish,Mercedes
+26,6,0,2006,2006-08-27,Turkish,Alfa Romeo
+16,7,0,2006,2006-08-27,Turkish,Red Bull
+10,8,0,2006,2006-08-27,Turkish,Williams
+1,9,0,2006,2006-08-27,Turkish,AlphaTauri
+168,1,7,2006,2006-09-10,Italian,Ferrari
+165,2,7,2006,2006-09-10,Italian,Alpine F1 Team
+97,3,0,2006,2006-09-10,Italian,McLaren
+65,4,1,2006,2006-09-10,Italian,Mercedes
+33,5,0,2006,2006-09-10,Italian,Alfa Romeo
+16,7,0,2006,2006-09-10,Italian,Red Bull
+10,8,0,2006,2006-09-10,Italian,Williams
+1,9,0,2006,2006-09-10,Italian,AlphaTauri
+0,12,0,2006,2006-09-10,Italian,Aston Martin
+179,1,7,2006,2006-10-01,Chinese,Alpine F1 Team
+178,2,8,2006,2006-10-01,Chinese,Ferrari
+101,3,0,2006,2006-10-01,Chinese,McLaren
+73,4,1,2006,2006-10-01,Chinese,Mercedes
+35,5,0,2006,2006-10-01,Chinese,Alfa Romeo
+16,7,0,2006,2006-10-01,Chinese,Red Bull
+11,8,0,2006,2006-10-01,Chinese,Williams
+1,9,0,2006,2006-10-01,Chinese,AlphaTauri
+0,12,0,2006,2006-10-01,Chinese,Aston Martin
+195,1,8,2006,2006-10-08,Japanese,Alpine F1 Team
+186,2,8,2006,2006-10-08,Japanese,Ferrari
+105,3,0,2006,2006-10-08,Japanese,McLaren
+78,4,1,2006,2006-10-08,Japanese,Mercedes
+36,5,0,2006,2006-10-08,Japanese,Alfa Romeo
+16,7,0,2006,2006-10-08,Japanese,Red Bull
+11,8,0,2006,2006-10-08,Japanese,Williams
+1,9,0,2006,2006-10-08,Japanese,AlphaTauri
+0,12,0,2006,2006-10-08,Japanese,Aston Martin
+206,1,8,2006,2006-10-22,Brazilian,Alpine F1 Team
+201,2,9,2006,2006-10-22,Brazilian,Ferrari
+110,3,0,2006,2006-10-22,Brazilian,McLaren
+86,4,1,2006,2006-10-22,Brazilian,Mercedes
+36,5,0,2006,2006-10-22,Brazilian,Alfa Romeo
+16,7,0,2006,2006-10-22,Brazilian,Red Bull
+11,8,0,2006,2006-10-22,Brazilian,Williams
+1,9,0,2006,2006-10-22,Brazilian,AlphaTauri
+0,12,0,2006,2006-10-22,Brazilian,Aston Martin
+13,1,1,2007,2007-03-18,Australian,Ferrari
+5,2,0,2007,2007-03-18,Australian,Alfa Romeo
+4,3,0,2007,2007-03-18,Australian,Alpine F1 Team
+2,4,0,2007,2007-03-18,Australian,Williams
+0,6,0,2007,2007-03-18,Australian,Mercedes
+0,8,0,2007,2007-03-18,Australian,Red Bull
+0,9,0,2007,2007-03-18,Australian,AlphaTauri
+0,10,0,2007,2007-03-18,Australian,Aston Martin
+14,11,0,2007,2007-03-18,Australian,McLaren
+23,1,1,2007,2007-04-08,Malaysian,Ferrari
+10,2,0,2007,2007-04-08,Malaysian,Alfa Romeo
+8,3,0,2007,2007-04-08,Malaysian,Alpine F1 Team
+2,5,0,2007,2007-04-08,Malaysian,Williams
+0,6,0,2007,2007-04-08,Malaysian,Red Bull
+0,7,0,2007,2007-04-08,Malaysian,Mercedes
+0,9,0,2007,2007-04-08,Malaysian,AlphaTauri
+0,10,0,2007,2007-04-08,Malaysian,Aston Martin
+32,11,1,2007,2007-04-08,Malaysian,McLaren
+39,1,2,2007,2007-04-15,Bahrain,Ferrari
+18,2,0,2007,2007-04-15,Bahrain,Alfa Romeo
+9,3,0,2007,2007-04-15,Bahrain,Alpine F1 Team
+2,5,0,2007,2007-04-15,Bahrain,Williams
+0,6,0,2007,2007-04-15,Bahrain,Red Bull
+0,7,0,2007,2007-04-15,Bahrain,Mercedes
+0,9,0,2007,2007-04-15,Bahrain,AlphaTauri
+0,10,0,2007,2007-04-15,Bahrain,Aston Martin
+44,11,1,2007,2007-04-15,Bahrain,McLaren
+49,1,3,2007,2007-05-13,Spanish,Ferrari
+23,2,0,2007,2007-05-13,Spanish,Alfa Romeo
+11,3,0,2007,2007-05-13,Spanish,Alpine F1 Team
+5,4,0,2007,2007-05-13,Spanish,Williams
+4,6,0,2007,2007-05-13,Spanish,Red Bull
+0,8,0,2007,2007-05-13,Spanish,Mercedes
+0,9,0,2007,2007-05-13,Spanish,Aston Martin
+0,10,0,2007,2007-05-13,Spanish,AlphaTauri
+58,11,1,2007,2007-05-13,Spanish,McLaren
+56,1,3,2007,2007-05-27,Monaco,Ferrari
+30,2,0,2007,2007-05-27,Monaco,Alfa Romeo
+16,3,0,2007,2007-05-27,Monaco,Alpine F1 Team
+7,4,0,2007,2007-05-27,Monaco,Williams
+4,6,0,2007,2007-05-27,Monaco,Red Bull
+0,8,0,2007,2007-05-27,Monaco,AlphaTauri
+0,9,0,2007,2007-05-27,Monaco,Mercedes
+0,10,0,2007,2007-05-27,Monaco,Aston Martin
+76,11,2,2007,2007-05-27,Monaco,McLaren
+60,1,3,2007,2007-06-10,Canadian,Ferrari
+38,2,0,2007,2007-06-10,Canadian,Alfa Romeo
+21,3,0,2007,2007-06-10,Canadian,Alpine F1 Team
+13,4,0,2007,2007-06-10,Canadian,Williams
+4,6,0,2007,2007-06-10,Canadian,Red Bull
+0,8,0,2007,2007-06-10,Canadian,AlphaTauri
+0,9,0,2007,2007-06-10,Canadian,Mercedes
+0,10,0,2007,2007-06-10,Canadian,Aston Martin
+88,11,3,2007,2007-06-10,Canadian,McLaren
+71,1,3,2007,2007-06-17,United States,Ferrari
+39,2,0,2007,2007-06-17,United States,Alfa Romeo
+25,3,0,2007,2007-06-17,United States,Alpine F1 Team
+13,4,0,2007,2007-06-17,United States,Williams
+6,6,0,2007,2007-06-17,United States,Red Bull
+0,8,0,2007,2007-06-17,United States,AlphaTauri
+0,9,0,2007,2007-06-17,United States,Mercedes
+0,10,0,2007,2007-06-17,United States,Aston Martin
+106,11,4,2007,2007-06-17,United States,McLaren
+89,1,4,2007,2007-07-01,French,Ferrari
+48,2,0,2007,2007-07-01,French,Alfa Romeo
+28,3,0,2007,2007-07-01,French,Alpine F1 Team
+13,4,0,2007,2007-07-01,French,Williams
+6,6,0,2007,2007-07-01,French,Red Bull
+1,8,0,2007,2007-07-01,French,Mercedes
+0,9,0,2007,2007-07-01,French,AlphaTauri
+0,10,0,2007,2007-07-01,French,Aston Martin
+114,11,4,2007,2007-07-01,French,McLaren
+103,1,5,2007,2007-07-08,British,Ferrari
+56,2,0,2007,2007-07-08,British,Alfa Romeo
+31,3,0,2007,2007-07-08,British,Alpine F1 Team
+13,4,0,2007,2007-07-08,British,Williams
+6,6,0,2007,2007-07-08,British,Red Bull
+1,8,0,2007,2007-07-08,British,Mercedes
+0,9,0,2007,2007-07-08,British,AlphaTauri
+0,10,0,2007,2007-07-08,British,Aston Martin
+128,11,5,2007,2007-07-08,British,McLaren
+111,1,5,2007,2007-07-22,European,Ferrari
+61,2,0,2007,2007-07-22,European,Alfa Romeo
+32,3,0,2007,2007-07-22,European,Alpine F1 Team
+18,4,0,2007,2007-07-22,European,Williams
+16,5,0,2007,2007-07-22,European,Red Bull
+1,8,0,2007,2007-07-22,European,Mercedes
+0,9,0,2007,2007-07-22,European,AlphaTauri
+0,10,0,2007,2007-07-22,European,Aston Martin
+138,11,5,2007,2007-07-22,European,McLaren
+119,1,5,2007,2007-08-05,Hungarian,Ferrari
+71,2,0,2007,2007-08-05,Hungarian,Alfa Romeo
+33,3,0,2007,2007-08-05,Hungarian,Alpine F1 Team
+20,4,0,2007,2007-08-05,Hungarian,Williams
+16,5,0,2007,2007-08-05,Hungarian,Red Bull
+1,8,0,2007,2007-08-05,Hungarian,Mercedes
+0,9,0,2007,2007-08-05,Hungarian,AlphaTauri
+0,10,0,2007,2007-08-05,Hungarian,Aston Martin
+138,11,6,2007,2007-08-05,Hungarian,McLaren
+137,1,6,2007,2007-08-26,Turkish,Ferrari
+77,2,0,2007,2007-08-26,Turkish,Alfa Romeo
+36,3,0,2007,2007-08-26,Turkish,Alpine F1 Team
+22,4,0,2007,2007-08-26,Turkish,Williams
+16,5,0,2007,2007-08-26,Turkish,Red Bull
+1,8,0,2007,2007-08-26,Turkish,Mercedes
+0,9,0,2007,2007-08-26,Turkish,AlphaTauri
+0,10,0,2007,2007-08-26,Turkish,Aston Martin
+148,11,6,2007,2007-08-26,Turkish,McLaren
+143,1,6,2007,2007-09-09,Italian,Ferrari
+86,2,0,2007,2007-09-09,Italian,Alfa Romeo
+38,3,0,2007,2007-09-09,Italian,Alpine F1 Team
+25,4,0,2007,2007-09-09,Italian,Williams
+16,5,0,2007,2007-09-09,Italian,Red Bull
+2,8,0,2007,2007-09-09,Italian,Mercedes
+0,9,0,2007,2007-09-09,Italian,AlphaTauri
+0,10,0,2007,2007-09-09,Italian,Aston Martin
+166,11,7,2007,2007-09-09,Italian,McLaren
+161,1,7,2007,2007-09-16,Belgian,Ferrari
+90,2,0,2007,2007-09-16,Belgian,Alfa Romeo
+39,3,0,2007,2007-09-16,Belgian,Alpine F1 Team
+28,4,0,2007,2007-09-16,Belgian,Williams
+18,5,0,2007,2007-09-16,Belgian,Red Bull
+2,8,0,2007,2007-09-16,Belgian,Mercedes
+0,9,0,2007,2007-09-16,Belgian,AlphaTauri
+0,10,0,2007,2007-09-16,Belgian,Aston Martin
+192,11,7,2007,2007-09-16,Belgian,McLaren
+170,1,7,2007,2007-09-30,Japanese,Ferrari
+92,2,0,2007,2007-09-30,Japanese,Alfa Romeo
+51,3,0,2007,2007-09-30,Japanese,Alpine F1 Team
+28,4,0,2007,2007-09-30,Japanese,Williams
+23,5,0,2007,2007-09-30,Japanese,Red Bull
+2,8,0,2007,2007-09-30,Japanese,Mercedes
+1,9,0,2007,2007-09-30,Japanese,Aston Martin
+0,10,0,2007,2007-09-30,Japanese,AlphaTauri
+202,11,8,2007,2007-09-30,Japanese,McLaren
+186,1,8,2007,2007-10-07,Chinese,Ferrari
+94,2,0,2007,2007-10-07,Chinese,Alfa Romeo
+51,3,0,2007,2007-10-07,Chinese,Alpine F1 Team
+28,4,0,2007,2007-10-07,Chinese,Williams
+24,5,0,2007,2007-10-07,Chinese,Red Bull
+8,7,0,2007,2007-10-07,Chinese,AlphaTauri
+6,8,0,2007,2007-10-07,Chinese,Mercedes
+1,10,0,2007,2007-10-07,Chinese,Aston Martin
+210,11,8,2007,2007-10-07,Chinese,McLaren
+204,1,9,2007,2007-10-21,Brazilian,Ferrari
+101,2,0,2007,2007-10-21,Brazilian,Alfa Romeo
+51,3,0,2007,2007-10-21,Brazilian,Alpine F1 Team
+33,4,0,2007,2007-10-21,Brazilian,Williams
+24,5,0,2007,2007-10-21,Brazilian,Red Bull
+8,7,0,2007,2007-10-21,Brazilian,AlphaTauri
+6,8,0,2007,2007-10-21,Brazilian,Mercedes
+1,10,0,2007,2007-10-21,Brazilian,Aston Martin
+218,11,8,2007,2007-10-21,Brazilian,McLaren
+14,1,1,2008,2008-03-16,Australian,McLaren
+9,2,0,2008,2008-03-16,Australian,Williams
+8,3,0,2008,2008-03-16,Australian,Alfa Romeo
+5,4,0,2008,2008-03-16,Australian,Alpine F1 Team
+2,5,0,2008,2008-03-16,Australian,AlphaTauri
+1,6,0,2008,2008-03-16,Australian,Ferrari
+24,1,1,2008,2008-03-23,Malaysian,McLaren
+19,2,0,2008,2008-03-23,Malaysian,Alfa Romeo
+11,3,1,2008,2008-03-23,Malaysian,Ferrari
+9,4,0,2008,2008-03-23,Malaysian,Williams
+6,5,0,2008,2008-03-23,Malaysian,Alpine F1 Team
+2,7,0,2008,2008-03-23,Malaysian,Red Bull
+2,8,0,2008,2008-03-23,Malaysian,AlphaTauri
+0,9,0,2008,2008-03-23,Malaysian,Mercedes
+0,10,0,2008,2008-03-23,Malaysian,Aston Martin
+30,1,0,2008,2008-04-06,Bahrain,Alfa Romeo
+29,2,2,2008,2008-04-06,Bahrain,Ferrari
+28,3,1,2008,2008-04-06,Bahrain,McLaren
+10,4,0,2008,2008-04-06,Bahrain,Williams
+6,6,0,2008,2008-04-06,Bahrain,Alpine F1 Team
+4,7,0,2008,2008-04-06,Bahrain,Red Bull
+2,8,0,2008,2008-04-06,Bahrain,AlphaTauri
+0,9,0,2008,2008-04-06,Bahrain,Mercedes
+0,10,0,2008,2008-04-06,Bahrain,Aston Martin
+47,1,3,2008,2008-04-27,Spanish,Ferrari
+35,2,0,2008,2008-04-27,Spanish,Alfa Romeo
+34,3,1,2008,2008-04-27,Spanish,McLaren
+12,4,0,2008,2008-04-27,Spanish,Williams
+8,6,0,2008,2008-04-27,Spanish,Red Bull
+6,7,0,2008,2008-04-27,Spanish,Alpine F1 Team
+3,8,0,2008,2008-04-27,Spanish,Mercedes
+2,9,0,2008,2008-04-27,Spanish,AlphaTauri
+0,10,0,2008,2008-04-27,Spanish,Aston Martin
+63,1,4,2008,2008-05-11,Turkish,Ferrari
+44,2,0,2008,2008-05-11,Turkish,Alfa Romeo
+42,3,1,2008,2008-05-11,Turkish,McLaren
+13,4,0,2008,2008-05-11,Turkish,Williams
+10,5,0,2008,2008-05-11,Turkish,Red Bull
+9,7,0,2008,2008-05-11,Turkish,Alpine F1 Team
+3,8,0,2008,2008-05-11,Turkish,Mercedes
+2,9,0,2008,2008-05-11,Turkish,AlphaTauri
+0,10,0,2008,2008-05-11,Turkish,Aston Martin
+69,1,4,2008,2008-05-25,Monaco,Ferrari
+53,2,2,2008,2008-05-25,Monaco,McLaren
+52,3,0,2008,2008-05-25,Monaco,Alfa Romeo
+15,4,0,2008,2008-05-25,Monaco,Williams
+15,5,0,2008,2008-05-25,Monaco,Red Bull
+9,7,0,2008,2008-05-25,Monaco,Alpine F1 Team
+6,8,0,2008,2008-05-25,Monaco,AlphaTauri
+6,9,0,2008,2008-05-25,Monaco,Mercedes
+0,10,0,2008,2008-05-25,Monaco,Aston Martin
+73,1,4,2008,2008-06-08,Canadian,Ferrari
+70,2,1,2008,2008-06-08,Canadian,Alfa Romeo
+53,3,2,2008,2008-06-08,Canadian,McLaren
+21,4,0,2008,2008-06-08,Canadian,Red Bull
+15,6,0,2008,2008-06-08,Canadian,Williams
+9,7,0,2008,2008-06-08,Canadian,Alpine F1 Team
+8,8,0,2008,2008-06-08,Canadian,Mercedes
+7,9,0,2008,2008-06-08,Canadian,AlphaTauri
+0,10,0,2008,2008-06-08,Canadian,Aston Martin
+91,1,5,2008,2008-06-22,French,Ferrari
+74,2,1,2008,2008-06-22,French,Alfa Romeo
+58,3,2,2008,2008-06-22,French,McLaren
+24,4,0,2008,2008-06-22,French,Red Bull
+15,6,0,2008,2008-06-22,French,Williams
+12,7,0,2008,2008-06-22,French,Alpine F1 Team
+8,8,0,2008,2008-06-22,French,Mercedes
+7,9,0,2008,2008-06-22,French,AlphaTauri
+0,10,0,2008,2008-06-22,French,Aston Martin
+96,1,5,2008,2008-07-06,British,Ferrari
+82,2,1,2008,2008-07-06,British,Alfa Romeo
+72,3,3,2008,2008-07-06,British,McLaren
+24,5,0,2008,2008-07-06,British,Red Bull
+16,6,0,2008,2008-07-06,British,Williams
+15,7,0,2008,2008-07-06,British,Alpine F1 Team
+14,8,0,2008,2008-07-06,British,Mercedes
+7,9,0,2008,2008-07-06,British,AlphaTauri
+0,10,0,2008,2008-07-06,British,Aston Martin
+105,1,5,2008,2008-07-20,German,Ferrari
+89,2,1,2008,2008-07-20,German,Alfa Romeo
+86,3,4,2008,2008-07-20,German,McLaren
+24,5,0,2008,2008-07-20,German,Red Bull
+23,6,0,2008,2008-07-20,German,Alpine F1 Team
+16,7,0,2008,2008-07-20,German,Williams
+14,8,0,2008,2008-07-20,German,Mercedes
+8,9,0,2008,2008-07-20,German,AlphaTauri
+0,10,0,2008,2008-07-20,German,Aston Martin
+111,1,5,2008,2008-08-03,Hungarian,Ferrari
+100,2,5,2008,2008-08-03,Hungarian,McLaren
+90,3,1,2008,2008-08-03,Hungarian,Alfa Romeo
+31,5,0,2008,2008-08-03,Hungarian,Alpine F1 Team
+24,6,0,2008,2008-08-03,Hungarian,Red Bull
+16,7,0,2008,2008-08-03,Hungarian,Williams
+14,8,0,2008,2008-08-03,Hungarian,Mercedes
+8,9,0,2008,2008-08-03,Hungarian,AlphaTauri
+0,10,0,2008,2008-08-03,Hungarian,Aston Martin
+121,1,6,2008,2008-08-24,European,Ferrari
+113,2,5,2008,2008-08-24,European,McLaren
+96,3,1,2008,2008-08-24,European,Alfa Romeo
+31,5,0,2008,2008-08-24,European,Alpine F1 Team
+24,6,0,2008,2008-08-24,European,Red Bull
+17,7,0,2008,2008-08-24,European,Williams
+14,8,0,2008,2008-08-24,European,Mercedes
+11,9,0,2008,2008-08-24,European,AlphaTauri
+0,10,0,2008,2008-08-24,European,Aston Martin
+131,1,7,2008,2008-09-07,Belgian,Ferrari
+119,2,5,2008,2008-09-07,Belgian,McLaren
+107,3,1,2008,2008-09-07,Belgian,Alfa Romeo
+36,5,0,2008,2008-09-07,Belgian,Alpine F1 Team
+25,6,0,2008,2008-09-07,Belgian,Red Bull
+17,7,0,2008,2008-09-07,Belgian,Williams
+17,8,0,2008,2008-09-07,Belgian,AlphaTauri
+14,9,0,2008,2008-09-07,Belgian,Mercedes
+0,10,0,2008,2008-09-07,Belgian,Aston Martin
+134,1,7,2008,2008-09-14,Italian,Ferrari
+129,2,5,2008,2008-09-14,Italian,McLaren
+117,3,1,2008,2008-09-14,Italian,Alfa Romeo
+41,5,0,2008,2008-09-14,Italian,Alpine F1 Team
+27,6,1,2008,2008-09-14,Italian,AlphaTauri
+26,7,0,2008,2008-09-14,Italian,Red Bull
+17,8,0,2008,2008-09-14,Italian,Williams
+14,9,0,2008,2008-09-14,Italian,Mercedes
+0,10,0,2008,2008-09-14,Italian,Aston Martin
+135,1,5,2008,2008-09-28,Singapore,McLaren
+134,2,7,2008,2008-09-28,Singapore,Ferrari
+120,3,1,2008,2008-09-28,Singapore,Alfa Romeo
+51,4,1,2008,2008-09-28,Singapore,Alpine F1 Team
+31,6,1,2008,2008-09-28,Singapore,AlphaTauri
+28,7,0,2008,2008-09-28,Singapore,Red Bull
+26,8,0,2008,2008-09-28,Singapore,Williams
+14,9,0,2008,2008-09-28,Singapore,Mercedes
+0,10,0,2008,2008-09-28,Singapore,Aston Martin
+142,1,7,2008,2008-10-12,Japanese,Ferrari
+135,2,5,2008,2008-10-12,Japanese,McLaren
+128,3,1,2008,2008-10-12,Japanese,Alfa Romeo
+66,4,2,2008,2008-10-12,Japanese,Alpine F1 Team
+34,6,1,2008,2008-10-12,Japanese,AlphaTauri
+29,7,0,2008,2008-10-12,Japanese,Red Bull
+26,8,0,2008,2008-10-12,Japanese,Williams
+14,9,0,2008,2008-10-12,Japanese,Mercedes
+0,10,0,2008,2008-10-12,Japanese,Aston Martin
+156,1,7,2008,2008-10-19,Chinese,Ferrari
+145,2,6,2008,2008-10-19,Chinese,McLaren
+135,3,1,2008,2008-10-19,Chinese,Alfa Romeo
+72,4,2,2008,2008-10-19,Chinese,Alpine F1 Team
+34,6,1,2008,2008-10-19,Chinese,AlphaTauri
+29,7,0,2008,2008-10-19,Chinese,Red Bull
+26,8,0,2008,2008-10-19,Chinese,Williams
+14,9,0,2008,2008-10-19,Chinese,Mercedes
+0,10,0,2008,2008-10-19,Chinese,Aston Martin
+172,1,8,2008,2008-11-02,Brazilian,Ferrari
+151,2,6,2008,2008-11-02,Brazilian,McLaren
+135,3,1,2008,2008-11-02,Brazilian,Alfa Romeo
+80,4,2,2008,2008-11-02,Brazilian,Alpine F1 Team
+39,6,1,2008,2008-11-02,Brazilian,AlphaTauri
+29,7,0,2008,2008-11-02,Brazilian,Red Bull
+26,8,0,2008,2008-11-02,Brazilian,Williams
+14,9,0,2008,2008-11-02,Brazilian,Mercedes
+0,10,0,2008,2008-11-02,Brazilian,Aston Martin
+4,3,0,2009,2009-03-29,Australian,Alpine F1 Team
+3,4,0,2009,2009-03-29,Australian,Williams
+3,5,0,2009,2009-03-29,Australian,AlphaTauri
+0,6,0,2009,2009-03-29,Australian,Aston Martin
+0,7,0,2009,2009-03-29,Australian,Alfa Romeo
+0,8,0,2009,2009-03-29,Australian,Red Bull
+0,9,0,2009,2009-03-29,Australian,Ferrari
+4,3,0,2009,2009-04-05,Malaysian,Alfa Romeo
+4,4,0,2009,2009-04-05,Malaysian,Alpine F1 Team
+3.5,5,0,2009,2009-04-05,Malaysian,Williams
+3,6,0,2009,2009-04-05,Malaysian,AlphaTauri
+1.5,7,0,2009,2009-04-05,Malaysian,Red Bull
+1,8,0,2009,2009-04-05,Malaysian,McLaren
+0,9,0,2009,2009-04-05,Malaysian,Aston Martin
+0,10,0,2009,2009-04-05,Malaysian,Ferrari
+19.5,2,1,2009,2009-04-19,Chinese,Red Bull
+8,4,0,2009,2009-04-19,Chinese,McLaren
+4,5,0,2009,2009-04-19,Chinese,Alfa Romeo
+4,6,0,2009,2009-04-19,Chinese,Alpine F1 Team
+4,7,0,2009,2009-04-19,Chinese,AlphaTauri
+3.5,8,0,2009,2009-04-19,Chinese,Williams
+0,9,0,2009,2009-04-19,Chinese,Ferrari
+0,10,0,2009,2009-04-19,Chinese,Aston Martin
+27.5,2,1,2009,2009-04-26,Bahrain,Red Bull
+13,4,0,2009,2009-04-26,Bahrain,McLaren
+5,5,0,2009,2009-04-26,Bahrain,Alpine F1 Team
+4,6,0,2009,2009-04-26,Bahrain,Alfa Romeo
+4,7,0,2009,2009-04-26,Bahrain,AlphaTauri
+3.5,8,0,2009,2009-04-26,Bahrain,Williams
+3,9,0,2009,2009-04-26,Bahrain,Ferrari
+0,10,0,2009,2009-04-26,Bahrain,Aston Martin
+38.5,2,1,2009,2009-05-10,Spanish,Red Bull
+13,4,0,2009,2009-05-10,Spanish,McLaren
+9,5,0,2009,2009-05-10,Spanish,Alpine F1 Team
+6,6,0,2009,2009-05-10,Spanish,Alfa Romeo
+6,7,0,2009,2009-05-10,Spanish,Ferrari
+4.5,8,0,2009,2009-05-10,Spanish,Williams
+4,9,0,2009,2009-05-10,Spanish,AlphaTauri
+0,10,0,2009,2009-05-10,Spanish,Aston Martin
+42.5,2,1,2009,2009-05-24,Monaco,Red Bull
+17,4,0,2009,2009-05-24,Monaco,Ferrari
+13,5,0,2009,2009-05-24,Monaco,McLaren
+11,6,0,2009,2009-05-24,Monaco,Alpine F1 Team
+7.5,7,0,2009,2009-05-24,Monaco,Williams
+6,8,0,2009,2009-05-24,Monaco,Alfa Romeo
+5,9,0,2009,2009-05-24,Monaco,AlphaTauri
+0,10,0,2009,2009-05-24,Monaco,Aston Martin
+56.5,2,1,2009,2009-06-07,Turkish,Red Bull
+20,4,0,2009,2009-06-07,Turkish,Ferrari
+13,5,0,2009,2009-06-07,Turkish,McLaren
+11.5,6,0,2009,2009-06-07,Turkish,Williams
+11,7,0,2009,2009-06-07,Turkish,Alpine F1 Team
+8,8,0,2009,2009-06-07,Turkish,Alfa Romeo
+5,9,0,2009,2009-06-07,Turkish,AlphaTauri
+0,10,0,2009,2009-06-07,Turkish,Aston Martin
+74.5,2,2,2009,2009-06-21,British,Red Bull
+26,4,0,2009,2009-06-21,British,Ferrari
+15.5,5,0,2009,2009-06-21,British,Williams
+13,6,0,2009,2009-06-21,British,McLaren
+11,7,0,2009,2009-06-21,British,Alpine F1 Team
+8,8,0,2009,2009-06-21,British,Alfa Romeo
+5,9,0,2009,2009-06-21,British,AlphaTauri
+0,10,0,2009,2009-06-21,British,Aston Martin
+92.5,2,3,2009,2009-07-12,German,Red Bull
+32,4,0,2009,2009-07-12,German,Ferrari
+20.5,5,0,2009,2009-07-12,German,Williams
+14,6,0,2009,2009-07-12,German,McLaren
+13,7,0,2009,2009-07-12,German,Alpine F1 Team
+8,8,0,2009,2009-07-12,German,Alfa Romeo
+5,9,0,2009,2009-07-12,German,AlphaTauri
+0,10,0,2009,2009-07-12,German,Aston Martin
+98.5,2,3,2009,2009-07-26,Hungarian,Red Bull
+40,3,0,2009,2009-07-26,Hungarian,Ferrari
+28,5,1,2009,2009-07-26,Hungarian,McLaren
+25.5,6,0,2009,2009-07-26,Hungarian,Williams
+13,7,0,2009,2009-07-26,Hungarian,Alpine F1 Team
+8,8,0,2009,2009-07-26,Hungarian,Alfa Romeo
+5,9,0,2009,2009-07-26,Hungarian,AlphaTauri
+0,10,0,2009,2009-07-26,Hungarian,Aston Martin
+98.5,2,3,2009,2009-08-23,European,Red Bull
+46,3,0,2009,2009-08-23,European,Ferrari
+41,4,1,2009,2009-08-23,European,McLaren
+29.5,6,0,2009,2009-08-23,European,Williams
+16,7,0,2009,2009-08-23,European,Alpine F1 Team
+9,8,0,2009,2009-08-23,European,Alfa Romeo
+5,9,0,2009,2009-08-23,European,AlphaTauri
+0,10,0,2009,2009-08-23,European,Aston Martin
+104.5,2,3,2009,2009-08-30,Belgian,Red Bull
+56,3,1,2009,2009-08-30,Belgian,Ferrari
+44,4,1,2009,2009-08-30,Belgian,McLaren
+30.5,6,0,2009,2009-08-30,Belgian,Williams
+18,7,0,2009,2009-08-30,Belgian,Alfa Romeo
+16,8,0,2009,2009-08-30,Belgian,Alpine F1 Team
+8,9,0,2009,2009-08-30,Belgian,Aston Martin
+5,10,0,2009,2009-08-30,Belgian,AlphaTauri
+105.5,2,3,2009,2009-09-13,Italian,Red Bull
+62,3,1,2009,2009-09-13,Italian,Ferrari
+47,4,1,2009,2009-09-13,Italian,McLaren
+30.5,6,0,2009,2009-09-13,Italian,Williams
+20,7,0,2009,2009-09-13,Italian,Alfa Romeo
+20,8,0,2009,2009-09-13,Italian,Alpine F1 Team
+13,9,0,2009,2009-09-13,Italian,Aston Martin
+5,10,0,2009,2009-09-13,Italian,AlphaTauri
+110.5,2,3,2009,2009-09-27,Singapore,Red Bull
+62,3,1,2009,2009-09-27,Singapore,Ferrari
+59,4,2,2009,2009-09-27,Singapore,McLaren
+30.5,6,0,2009,2009-09-27,Singapore,Williams
+26,7,0,2009,2009-09-27,Singapore,Alpine F1 Team
+21,8,0,2009,2009-09-27,Singapore,Alfa Romeo
+13,9,0,2009,2009-09-27,Singapore,Aston Martin
+5,10,0,2009,2009-09-27,Singapore,AlphaTauri
+120.5,2,4,2009,2009-10-04,Japanese,Red Bull
+67,3,1,2009,2009-10-04,Japanese,Ferrari
+65,4,2,2009,2009-10-04,Japanese,McLaren
+34.5,6,0,2009,2009-10-04,Japanese,Williams
+26,7,0,2009,2009-10-04,Japanese,Alpine F1 Team
+24,8,0,2009,2009-10-04,Japanese,Alfa Romeo
+13,9,0,2009,2009-10-04,Japanese,Aston Martin
+5,10,0,2009,2009-10-04,Japanese,AlphaTauri
+135.5,2,5,2009,2009-10-18,Brazilian,Red Bull
+71,3,2,2009,2009-10-18,Brazilian,McLaren
+70,4,1,2009,2009-10-18,Brazilian,Ferrari
+34.5,6,0,2009,2009-10-18,Brazilian,Williams
+32,7,0,2009,2009-10-18,Brazilian,Alfa Romeo
+26,8,0,2009,2009-10-18,Brazilian,Alpine F1 Team
+13,9,0,2009,2009-10-18,Brazilian,Aston Martin
+7,10,0,2009,2009-10-18,Brazilian,AlphaTauri
+153.5,2,6,2009,2009-11-01,Abu Dhabi,Red Bull
+71,3,2,2009,2009-11-01,Abu Dhabi,McLaren
+70,4,1,2009,2009-11-01,Abu Dhabi,Ferrari
+36,6,0,2009,2009-11-01,Abu Dhabi,Alfa Romeo
+34.5,7,0,2009,2009-11-01,Abu Dhabi,Williams
+26,8,0,2009,2009-11-01,Abu Dhabi,Alpine F1 Team
+13,9,0,2009,2009-11-01,Abu Dhabi,Aston Martin
+8,10,0,2009,2009-11-01,Abu Dhabi,AlphaTauri
+43,1,1,2010,2010-03-14,Bahrain,Ferrari
+21,2,0,2010,2010-03-14,Bahrain,McLaren
+18,3,0,2010,2010-03-14,Bahrain,Mercedes
+16,4,0,2010,2010-03-14,Bahrain,Red Bull
+2,5,0,2010,2010-03-14,Bahrain,Aston Martin
+1,6,0,2010,2010-03-14,Bahrain,Williams
+0,7,0,2010,2010-03-14,Bahrain,Alpine F1 Team
+0,8,0,2010,2010-03-14,Bahrain,AlphaTauri
+0,10,0,2010,2010-03-14,Bahrain,Alfa Romeo
+70,1,1,2010,2010-03-28,Australian,Ferrari
+54,2,1,2010,2010-03-28,Australian,McLaren
+29,3,0,2010,2010-03-28,Australian,Mercedes
+18,4,0,2010,2010-03-28,Australian,Alpine F1 Team
+18,5,0,2010,2010-03-28,Australian,Red Bull
+8,6,0,2010,2010-03-28,Australian,Aston Martin
+5,7,0,2010,2010-03-28,Australian,Williams
+0,8,0,2010,2010-03-28,Australian,AlphaTauri
+0,9,0,2010,2010-03-28,Australian,Alfa Romeo
+76,1,1,2010,2010-04-04,Malaysian,Ferrari
+66,2,1,2010,2010-04-04,Malaysian,McLaren
+61,3,1,2010,2010-04-04,Malaysian,Red Bull
+44,4,0,2010,2010-04-04,Malaysian,Mercedes
+30,5,0,2010,2010-04-04,Malaysian,Alpine F1 Team
+18,6,0,2010,2010-04-04,Malaysian,Aston Martin
+6,7,0,2010,2010-04-04,Malaysian,Williams
+2,8,0,2010,2010-04-04,Malaysian,AlphaTauri
+0,9,0,2010,2010-04-04,Malaysian,Alfa Romeo
+109,1,2,2010,2010-04-18,Chinese,McLaren
+90,2,1,2010,2010-04-18,Chinese,Ferrari
+73,3,1,2010,2010-04-18,Chinese,Red Bull
+60,4,0,2010,2010-04-18,Chinese,Mercedes
+46,5,0,2010,2010-04-18,Chinese,Alpine F1 Team
+18,6,0,2010,2010-04-18,Chinese,Aston Martin
+6,7,0,2010,2010-04-18,Chinese,Williams
+2,8,0,2010,2010-04-18,Chinese,AlphaTauri
+0,9,0,2010,2010-04-18,Chinese,Alfa Romeo
+119,1,2,2010,2010-05-09,Spanish,McLaren
+116,2,1,2010,2010-05-09,Spanish,Ferrari
+113,3,2,2010,2010-05-09,Spanish,Red Bull
+72,4,0,2010,2010-05-09,Spanish,Mercedes
+50,5,0,2010,2010-05-09,Spanish,Alpine F1 Team
+24,6,0,2010,2010-05-09,Spanish,Aston Martin
+8,7,0,2010,2010-05-09,Spanish,Williams
+3,8,0,2010,2010-05-09,Spanish,AlphaTauri
+0,9,0,2010,2010-05-09,Spanish,Alfa Romeo
+156,1,3,2010,2010-05-16,Monaco,Red Bull
+136,2,1,2010,2010-05-16,Monaco,Ferrari
+129,3,2,2010,2010-05-16,Monaco,McLaren
+78,4,0,2010,2010-05-16,Monaco,Mercedes
+65,5,0,2010,2010-05-16,Monaco,Alpine F1 Team
+30,6,0,2010,2010-05-16,Monaco,Aston Martin
+8,7,0,2010,2010-05-16,Monaco,Williams
+4,8,0,2010,2010-05-16,Monaco,AlphaTauri
+0,9,0,2010,2010-05-16,Monaco,Alfa Romeo
+172,1,3,2010,2010-05-30,Turkish,McLaren
+171,2,3,2010,2010-05-30,Turkish,Red Bull
+146,3,1,2010,2010-05-30,Turkish,Ferrari
+100,4,0,2010,2010-05-30,Turkish,Mercedes
+73,5,0,2010,2010-05-30,Turkish,Alpine F1 Team
+32,6,0,2010,2010-05-30,Turkish,Aston Martin
+8,7,0,2010,2010-05-30,Turkish,Williams
+4,8,0,2010,2010-05-30,Turkish,AlphaTauri
+1,9,0,2010,2010-05-30,Turkish,Alfa Romeo
+215,1,4,2010,2010-06-13,Canadian,McLaren
+193,2,3,2010,2010-06-13,Canadian,Red Bull
+161,3,1,2010,2010-06-13,Canadian,Ferrari
+108,4,0,2010,2010-06-13,Canadian,Mercedes
+79,5,0,2010,2010-06-13,Canadian,Alpine F1 Team
+35,6,0,2010,2010-06-13,Canadian,Aston Martin
+8,7,0,2010,2010-06-13,Canadian,AlphaTauri
+8,8,0,2010,2010-06-13,Canadian,Williams
+1,9,0,2010,2010-06-13,Canadian,Alfa Romeo
+248,1,4,2010,2010-06-27,European,McLaren
+218,2,4,2010,2010-06-27,European,Red Bull
+165,3,1,2010,2010-06-27,European,Ferrari
+109,4,0,2010,2010-06-27,European,Mercedes
+89,5,0,2010,2010-06-27,European,Alpine F1 Team
+43,6,0,2010,2010-06-27,European,Aston Martin
+20,7,0,2010,2010-06-27,European,Williams
+10,8,0,2010,2010-06-27,European,AlphaTauri
+7,9,0,2010,2010-06-27,European,Alfa Romeo
+278,1,4,2010,2010-07-11,British,McLaren
+249,2,5,2010,2010-07-11,British,Red Bull
+165,3,1,2010,2010-07-11,British,Ferrari
+126,4,0,2010,2010-07-11,British,Mercedes
+89,5,0,2010,2010-07-11,British,Alpine F1 Team
+47,6,0,2010,2010-07-11,British,Aston Martin
+31,7,0,2010,2010-07-11,British,Williams
+15,8,0,2010,2010-07-11,British,Alfa Romeo
+10,9,0,2010,2010-07-11,British,AlphaTauri
+300,1,4,2010,2010-07-25,German,McLaren
+272,2,5,2010,2010-07-25,German,Red Bull
+208,3,2,2010,2010-07-25,German,Ferrari
+132,4,0,2010,2010-07-25,German,Mercedes
+96,5,0,2010,2010-07-25,German,Alpine F1 Team
+47,6,0,2010,2010-07-25,German,Aston Martin
+31,7,0,2010,2010-07-25,German,Williams
+15,8,0,2010,2010-07-25,German,Alfa Romeo
+10,9,0,2010,2010-07-25,German,AlphaTauri
+312,1,6,2010,2010-08-01,Hungarian,Red Bull
+304,2,4,2010,2010-08-01,Hungarian,McLaren
+238,3,2,2010,2010-08-01,Hungarian,Ferrari
+132,4,0,2010,2010-08-01,Hungarian,Mercedes
+106,5,0,2010,2010-08-01,Hungarian,Alpine F1 Team
+47,6,0,2010,2010-08-01,Hungarian,Aston Martin
+40,7,0,2010,2010-08-01,Hungarian,Williams
+23,8,0,2010,2010-08-01,Hungarian,Alfa Romeo
+10,9,0,2010,2010-08-01,Hungarian,AlphaTauri
+330,1,6,2010,2010-08-29,Belgian,Red Bull
+329,2,5,2010,2010-08-29,Belgian,McLaren
+250,3,2,2010,2010-08-29,Belgian,Ferrari
+146,4,0,2010,2010-08-29,Belgian,Mercedes
+123,5,0,2010,2010-08-29,Belgian,Alpine F1 Team
+58,6,0,2010,2010-08-29,Belgian,Aston Martin
+40,7,0,2010,2010-08-29,Belgian,Williams
+27,8,0,2010,2010-08-29,Belgian,Alfa Romeo
+10,9,0,2010,2010-08-29,Belgian,AlphaTauri
+350,1,6,2010,2010-09-12,Italian,Red Bull
+347,2,5,2010,2010-09-12,Italian,McLaren
+290,3,3,2010,2010-09-12,Italian,Ferrari
+158,4,0,2010,2010-09-12,Italian,Mercedes
+127,5,0,2010,2010-09-12,Italian,Alpine F1 Team
+58,6,0,2010,2010-09-12,Italian,Aston Martin
+47,7,0,2010,2010-09-12,Italian,Williams
+27,8,0,2010,2010-09-12,Italian,Alfa Romeo
+10,9,0,2010,2010-09-12,Italian,AlphaTauri
+383,1,6,2010,2010-09-26,Singapore,Red Bull
+359,2,5,2010,2010-09-26,Singapore,McLaren
+319,3,4,2010,2010-09-26,Singapore,Ferrari
+168,4,0,2010,2010-09-26,Singapore,Mercedes
+133,5,0,2010,2010-09-26,Singapore,Alpine F1 Team
+60,6,0,2010,2010-09-26,Singapore,Aston Martin
+56,7,0,2010,2010-09-26,Singapore,Williams
+27,8,0,2010,2010-09-26,Singapore,Alfa Romeo
+10,9,0,2010,2010-09-26,Singapore,AlphaTauri
+426,1,7,2010,2010-10-10,Japanese,Red Bull
+381,2,5,2010,2010-10-10,Japanese,McLaren
+334,3,4,2010,2010-10-10,Japanese,Ferrari
+176,4,0,2010,2010-10-10,Japanese,Mercedes
+133,5,0,2010,2010-10-10,Japanese,Alpine F1 Team
+60,6,0,2010,2010-10-10,Japanese,Aston Martin
+58,7,0,2010,2010-10-10,Japanese,Williams
+37,8,0,2010,2010-10-10,Japanese,Alfa Romeo
+11,9,0,2010,2010-10-10,Japanese,AlphaTauri
+426,1,7,2010,2010-10-24,Korean,Red Bull
+399,2,5,2010,2010-10-24,Korean,McLaren
+374,3,5,2010,2010-10-24,Korean,Ferrari
+188,4,0,2010,2010-10-24,Korean,Mercedes
+143,5,0,2010,2010-10-24,Korean,Alpine F1 Team
+68,6,0,2010,2010-10-24,Korean,Aston Martin
+65,7,0,2010,2010-10-24,Korean,Williams
+43,8,0,2010,2010-10-24,Korean,Alfa Romeo
+11,9,0,2010,2010-10-24,Korean,AlphaTauri
+469,1,8,2010,2010-11-07,Brazilian,Red Bull
+421,2,5,2010,2010-11-07,Brazilian,McLaren
+389,3,5,2010,2010-11-07,Brazilian,Ferrari
+202,4,0,2010,2010-11-07,Brazilian,Mercedes
+145,5,0,2010,2010-11-07,Brazilian,Alpine F1 Team
+69,6,0,2010,2010-11-07,Brazilian,Williams
+68,7,0,2010,2010-11-07,Brazilian,Aston Martin
+44,8,0,2010,2010-11-07,Brazilian,Alfa Romeo
+11,9,0,2010,2010-11-07,Brazilian,AlphaTauri
+498,1,9,2010,2010-11-14,Abu Dhabi,Red Bull
+454,2,5,2010,2010-11-14,Abu Dhabi,McLaren
+396,3,5,2010,2010-11-14,Abu Dhabi,Ferrari
+214,4,0,2010,2010-11-14,Abu Dhabi,Mercedes
+163,5,0,2010,2010-11-14,Abu Dhabi,Alpine F1 Team
+69,6,0,2010,2010-11-14,Abu Dhabi,Williams
+68,7,0,2010,2010-11-14,Abu Dhabi,Aston Martin
+44,8,0,2010,2010-11-14,Abu Dhabi,Alfa Romeo
+13,9,0,2010,2010-11-14,Abu Dhabi,AlphaTauri
+35,1,1,2011,2011-03-27,Australian,Red Bull
+26,2,0,2011,2011-03-27,Australian,McLaren
+18,3,0,2011,2011-03-27,Australian,Ferrari
+15,4,0,2011,2011-03-27,Australian,Alpine F1 Team
+4,5,0,2011,2011-03-27,Australian,AlphaTauri
+3,6,0,2011,2011-03-27,Australian,Aston Martin
+0,9,0,2011,2011-03-27,Australian,Williams
+0,10,0,2011,2011-03-27,Australian,Mercedes
+72,1,2,2011,2011-04-10,Malaysian,Red Bull
+48,2,0,2011,2011-04-10,Malaysian,McLaren
+36,3,0,2011,2011-04-10,Malaysian,Ferrari
+30,4,0,2011,2011-04-10,Malaysian,Alpine F1 Team
+6,5,0,2011,2011-04-10,Malaysian,Alfa Romeo
+4,6,0,2011,2011-04-10,Malaysian,AlphaTauri
+4,7,0,2011,2011-04-10,Malaysian,Aston Martin
+2,8,0,2011,2011-04-10,Malaysian,Mercedes
+0,11,0,2011,2011-04-10,Malaysian,Williams
+105,1,2,2011,2011-04-17,Chinese,Red Bull
+85,2,1,2011,2011-04-17,Chinese,McLaren
+50,3,0,2011,2011-04-17,Chinese,Ferrari
+32,4,0,2011,2011-04-17,Chinese,Alpine F1 Team
+16,5,0,2011,2011-04-17,Chinese,Mercedes
+7,6,0,2011,2011-04-17,Chinese,Alfa Romeo
+4,7,0,2011,2011-04-17,Chinese,AlphaTauri
+4,8,0,2011,2011-04-17,Chinese,Aston Martin
+0,10,0,2011,2011-04-17,Chinese,Williams
+148,1,3,2011,2011-05-08,Turkish,Red Bull
+105,2,1,2011,2011-05-08,Turkish,McLaren
+65,3,0,2011,2011-05-08,Turkish,Ferrari
+42,4,0,2011,2011-05-08,Turkish,Alpine F1 Team
+26,5,0,2011,2011-05-08,Turkish,Mercedes
+8,6,0,2011,2011-05-08,Turkish,Alfa Romeo
+6,7,0,2011,2011-05-08,Turkish,AlphaTauri
+4,8,0,2011,2011-05-08,Turkish,Aston Martin
+0,10,0,2011,2011-05-08,Turkish,Williams
+185,1,4,2011,2011-05-22,Spanish,Red Bull
+138,2,1,2011,2011-05-22,Spanish,McLaren
+75,3,0,2011,2011-05-22,Spanish,Ferrari
+46,4,0,2011,2011-05-22,Spanish,Alpine F1 Team
+40,5,0,2011,2011-05-22,Spanish,Mercedes
+11,6,0,2011,2011-05-22,Spanish,Alfa Romeo
+6,7,0,2011,2011-05-22,Spanish,AlphaTauri
+4,8,0,2011,2011-05-22,Spanish,Aston Martin
+0,9,0,2011,2011-05-22,Spanish,Williams
+222,1,5,2011,2011-05-29,Monaco,Red Bull
+161,2,1,2011,2011-05-29,Monaco,McLaren
+93,3,0,2011,2011-05-29,Monaco,Ferrari
+50,4,0,2011,2011-05-29,Monaco,Alpine F1 Team
+40,5,0,2011,2011-05-29,Monaco,Mercedes
+21,6,0,2011,2011-05-29,Monaco,Alfa Romeo
+10,7,0,2011,2011-05-29,Monaco,Aston Martin
+7,8,0,2011,2011-05-29,Monaco,AlphaTauri
+2,9,0,2011,2011-05-29,Monaco,Williams
+255,1,5,2011,2011-06-12,Canadian,Red Bull
+186,2,2,2011,2011-06-12,Canadian,McLaren
+101,3,0,2011,2011-06-12,Canadian,Ferrari
+60,4,0,2011,2011-06-12,Canadian,Alpine F1 Team
+52,5,0,2011,2011-06-12,Canadian,Mercedes
+27,6,0,2011,2011-06-12,Canadian,Alfa Romeo
+12,7,0,2011,2011-06-12,Canadian,AlphaTauri
+10,8,0,2011,2011-06-12,Canadian,Aston Martin
+4,9,0,2011,2011-06-12,Canadian,Williams
+295,1,6,2011,2011-06-26,European,Red Bull
+206,2,2,2011,2011-06-26,European,McLaren
+129,3,0,2011,2011-06-26,European,Ferrari
+61,4,0,2011,2011-06-26,European,Alpine F1 Team
+58,5,0,2011,2011-06-26,European,Mercedes
+27,6,0,2011,2011-06-26,European,Alfa Romeo
+16,7,0,2011,2011-06-26,European,AlphaTauri
+12,8,0,2011,2011-06-26,European,Aston Martin
+4,9,0,2011,2011-06-26,European,Williams
+328,1,6,2011,2011-07-10,British,Red Bull
+218,2,2,2011,2011-07-10,British,McLaren
+164,3,1,2011,2011-07-10,British,Ferrari
+68,4,0,2011,2011-07-10,British,Mercedes
+65,5,0,2011,2011-07-10,British,Alpine F1 Team
+33,6,0,2011,2011-07-10,British,Alfa Romeo
+17,7,0,2011,2011-07-10,British,AlphaTauri
+12,8,0,2011,2011-07-10,British,Aston Martin
+4,9,0,2011,2011-07-10,British,Williams
+355,1,6,2011,2011-07-24,German,Red Bull
+243,2,3,2011,2011-07-24,German,McLaren
+192,3,1,2011,2011-07-24,German,Ferrari
+78,4,0,2011,2011-07-24,German,Mercedes
+66,5,0,2011,2011-07-24,German,Alpine F1 Team
+35,6,0,2011,2011-07-24,German,Alfa Romeo
+20,7,0,2011,2011-07-24,German,Aston Martin
+17,8,0,2011,2011-07-24,German,AlphaTauri
+4,9,0,2011,2011-07-24,German,Williams
+383,1,6,2011,2011-07-31,Hungarian,Red Bull
+280,2,4,2011,2011-07-31,Hungarian,McLaren
+215,3,1,2011,2011-07-31,Hungarian,Ferrari
+80,4,0,2011,2011-07-31,Hungarian,Mercedes
+66,5,0,2011,2011-07-31,Hungarian,Alpine F1 Team
+35,6,0,2011,2011-07-31,Hungarian,Alfa Romeo
+26,7,0,2011,2011-07-31,Hungarian,Aston Martin
+22,8,0,2011,2011-07-31,Hungarian,AlphaTauri
+4,9,0,2011,2011-07-31,Hungarian,Williams
+426,1,7,2011,2011-08-28,Belgian,Red Bull
+295,2,4,2011,2011-08-28,Belgian,McLaren
+231,3,1,2011,2011-08-28,Belgian,Ferrari
+98,4,0,2011,2011-08-28,Belgian,Mercedes
+68,5,0,2011,2011-08-28,Belgian,Alpine F1 Team
+35,6,0,2011,2011-08-28,Belgian,Alfa Romeo
+32,7,0,2011,2011-08-28,Belgian,Aston Martin
+22,8,0,2011,2011-08-28,Belgian,AlphaTauri
+5,9,0,2011,2011-08-28,Belgian,Williams
+451,1,8,2011,2011-09-11,Italian,Red Bull
+325,2,4,2011,2011-09-11,Italian,McLaren
+254,3,1,2011,2011-09-11,Italian,Ferrari
+108,4,0,2011,2011-09-11,Italian,Mercedes
+70,5,0,2011,2011-09-11,Italian,Alpine F1 Team
+36,6,0,2011,2011-09-11,Italian,Aston Martin
+35,7,0,2011,2011-09-11,Italian,Alfa Romeo
+29,8,0,2011,2011-09-11,Italian,AlphaTauri
+5,9,0,2011,2011-09-11,Italian,Williams
+491,1,9,2011,2011-09-25,Singapore,Red Bull
+353,2,4,2011,2011-09-25,Singapore,McLaren
+268,3,1,2011,2011-09-25,Singapore,Ferrari
+114,4,0,2011,2011-09-25,Singapore,Mercedes
+70,5,0,2011,2011-09-25,Singapore,Alpine F1 Team
+48,6,0,2011,2011-09-25,Singapore,Aston Martin
+36,7,0,2011,2011-09-25,Singapore,Alfa Romeo
+29,8,0,2011,2011-09-25,Singapore,AlphaTauri
+5,9,0,2011,2011-09-25,Singapore,Williams
+518,1,9,2011,2011-10-09,Japanese,Red Bull
+388,2,5,2011,2011-10-09,Japanese,McLaren
+292,3,1,2011,2011-10-09,Japanese,Ferrari
+123,4,0,2011,2011-10-09,Japanese,Mercedes
+72,5,0,2011,2011-10-09,Japanese,Alpine F1 Team
+48,6,0,2011,2011-10-09,Japanese,Aston Martin
+40,7,0,2011,2011-10-09,Japanese,Alfa Romeo
+29,8,0,2011,2011-10-09,Japanese,AlphaTauri
+5,9,0,2011,2011-10-09,Japanese,Williams
+558,1,10,2011,2011-10-16,Korean,Red Bull
+418,2,5,2011,2011-10-16,Korean,McLaren
+310,3,1,2011,2011-10-16,Korean,Ferrari
+127,4,0,2011,2011-10-16,Korean,Mercedes
+72,5,0,2011,2011-10-16,Korean,Alpine F1 Team
+49,6,0,2011,2011-10-16,Korean,Aston Martin
+40,7,0,2011,2011-10-16,Korean,Alfa Romeo
+37,8,0,2011,2011-10-16,Korean,AlphaTauri
+5,9,0,2011,2011-10-16,Korean,Williams
+595,1,11,2011,2011-10-30,Indian,Red Bull
+442,2,5,2011,2011-10-30,Indian,McLaren
+325,3,1,2011,2011-10-30,Indian,Ferrari
+145,4,0,2011,2011-10-30,Indian,Mercedes
+72,5,0,2011,2011-10-30,Indian,Alpine F1 Team
+51,6,0,2011,2011-10-30,Indian,Aston Martin
+41,7,0,2011,2011-10-30,Indian,Alfa Romeo
+41,8,0,2011,2011-10-30,Indian,AlphaTauri
+5,9,0,2011,2011-10-30,Indian,Williams
+607,1,11,2011,2011-11-13,Abu Dhabi,Red Bull
+482,2,6,2011,2011-11-13,Abu Dhabi,McLaren
+353,3,1,2011,2011-11-13,Abu Dhabi,Ferrari
+159,4,0,2011,2011-11-13,Abu Dhabi,Mercedes
+72,5,0,2011,2011-11-13,Abu Dhabi,Alpine F1 Team
+57,6,0,2011,2011-11-13,Abu Dhabi,Aston Martin
+42,7,0,2011,2011-11-13,Abu Dhabi,Alfa Romeo
+41,8,0,2011,2011-11-13,Abu Dhabi,AlphaTauri
+5,9,0,2011,2011-11-13,Abu Dhabi,Williams
+650,1,12,2011,2011-11-27,Brazilian,Red Bull
+497,2,6,2011,2011-11-27,Brazilian,McLaren
+375,3,1,2011,2011-11-27,Brazilian,Ferrari
+165,4,0,2011,2011-11-27,Brazilian,Mercedes
+73,5,0,2011,2011-11-27,Brazilian,Alpine F1 Team
+69,6,0,2011,2011-11-27,Brazilian,Aston Martin
+44,7,0,2011,2011-11-27,Brazilian,Alfa Romeo
+41,8,0,2011,2011-11-27,Brazilian,AlphaTauri
+5,9,0,2011,2011-11-27,Brazilian,Williams
+40,1,1,2012,2012-03-18,Australian,McLaren
+30,2,0,2012,2012-03-18,Australian,Red Bull
+12,3,0,2012,2012-03-18,Australian,Alfa Romeo
+10,4,0,2012,2012-03-18,Australian,Ferrari
+6,5,0,2012,2012-03-18,Australian,Alpine F1 Team
+2,6,0,2012,2012-03-18,Australian,AlphaTauri
+1,7,0,2012,2012-03-18,Australian,Aston Martin
+0,8,0,2012,2012-03-18,Australian,Mercedes
+0,9,0,2012,2012-03-18,Australian,Williams
+55,1,1,2012,2012-03-25,Malaysian,McLaren
+42,2,0,2012,2012-03-25,Malaysian,Red Bull
+35,3,1,2012,2012-03-25,Malaysian,Ferrari
+30,4,0,2012,2012-03-25,Malaysian,Alfa Romeo
+16,5,0,2012,2012-03-25,Malaysian,Alpine F1 Team
+9,6,0,2012,2012-03-25,Malaysian,Aston Martin
+8,7,0,2012,2012-03-25,Malaysian,Williams
+6,8,0,2012,2012-03-25,Malaysian,AlphaTauri
+1,9,0,2012,2012-03-25,Malaysian,Mercedes
+88,1,1,2012,2012-04-15,Chinese,McLaren
+64,2,0,2012,2012-04-15,Chinese,Red Bull
+37,3,1,2012,2012-04-15,Chinese,Ferrari
+31,4,0,2012,2012-04-15,Chinese,Alfa Romeo
+26,5,1,2012,2012-04-15,Chinese,Mercedes
+24,6,0,2012,2012-04-15,Chinese,Alpine F1 Team
+18,7,0,2012,2012-04-15,Chinese,Williams
+9,8,0,2012,2012-04-15,Chinese,Aston Martin
+6,9,0,2012,2012-04-15,Chinese,AlphaTauri
+101,1,1,2012,2012-04-22,Bahrain,Red Bull
+92,2,1,2012,2012-04-22,Bahrain,McLaren
+57,3,0,2012,2012-04-22,Bahrain,Alpine F1 Team
+45,4,1,2012,2012-04-22,Bahrain,Ferrari
+37,5,1,2012,2012-04-22,Bahrain,Mercedes
+31,6,0,2012,2012-04-22,Bahrain,Alfa Romeo
+18,7,0,2012,2012-04-22,Bahrain,Williams
+17,8,0,2012,2012-04-22,Bahrain,Aston Martin
+6,9,0,2012,2012-04-22,Bahrain,AlphaTauri
+109,1,1,2012,2012-05-13,Spanish,Red Bull
+98,2,1,2012,2012-05-13,Spanish,McLaren
+84,3,0,2012,2012-05-13,Spanish,Alpine F1 Team
+63,4,1,2012,2012-05-13,Spanish,Ferrari
+43,5,1,2012,2012-05-13,Spanish,Mercedes
+43,6,1,2012,2012-05-13,Spanish,Williams
+41,7,0,2012,2012-05-13,Spanish,Alfa Romeo
+18,8,0,2012,2012-05-13,Spanish,Aston Martin
+6,9,0,2012,2012-05-13,Spanish,AlphaTauri
+146,1,2,2012,2012-05-27,Monaco,Red Bull
+108,2,1,2012,2012-05-27,Monaco,McLaren
+86,3,1,2012,2012-05-27,Monaco,Ferrari
+86,4,0,2012,2012-05-27,Monaco,Alpine F1 Team
+61,5,1,2012,2012-05-27,Monaco,Mercedes
+44,6,1,2012,2012-05-27,Monaco,Williams
+41,7,0,2012,2012-05-27,Monaco,Alfa Romeo
+28,8,0,2012,2012-05-27,Monaco,Aston Martin
+6,9,0,2012,2012-05-27,Monaco,AlphaTauri
+164,1,2,2012,2012-06-10,Canadian,Red Bull
+133,2,2,2012,2012-06-10,Canadian,McLaren
+108,3,0,2012,2012-06-10,Canadian,Alpine F1 Team
+97,4,1,2012,2012-06-10,Canadian,Ferrari
+69,5,1,2012,2012-06-10,Canadian,Mercedes
+58,6,0,2012,2012-06-10,Canadian,Alfa Romeo
+44,7,1,2012,2012-06-10,Canadian,Williams
+28,8,0,2012,2012-06-10,Canadian,Aston Martin
+6,9,0,2012,2012-06-10,Canadian,AlphaTauri
+176,1,2,2012,2012-06-24,European,Red Bull
+137,2,2,2012,2012-06-24,European,McLaren
+126,3,0,2012,2012-06-24,European,Alpine F1 Team
+122,4,2,2012,2012-06-24,European,Ferrari
+92,5,1,2012,2012-06-24,European,Mercedes
+60,6,0,2012,2012-06-24,European,Alfa Romeo
+45,7,1,2012,2012-06-24,European,Williams
+44,8,0,2012,2012-06-24,European,Aston Martin
+6,9,0,2012,2012-06-24,European,AlphaTauri
+216,1,3,2012,2012-07-08,British,Red Bull
+152,2,2,2012,2012-07-08,British,Ferrari
+144,3,0,2012,2012-07-08,British,Alpine F1 Team
+142,4,2,2012,2012-07-08,British,McLaren
+98,5,1,2012,2012-07-08,British,Mercedes
+60,6,0,2012,2012-07-08,British,Alfa Romeo
+47,7,1,2012,2012-07-08,British,Williams
+44,8,0,2012,2012-07-08,British,Aston Martin
+6,9,0,2012,2012-07-08,British,AlphaTauri
+230,1,3,2012,2012-07-22,German,Red Bull
+177,2,3,2012,2012-07-22,German,Ferrari
+160,3,2,2012,2012-07-22,German,McLaren
+159,4,0,2012,2012-07-22,German,Alpine F1 Team
+105,5,1,2012,2012-07-22,German,Mercedes
+80,6,0,2012,2012-07-22,German,Alfa Romeo
+47,7,1,2012,2012-07-22,German,Williams
+46,8,0,2012,2012-07-22,German,Aston Martin
+6,9,0,2012,2012-07-22,German,AlphaTauri
+246,1,3,2012,2012-07-29,Hungarian,Red Bull
+193,2,3,2012,2012-07-29,Hungarian,McLaren
+192,3,0,2012,2012-07-29,Hungarian,Alpine F1 Team
+189,4,3,2012,2012-07-29,Hungarian,Ferrari
+106,5,1,2012,2012-07-29,Hungarian,Mercedes
+80,6,0,2012,2012-07-29,Hungarian,Alfa Romeo
+53,7,1,2012,2012-07-29,Hungarian,Williams
+46,8,0,2012,2012-07-29,Hungarian,Aston Martin
+6,9,0,2012,2012-07-29,Hungarian,AlphaTauri
+272,1,3,2012,2012-09-02,Belgian,Red Bull
+218,2,4,2012,2012-09-02,Belgian,McLaren
+207,3,0,2012,2012-09-02,Belgian,Alpine F1 Team
+199,4,3,2012,2012-09-02,Belgian,Ferrari
+112,5,1,2012,2012-09-02,Belgian,Mercedes
+80,6,0,2012,2012-09-02,Belgian,Alfa Romeo
+59,7,0,2012,2012-09-02,Belgian,Aston Martin
+53,8,1,2012,2012-09-02,Belgian,Williams
+12,9,0,2012,2012-09-02,Belgian,AlphaTauri
+272,1,3,2012,2012-09-09,Italian,Red Bull
+243,2,5,2012,2012-09-09,Italian,McLaren
+226,3,3,2012,2012-09-09,Italian,Ferrari
+217,4,0,2012,2012-09-09,Italian,Alpine F1 Team
+126,5,1,2012,2012-09-09,Italian,Mercedes
+100,6,0,2012,2012-09-09,Italian,Alfa Romeo
+63,7,0,2012,2012-09-09,Italian,Aston Martin
+54,8,1,2012,2012-09-09,Italian,Williams
+12,9,0,2012,2012-09-09,Italian,AlphaTauri
+297,1,4,2012,2012-09-23,Singapore,Red Bull
+261,2,5,2012,2012-09-23,Singapore,McLaren
+245,3,3,2012,2012-09-23,Singapore,Ferrari
+231,4,0,2012,2012-09-23,Singapore,Alpine F1 Team
+136,5,1,2012,2012-09-23,Singapore,Mercedes
+101,6,0,2012,2012-09-23,Singapore,Alfa Romeo
+75,7,0,2012,2012-09-23,Singapore,Aston Martin
+54,8,1,2012,2012-09-23,Singapore,Williams
+14,9,0,2012,2012-09-23,Singapore,AlphaTauri
+324,1,5,2012,2012-10-07,Japanese,Red Bull
+283,2,5,2012,2012-10-07,Japanese,McLaren
+263,3,3,2012,2012-10-07,Japanese,Ferrari
+239,4,0,2012,2012-10-07,Japanese,Alpine F1 Team
+136,5,1,2012,2012-10-07,Japanese,Mercedes
+116,6,0,2012,2012-10-07,Japanese,Alfa Romeo
+81,7,0,2012,2012-10-07,Japanese,Aston Martin
+58,8,1,2012,2012-10-07,Japanese,Williams
+15,9,0,2012,2012-10-07,Japanese,AlphaTauri
+367,1,6,2012,2012-10-14,Korean,Red Bull
+290,2,3,2012,2012-10-14,Korean,Ferrari
+284,3,5,2012,2012-10-14,Korean,McLaren
+255,4,0,2012,2012-10-14,Korean,Alpine F1 Team
+136,5,1,2012,2012-10-14,Korean,Mercedes
+116,6,0,2012,2012-10-14,Korean,Alfa Romeo
+89,7,0,2012,2012-10-14,Korean,Aston Martin
+58,8,1,2012,2012-10-14,Korean,Williams
+21,9,0,2012,2012-10-14,Korean,AlphaTauri
+407,1,7,2012,2012-10-28,Indian,Red Bull
+316,2,3,2012,2012-10-28,Indian,Ferrari
+306,3,5,2012,2012-10-28,Indian,McLaren
+263,4,0,2012,2012-10-28,Indian,Alpine F1 Team
+136,5,1,2012,2012-10-28,Indian,Mercedes
+116,6,0,2012,2012-10-28,Indian,Alfa Romeo
+93,7,0,2012,2012-10-28,Indian,Aston Martin
+59,8,1,2012,2012-10-28,Indian,Williams
+21,9,0,2012,2012-10-28,Indian,AlphaTauri
+422,1,7,2012,2012-11-04,Abu Dhabi,Red Bull
+340,2,3,2012,2012-11-04,Abu Dhabi,Ferrari
+318,3,5,2012,2012-11-04,Abu Dhabi,McLaren
+288,4,1,2012,2012-11-04,Abu Dhabi,Alpine F1 Team
+136,5,1,2012,2012-11-04,Abu Dhabi,Mercedes
+124,6,0,2012,2012-11-04,Abu Dhabi,Alfa Romeo
+95,7,0,2012,2012-11-04,Abu Dhabi,Aston Martin
+73,8,1,2012,2012-11-04,Abu Dhabi,Williams
+22,9,0,2012,2012-11-04,Abu Dhabi,AlphaTauri
+440,1,7,2012,2012-11-18,United States,Red Bull
+367,2,3,2012,2012-11-18,United States,Ferrari
+353,3,6,2012,2012-11-18,United States,McLaren
+302,4,1,2012,2012-11-18,United States,Alpine F1 Team
+136,5,1,2012,2012-11-18,United States,Mercedes
+124,6,0,2012,2012-11-18,United States,Alfa Romeo
+99,7,0,2012,2012-11-18,United States,Aston Martin
+76,8,1,2012,2012-11-18,United States,Williams
+22,9,0,2012,2012-11-18,United States,AlphaTauri
+460,1,7,2012,2012-11-25,Brazilian,Red Bull
+400,2,3,2012,2012-11-25,Brazilian,Ferrari
+378,3,7,2012,2012-11-25,Brazilian,McLaren
+303,4,1,2012,2012-11-25,Brazilian,Alpine F1 Team
+142,5,1,2012,2012-11-25,Brazilian,Mercedes
+126,6,0,2012,2012-11-25,Brazilian,Alfa Romeo
+109,7,0,2012,2012-11-25,Brazilian,Aston Martin
+76,8,1,2012,2012-11-25,Brazilian,Williams
+26,9,0,2012,2012-11-25,Brazilian,AlphaTauri
+30,1,0,2013,2013-03-17,Australian,Ferrari
+26,2,1,2013,2013-03-17,Australian,Alpine F1 Team
+23,3,0,2013,2013-03-17,Australian,Red Bull
+10,4,0,2013,2013-03-17,Australian,Mercedes
+10,5,0,2013,2013-03-17,Australian,Aston Martin
+2,6,0,2013,2013-03-17,Australian,McLaren
+0,7,0,2013,2013-03-17,Australian,AlphaTauri
+0,8,0,2013,2013-03-17,Australian,Alfa Romeo
+0,9,0,2013,2013-03-17,Australian,Williams
+66,1,1,2013,2013-03-24,Malaysian,Red Bull
+40,2,1,2013,2013-03-24,Malaysian,Alpine F1 Team
+40,3,0,2013,2013-03-24,Malaysian,Ferrari
+37,4,0,2013,2013-03-24,Malaysian,Mercedes
+10,5,0,2013,2013-03-24,Malaysian,Aston Martin
+4,6,0,2013,2013-03-24,Malaysian,Alfa Romeo
+4,7,0,2013,2013-03-24,Malaysian,McLaren
+1,8,0,2013,2013-03-24,Malaysian,AlphaTauri
+0,9,0,2013,2013-03-24,Malaysian,Williams
+78,1,1,2013,2013-04-14,Chinese,Red Bull
+73,2,1,2013,2013-04-14,Chinese,Ferrari
+60,3,1,2013,2013-04-14,Chinese,Alpine F1 Team
+52,4,0,2013,2013-04-14,Chinese,Mercedes
+14,5,0,2013,2013-04-14,Chinese,McLaren
+14,6,0,2013,2013-04-14,Chinese,Aston Martin
+7,7,0,2013,2013-04-14,Chinese,AlphaTauri
+5,8,0,2013,2013-04-14,Chinese,Alfa Romeo
+0,9,0,2013,2013-04-14,Chinese,Williams
+109,1,2,2013,2013-04-21,Bahrain,Red Bull
+93,2,1,2013,2013-04-21,Bahrain,Alpine F1 Team
+77,3,1,2013,2013-04-21,Bahrain,Ferrari
+64,4,0,2013,2013-04-21,Bahrain,Mercedes
+26,5,0,2013,2013-04-21,Bahrain,Aston Martin
+23,6,0,2013,2013-04-21,Bahrain,McLaren
+7,7,0,2013,2013-04-21,Bahrain,AlphaTauri
+5,8,0,2013,2013-04-21,Bahrain,Alfa Romeo
+0,9,0,2013,2013-04-21,Bahrain,Williams
+131,1,2,2013,2013-05-12,Spanish,Red Bull
+117,2,2,2013,2013-05-12,Spanish,Ferrari
+111,3,1,2013,2013-05-12,Spanish,Alpine F1 Team
+72,4,0,2013,2013-05-12,Spanish,Mercedes
+32,5,0,2013,2013-05-12,Spanish,Aston Martin
+29,6,0,2013,2013-05-12,Spanish,McLaren
+8,7,0,2013,2013-05-12,Spanish,AlphaTauri
+5,8,0,2013,2013-05-12,Spanish,Alfa Romeo
+0,9,0,2013,2013-05-12,Spanish,Williams
+164,1,2,2013,2013-05-26,Monaco,Red Bull
+123,2,2,2013,2013-05-26,Monaco,Ferrari
+112,3,1,2013,2013-05-26,Monaco,Alpine F1 Team
+109,4,1,2013,2013-05-26,Monaco,Mercedes
+44,5,0,2013,2013-05-26,Monaco,Aston Martin
+37,6,0,2013,2013-05-26,Monaco,McLaren
+12,7,0,2013,2013-05-26,Monaco,AlphaTauri
+5,8,0,2013,2013-05-26,Monaco,Alfa Romeo
+0,9,0,2013,2013-05-26,Monaco,Williams
+201,1,3,2013,2013-06-09,Canadian,Red Bull
+145,2,2,2013,2013-06-09,Canadian,Ferrari
+134,3,1,2013,2013-06-09,Canadian,Mercedes
+114,4,1,2013,2013-06-09,Canadian,Alpine F1 Team
+51,5,0,2013,2013-06-09,Canadian,Aston Martin
+37,6,0,2013,2013-06-09,Canadian,McLaren
+20,7,0,2013,2013-06-09,Canadian,AlphaTauri
+5,8,0,2013,2013-06-09,Canadian,Alfa Romeo
+0,9,0,2013,2013-06-09,Canadian,Williams
+219,1,3,2013,2013-06-30,British,Red Bull
+171,2,2,2013,2013-06-30,British,Mercedes
+168,3,2,2013,2013-06-30,British,Ferrari
+124,4,1,2013,2013-06-30,British,Alpine F1 Team
+59,5,0,2013,2013-06-30,British,Aston Martin
+37,6,0,2013,2013-06-30,British,McLaren
+24,7,0,2013,2013-06-30,British,AlphaTauri
+6,8,0,2013,2013-06-30,British,Alfa Romeo
+0,9,0,2013,2013-06-30,British,Williams
+250,1,4,2013,2013-07-07,German,Red Bull
+183,2,2,2013,2013-07-07,German,Mercedes
+180,3,2,2013,2013-07-07,German,Ferrari
+157,4,1,2013,2013-07-07,German,Alpine F1 Team
+59,5,0,2013,2013-07-07,German,Aston Martin
+49,6,0,2013,2013-07-07,German,McLaren
+24,7,0,2013,2013-07-07,German,AlphaTauri
+7,8,0,2013,2013-07-07,German,Alfa Romeo
+0,9,0,2013,2013-07-07,German,Williams
+277,1,4,2013,2013-07-28,Hungarian,Red Bull
+208,2,3,2013,2013-07-28,Hungarian,Mercedes
+194,3,2,2013,2013-07-28,Hungarian,Ferrari
+183,4,1,2013,2013-07-28,Hungarian,Alpine F1 Team
+59,5,0,2013,2013-07-28,Hungarian,Aston Martin
+57,6,0,2013,2013-07-28,Hungarian,McLaren
+24,7,0,2013,2013-07-28,Hungarian,AlphaTauri
+7,8,0,2013,2013-07-28,Hungarian,Alfa Romeo
+1,9,0,2013,2013-07-28,Hungarian,Williams
+312,1,5,2013,2013-08-25,Belgian,Red Bull
+235,2,3,2013,2013-08-25,Belgian,Mercedes
+218,3,2,2013,2013-08-25,Belgian,Ferrari
+187,4,1,2013,2013-08-25,Belgian,Alpine F1 Team
+65,5,0,2013,2013-08-25,Belgian,McLaren
+61,6,0,2013,2013-08-25,Belgian,Aston Martin
+25,7,0,2013,2013-08-25,Belgian,AlphaTauri
+7,8,0,2013,2013-08-25,Belgian,Alfa Romeo
+1,9,0,2013,2013-08-25,Belgian,Williams
+352,1,6,2013,2013-09-08,Italian,Red Bull
+248,2,2,2013,2013-09-08,Italian,Ferrari
+245,3,3,2013,2013-09-08,Italian,Mercedes
+191,4,1,2013,2013-09-08,Italian,Alpine F1 Team
+66,5,0,2013,2013-09-08,Italian,McLaren
+61,6,0,2013,2013-09-08,Italian,Aston Martin
+31,7,0,2013,2013-09-08,Italian,AlphaTauri
+17,8,0,2013,2013-09-08,Italian,Alfa Romeo
+1,9,0,2013,2013-09-08,Italian,Williams
+377,1,7,2013,2013-09-22,Singapore,Red Bull
+274,2,2,2013,2013-09-22,Singapore,Ferrari
+267,3,3,2013,2013-09-22,Singapore,Mercedes
+206,4,1,2013,2013-09-22,Singapore,Alpine F1 Team
+76,5,0,2013,2013-09-22,Singapore,McLaren
+62,6,0,2013,2013-09-22,Singapore,Aston Martin
+31,7,0,2013,2013-09-22,Singapore,AlphaTauri
+19,8,0,2013,2013-09-22,Singapore,Alfa Romeo
+1,9,0,2013,2013-09-22,Singapore,Williams
+402,1,8,2013,2013-10-06,Korean,Red Bull
+284,2,2,2013,2013-10-06,Korean,Ferrari
+283,3,3,2013,2013-10-06,Korean,Mercedes
+239,4,1,2013,2013-10-06,Korean,Alpine F1 Team
+81,5,0,2013,2013-10-06,Korean,McLaren
+62,6,0,2013,2013-10-06,Korean,Aston Martin
+31,7,0,2013,2013-10-06,Korean,Alfa Romeo
+31,8,0,2013,2013-10-06,Korean,AlphaTauri
+1,9,0,2013,2013-10-06,Korean,Williams
+445,1,9,2013,2013-10-13,Japanese,Red Bull
+297,2,2,2013,2013-10-13,Japanese,Ferrari
+287,3,3,2013,2013-10-13,Japanese,Mercedes
+264,4,1,2013,2013-10-13,Japanese,Alpine F1 Team
+83,5,0,2013,2013-10-13,Japanese,McLaren
+62,6,0,2013,2013-10-13,Japanese,Aston Martin
+45,7,0,2013,2013-10-13,Japanese,Alfa Romeo
+31,8,0,2013,2013-10-13,Japanese,AlphaTauri
+1,9,0,2013,2013-10-13,Japanese,Williams
+470,1,10,2013,2013-10-27,Indian,Red Bull
+313,2,3,2013,2013-10-27,Indian,Mercedes
+309,3,2,2013,2013-10-27,Indian,Ferrari
+285,4,1,2013,2013-10-27,Indian,Alpine F1 Team
+93,5,0,2013,2013-10-27,Indian,McLaren
+68,6,0,2013,2013-10-27,Indian,Aston Martin
+45,7,0,2013,2013-10-27,Indian,Alfa Romeo
+32,8,0,2013,2013-10-27,Indian,AlphaTauri
+1,9,0,2013,2013-10-27,Indian,Williams
+513,1,11,2013,2013-11-03,Abu Dhabi,Red Bull
+334,2,3,2013,2013-11-03,Abu Dhabi,Mercedes
+323,3,2,2013,2013-11-03,Abu Dhabi,Ferrari
+297,4,1,2013,2013-11-03,Abu Dhabi,Alpine F1 Team
+95,5,0,2013,2013-11-03,Abu Dhabi,McLaren
+77,6,0,2013,2013-11-03,Abu Dhabi,Aston Martin
+45,7,0,2013,2013-11-03,Abu Dhabi,Alfa Romeo
+32,8,0,2013,2013-11-03,Abu Dhabi,AlphaTauri
+1,9,0,2013,2013-11-03,Abu Dhabi,Williams
+553,1,12,2013,2013-11-17,United States,Red Bull
+348,2,3,2013,2013-11-17,United States,Mercedes
+333,3,2,2013,2013-11-17,United States,Ferrari
+315,4,1,2013,2013-11-17,United States,Alpine F1 Team
+102,5,0,2013,2013-11-17,United States,McLaren
+77,6,0,2013,2013-11-17,United States,Aston Martin
+53,7,0,2013,2013-11-17,United States,Alfa Romeo
+32,8,0,2013,2013-11-17,United States,AlphaTauri
+5,9,0,2013,2013-11-17,United States,Williams
+596,1,13,2013,2013-11-24,Brazilian,Red Bull
+360,2,3,2013,2013-11-24,Brazilian,Mercedes
+354,3,2,2013,2013-11-24,Brazilian,Ferrari
+315,4,1,2013,2013-11-24,Brazilian,Alpine F1 Team
+122,5,0,2013,2013-11-24,Brazilian,McLaren
+77,6,0,2013,2013-11-24,Brazilian,Aston Martin
+57,7,0,2013,2013-11-24,Brazilian,Alfa Romeo
+33,8,0,2013,2013-11-24,Brazilian,AlphaTauri
+5,9,0,2013,2013-11-24,Brazilian,Williams
+33,1,0,2014,2014-03-16,Australian,McLaren
+25,2,1,2014,2014-03-16,Australian,Mercedes
+18,3,0,2014,2014-03-16,Australian,Ferrari
+10,4,0,2014,2014-03-16,Australian,Williams
+9,5,0,2014,2014-03-16,Australian,Aston Martin
+6,6,0,2014,2014-03-16,Australian,AlphaTauri
+0,7,0,2014,2014-03-16,Australian,Alfa Romeo
+0,9,0,2014,2014-03-16,Australian,Alpine F1 Team
+0,11,0,2014,2014-03-16,Australian,Red Bull
+68,1,2,2014,2014-03-30,Malaysian,Mercedes
+43,2,0,2014,2014-03-30,Malaysian,McLaren
+30,3,0,2014,2014-03-30,Malaysian,Ferrari
+20,4,0,2014,2014-03-30,Malaysian,Williams
+19,5,0,2014,2014-03-30,Malaysian,Aston Martin
+15,6,0,2014,2014-03-30,Malaysian,Red Bull
+7,7,0,2014,2014-03-30,Malaysian,AlphaTauri
+0,8,0,2014,2014-03-30,Malaysian,Alfa Romeo
+0,9,0,2014,2014-03-30,Malaysian,Alpine F1 Team
+111,1,3,2014,2014-04-06,Bahrain,Mercedes
+44,2,0,2014,2014-04-06,Bahrain,Aston Martin
+43,3,0,2014,2014-04-06,Bahrain,McLaren
+35,4,0,2014,2014-04-06,Bahrain,Red Bull
+33,5,0,2014,2014-04-06,Bahrain,Ferrari
+30,6,0,2014,2014-04-06,Bahrain,Williams
+7,7,0,2014,2014-04-06,Bahrain,AlphaTauri
+0,8,0,2014,2014-04-06,Bahrain,Alpine F1 Team
+0,9,0,2014,2014-04-06,Bahrain,Alfa Romeo
+154,1,4,2014,2014-04-20,Chinese,Mercedes
+57,2,0,2014,2014-04-20,Chinese,Red Bull
+54,3,0,2014,2014-04-20,Chinese,Aston Martin
+52,4,0,2014,2014-04-20,Chinese,Ferrari
+43,5,0,2014,2014-04-20,Chinese,McLaren
+36,6,0,2014,2014-04-20,Chinese,Williams
+8,7,0,2014,2014-04-20,Chinese,AlphaTauri
+0,8,0,2014,2014-04-20,Chinese,Alpine F1 Team
+0,9,0,2014,2014-04-20,Chinese,Alfa Romeo
+197,1,5,2014,2014-05-11,Spanish,Mercedes
+84,2,0,2014,2014-05-11,Spanish,Red Bull
+66,3,0,2014,2014-05-11,Spanish,Ferrari
+57,4,0,2014,2014-05-11,Spanish,Aston Martin
+46,5,0,2014,2014-05-11,Spanish,Williams
+43,6,0,2014,2014-05-11,Spanish,McLaren
+8,7,0,2014,2014-05-11,Spanish,AlphaTauri
+4,8,0,2014,2014-05-11,Spanish,Alpine F1 Team
+0,9,0,2014,2014-05-11,Spanish,Alfa Romeo
+240,1,6,2014,2014-05-25,Monaco,Mercedes
+99,2,0,2014,2014-05-25,Monaco,Red Bull
+78,3,0,2014,2014-05-25,Monaco,Ferrari
+67,4,0,2014,2014-05-25,Monaco,Aston Martin
+52,5,0,2014,2014-05-25,Monaco,McLaren
+52,6,0,2014,2014-05-25,Monaco,Williams
+8,7,0,2014,2014-05-25,Monaco,Alpine F1 Team
+8,8,0,2014,2014-05-25,Monaco,AlphaTauri
+0,10,0,2014,2014-05-25,Monaco,Alfa Romeo
+258,1,6,2014,2014-06-08,Canadian,Mercedes
+139,2,1,2014,2014-06-08,Canadian,Red Bull
+87,3,0,2014,2014-06-08,Canadian,Ferrari
+77,4,0,2014,2014-06-08,Canadian,Aston Martin
+66,5,0,2014,2014-06-08,Canadian,McLaren
+58,6,0,2014,2014-06-08,Canadian,Williams
+12,7,0,2014,2014-06-08,Canadian,AlphaTauri
+8,8,0,2014,2014-06-08,Canadian,Alpine F1 Team
+0,10,0,2014,2014-06-08,Canadian,Alfa Romeo
+301,1,7,2014,2014-06-22,Austrian,Mercedes
+143,2,1,2014,2014-06-22,Austrian,Red Bull
+98,3,0,2014,2014-06-22,Austrian,Ferrari
+87,4,0,2014,2014-06-22,Austrian,Aston Martin
+85,5,0,2014,2014-06-22,Austrian,Williams
+72,6,0,2014,2014-06-22,Austrian,McLaren
+12,7,0,2014,2014-06-22,Austrian,AlphaTauri
+8,8,0,2014,2014-06-22,Austrian,Alpine F1 Team
+0,10,0,2014,2014-06-22,Austrian,Alfa Romeo
+326,1,8,2014,2014-07-06,British,Mercedes
+168,2,1,2014,2014-07-06,British,Red Bull
+106,3,0,2014,2014-07-06,British,Ferrari
+103,4,0,2014,2014-07-06,British,Williams
+91,5,0,2014,2014-07-06,British,Aston Martin
+90,6,0,2014,2014-07-06,British,McLaren
+15,7,0,2014,2014-07-06,British,AlphaTauri
+8,8,0,2014,2014-07-06,British,Alpine F1 Team
+0,10,0,2014,2014-07-06,British,Alfa Romeo
+366,1,9,2014,2014-07-20,German,Mercedes
+188,2,1,2014,2014-07-20,German,Red Bull
+121,3,0,2014,2014-07-20,German,Williams
+116,4,0,2014,2014-07-20,German,Ferrari
+98,5,0,2014,2014-07-20,German,Aston Martin
+96,6,0,2014,2014-07-20,German,McLaren
+15,7,0,2014,2014-07-20,German,AlphaTauri
+8,8,0,2014,2014-07-20,German,Alpine F1 Team
+0,10,0,2014,2014-07-20,German,Alfa Romeo
+393,1,9,2014,2014-07-27,Hungarian,Mercedes
+219,2,2,2014,2014-07-27,Hungarian,Red Bull
+142,3,0,2014,2014-07-27,Hungarian,Ferrari
+135,4,0,2014,2014-07-27,Hungarian,Williams
+98,5,0,2014,2014-07-27,Hungarian,Aston Martin
+97,6,0,2014,2014-07-27,Hungarian,McLaren
+17,7,0,2014,2014-07-27,Hungarian,AlphaTauri
+8,8,0,2014,2014-07-27,Hungarian,Alpine F1 Team
+0,10,0,2014,2014-07-27,Hungarian,Alfa Romeo
+411,1,9,2014,2014-08-24,Belgian,Mercedes
+254,2,3,2014,2014-08-24,Belgian,Red Bull
+160,3,0,2014,2014-08-24,Belgian,Ferrari
+150,4,0,2014,2014-08-24,Belgian,Williams
+105,5,0,2014,2014-08-24,Belgian,McLaren
+103,6,0,2014,2014-08-24,Belgian,Aston Martin
+19,7,0,2014,2014-08-24,Belgian,AlphaTauri
+8,8,0,2014,2014-08-24,Belgian,Alpine F1 Team
+0,10,0,2014,2014-08-24,Belgian,Alfa Romeo
+454,1,10,2014,2014-09-07,Italian,Mercedes
+272,2,3,2014,2014-09-07,Italian,Red Bull
+177,3,0,2014,2014-09-07,Italian,Williams
+162,4,0,2014,2014-09-07,Italian,Ferrari
+110,5,0,2014,2014-09-07,Italian,McLaren
+109,6,0,2014,2014-09-07,Italian,Aston Martin
+19,7,0,2014,2014-09-07,Italian,AlphaTauri
+8,8,0,2014,2014-09-07,Italian,Alpine F1 Team
+0,10,0,2014,2014-09-07,Italian,Alfa Romeo
+479,1,11,2014,2014-09-21,Singapore,Mercedes
+305,2,3,2014,2014-09-21,Singapore,Red Bull
+187,3,0,2014,2014-09-21,Singapore,Williams
+178,4,0,2014,2014-09-21,Singapore,Ferrari
+117,5,0,2014,2014-09-21,Singapore,Aston Martin
+111,6,0,2014,2014-09-21,Singapore,McLaren
+27,7,0,2014,2014-09-21,Singapore,AlphaTauri
+8,8,0,2014,2014-09-21,Singapore,Alpine F1 Team
+0,10,0,2014,2014-09-21,Singapore,Alfa Romeo
+522,1,12,2014,2014-10-05,Japanese,Mercedes
+332,2,3,2014,2014-10-05,Japanese,Red Bull
+201,3,0,2014,2014-10-05,Japanese,Williams
+178,4,0,2014,2014-10-05,Japanese,Ferrari
+122,5,0,2014,2014-10-05,Japanese,Aston Martin
+121,6,0,2014,2014-10-05,Japanese,McLaren
+29,7,0,2014,2014-10-05,Japanese,AlphaTauri
+8,8,0,2014,2014-10-05,Japanese,Alpine F1 Team
+0,10,0,2014,2014-10-05,Japanese,Alfa Romeo
+565,1,13,2014,2014-10-12,Russian,Mercedes
+342,2,3,2014,2014-10-12,Russian,Red Bull
+216,3,0,2014,2014-10-12,Russian,Williams
+188,4,0,2014,2014-10-12,Russian,Ferrari
+143,5,0,2014,2014-10-12,Russian,McLaren
+123,6,0,2014,2014-10-12,Russian,Aston Martin
+29,7,0,2014,2014-10-12,Russian,AlphaTauri
+8,8,0,2014,2014-10-12,Russian,Alpine F1 Team
+0,10,0,2014,2014-10-12,Russian,Alfa Romeo
+608,1,14,2014,2014-11-02,United States,Mercedes
+363,2,3,2014,2014-11-02,United States,Red Bull
+238,3,0,2014,2014-11-02,United States,Williams
+196,4,0,2014,2014-11-02,United States,Ferrari
+147,5,0,2014,2014-11-02,United States,McLaren
+123,6,0,2014,2014-11-02,United States,Aston Martin
+30,7,0,2014,2014-11-02,United States,AlphaTauri
+10,8,0,2014,2014-11-02,United States,Alpine F1 Team
+0,10,0,2014,2014-11-02,United States,Alfa Romeo
+651,1,15,2014,2014-11-09,Brazilian,Mercedes
+373,2,3,2014,2014-11-09,Brazilian,Red Bull
+254,3,0,2014,2014-11-09,Brazilian,Williams
+210,4,0,2014,2014-11-09,Brazilian,Ferrari
+161,5,0,2014,2014-11-09,Brazilian,McLaren
+127,6,0,2014,2014-11-09,Brazilian,Aston Martin
+30,7,0,2014,2014-11-09,Brazilian,AlphaTauri
+10,8,0,2014,2014-11-09,Brazilian,Alpine F1 Team
+0,10,0,2014,2014-11-09,Brazilian,Alfa Romeo
+701,1,16,2014,2014-11-23,Abu Dhabi,Mercedes
+405,2,3,2014,2014-11-23,Abu Dhabi,Red Bull
+320,3,0,2014,2014-11-23,Abu Dhabi,Williams
+216,4,0,2014,2014-11-23,Abu Dhabi,Ferrari
+181,5,0,2014,2014-11-23,Abu Dhabi,McLaren
+155,6,0,2014,2014-11-23,Abu Dhabi,Aston Martin
+30,7,0,2014,2014-11-23,Abu Dhabi,AlphaTauri
+10,8,0,2014,2014-11-23,Abu Dhabi,Alpine F1 Team
+0,10,0,2014,2014-11-23,Abu Dhabi,Alfa Romeo
+43,1,1,2015,2015-03-15,Australian,Mercedes
+15,2,0,2015,2015-03-15,Australian,Ferrari
+14,3,0,2015,2015-03-15,Australian,Alfa Romeo
+12,4,0,2015,2015-03-15,Australian,Williams
+8,5,0,2015,2015-03-15,Australian,Red Bull
+7,6,0,2015,2015-03-15,Australian,Aston Martin
+2,7,0,2015,2015-03-15,Australian,AlphaTauri
+0,8,0,2015,2015-03-15,Australian,McLaren
+0,9,0,2015,2015-03-15,Australian,Alpine F1 Team
+76,1,1,2015,2015-03-29,Malaysian,Mercedes
+52,2,1,2015,2015-03-29,Malaysian,Ferrari
+30,3,0,2015,2015-03-29,Malaysian,Williams
+14,4,0,2015,2015-03-29,Malaysian,Alfa Romeo
+12,5,0,2015,2015-03-29,Malaysian,AlphaTauri
+11,6,0,2015,2015-03-29,Malaysian,Red Bull
+7,7,0,2015,2015-03-29,Malaysian,Aston Martin
+0,8,0,2015,2015-03-29,Malaysian,Alpine F1 Team
+0,9,0,2015,2015-03-29,Malaysian,McLaren
+119,1,2,2015,2015-04-12,Chinese,Mercedes
+79,2,1,2015,2015-04-12,Chinese,Ferrari
+48,3,0,2015,2015-04-12,Chinese,Williams
+19,4,0,2015,2015-04-12,Chinese,Alfa Romeo
+13,5,0,2015,2015-04-12,Chinese,Red Bull
+12,6,0,2015,2015-04-12,Chinese,AlphaTauri
+7,7,0,2015,2015-04-12,Chinese,Aston Martin
+6,8,0,2015,2015-04-12,Chinese,Alpine F1 Team
+0,9,0,2015,2015-04-12,Chinese,McLaren
+159,1,3,2015,2015-04-19,Bahrain,Mercedes
+107,2,1,2015,2015-04-19,Bahrain,Ferrari
+61,3,0,2015,2015-04-19,Bahrain,Williams
+23,4,0,2015,2015-04-19,Bahrain,Red Bull
+19,5,0,2015,2015-04-19,Bahrain,Alfa Romeo
+12,6,0,2015,2015-04-19,Bahrain,Alpine F1 Team
+12,7,0,2015,2015-04-19,Bahrain,AlphaTauri
+11,8,0,2015,2015-04-19,Bahrain,Aston Martin
+0,9,0,2015,2015-04-19,Bahrain,McLaren
+202,1,4,2015,2015-05-10,Spanish,Mercedes
+132,2,1,2015,2015-05-10,Spanish,Ferrari
+81,3,0,2015,2015-05-10,Spanish,Williams
+30,4,0,2015,2015-05-10,Spanish,Red Bull
+19,5,0,2015,2015-05-10,Spanish,Alfa Romeo
+16,6,0,2015,2015-05-10,Spanish,Alpine F1 Team
+14,7,0,2015,2015-05-10,Spanish,AlphaTauri
+11,8,0,2015,2015-05-10,Spanish,Aston Martin
+0,9,0,2015,2015-05-10,Spanish,McLaren
+242,1,5,2015,2015-05-24,Monaco,Mercedes
+158,2,1,2015,2015-05-24,Monaco,Ferrari
+81,3,0,2015,2015-05-24,Monaco,Williams
+52,4,0,2015,2015-05-24,Monaco,Red Bull
+21,5,0,2015,2015-05-24,Monaco,Alfa Romeo
+17,6,0,2015,2015-05-24,Monaco,Aston Martin
+16,7,0,2015,2015-05-24,Monaco,Alpine F1 Team
+15,8,0,2015,2015-05-24,Monaco,AlphaTauri
+4,9,0,2015,2015-05-24,Monaco,McLaren
+285,1,6,2015,2015-06-07,Canadian,Mercedes
+180,2,1,2015,2015-06-07,Canadian,Ferrari
+104,3,0,2015,2015-06-07,Canadian,Williams
+54,4,0,2015,2015-06-07,Canadian,Red Bull
+23,5,0,2015,2015-06-07,Canadian,Alpine F1 Team
+21,6,0,2015,2015-06-07,Canadian,Alfa Romeo
+21,7,0,2015,2015-06-07,Canadian,Aston Martin
+15,8,0,2015,2015-06-07,Canadian,AlphaTauri
+4,9,0,2015,2015-06-07,Canadian,McLaren
+328,1,7,2015,2015-06-21,Austrian,Mercedes
+192,2,1,2015,2015-06-21,Austrian,Ferrari
+129,3,0,2015,2015-06-21,Austrian,Williams
+55,4,0,2015,2015-06-21,Austrian,Red Bull
+31,5,0,2015,2015-06-21,Austrian,Aston Martin
+29,6,0,2015,2015-06-21,Austrian,Alpine F1 Team
+21,7,0,2015,2015-06-21,Austrian,Alfa Romeo
+19,8,0,2015,2015-06-21,Austrian,AlphaTauri
+4,9,0,2015,2015-06-21,Austrian,McLaren
+371,1,8,2015,2015-07-05,British,Mercedes
+211,2,1,2015,2015-07-05,British,Ferrari
+151,3,0,2015,2015-07-05,British,Williams
+63,4,0,2015,2015-07-05,British,Red Bull
+39,5,0,2015,2015-07-05,British,Aston Martin
+29,6,0,2015,2015-07-05,British,Alpine F1 Team
+21,7,0,2015,2015-07-05,British,Alfa Romeo
+19,8,0,2015,2015-07-05,British,AlphaTauri
+5,9,0,2015,2015-07-05,British,McLaren
+383,1,8,2015,2015-07-26,Hungarian,Mercedes
+236,2,2,2015,2015-07-26,Hungarian,Ferrari
+151,3,0,2015,2015-07-26,Hungarian,Williams
+96,4,0,2015,2015-07-26,Hungarian,Red Bull
+39,5,0,2015,2015-07-26,Hungarian,Aston Martin
+35,6,0,2015,2015-07-26,Hungarian,Alpine F1 Team
+31,7,0,2015,2015-07-26,Hungarian,AlphaTauri
+22,8,0,2015,2015-07-26,Hungarian,Alfa Romeo
+17,9,0,2015,2015-07-26,Hungarian,McLaren
+426,1,9,2015,2015-08-23,Belgian,Mercedes
+242,2,2,2015,2015-08-23,Belgian,Ferrari
+161,3,0,2015,2015-08-23,Belgian,Williams
+108,4,0,2015,2015-08-23,Belgian,Red Bull
+50,5,0,2015,2015-08-23,Belgian,Alpine F1 Team
+49,6,0,2015,2015-08-23,Belgian,Aston Martin
+35,7,0,2015,2015-08-23,Belgian,AlphaTauri
+23,8,0,2015,2015-08-23,Belgian,Alfa Romeo
+17,9,0,2015,2015-08-23,Belgian,McLaren
+451,1,10,2015,2015-09-06,Italian,Mercedes
+270,2,2,2015,2015-09-06,Italian,Ferrari
+188,3,0,2015,2015-09-06,Italian,Williams
+113,4,0,2015,2015-09-06,Italian,Red Bull
+63,5,0,2015,2015-09-06,Italian,Aston Martin
+50,6,0,2015,2015-09-06,Italian,Alpine F1 Team
+35,7,0,2015,2015-09-06,Italian,AlphaTauri
+25,8,0,2015,2015-09-06,Italian,Alfa Romeo
+17,9,0,2015,2015-09-06,Italian,McLaren
+463,1,10,2015,2015-09-20,Singapore,Mercedes
+310,2,3,2015,2015-09-20,Singapore,Ferrari
+198,3,0,2015,2015-09-20,Singapore,Williams
+139,4,0,2015,2015-09-20,Singapore,Red Bull
+69,5,0,2015,2015-09-20,Singapore,Aston Martin
+50,6,0,2015,2015-09-20,Singapore,Alpine F1 Team
+41,7,0,2015,2015-09-20,Singapore,AlphaTauri
+26,8,0,2015,2015-09-20,Singapore,Alfa Romeo
+17,9,0,2015,2015-09-20,Singapore,McLaren
+506,1,11,2015,2015-09-27,Japanese,Mercedes
+337,2,3,2015,2015-09-27,Japanese,Ferrari
+208,3,0,2015,2015-09-27,Japanese,Williams
+139,4,0,2015,2015-09-27,Japanese,Red Bull
+77,5,0,2015,2015-09-27,Japanese,Aston Martin
+60,6,0,2015,2015-09-27,Japanese,Alpine F1 Team
+44,7,0,2015,2015-09-27,Japanese,AlphaTauri
+26,8,0,2015,2015-09-27,Japanese,Alfa Romeo
+17,9,0,2015,2015-09-27,Japanese,McLaren
+531,1,12,2015,2015-10-11,Russian,Mercedes
+359,2,3,2015,2015-10-11,Russian,Ferrari
+220,3,0,2015,2015-10-11,Russian,Williams
+149,4,0,2015,2015-10-11,Russian,Red Bull
+92,5,0,2015,2015-10-11,Russian,Aston Martin
+66,6,0,2015,2015-10-11,Russian,Alpine F1 Team
+45,7,0,2015,2015-10-11,Russian,AlphaTauri
+34,8,0,2015,2015-10-11,Russian,Alfa Romeo
+19,9,0,2015,2015-10-11,Russian,McLaren
+574,1,13,2015,2015-10-25,United States,Mercedes
+374,2,3,2015,2015-10-25,United States,Ferrari
+220,3,0,2015,2015-10-25,United States,Williams
+150,4,0,2015,2015-10-25,United States,Red Bull
+102,5,0,2015,2015-10-25,United States,Aston Martin
+70,6,0,2015,2015-10-25,United States,Alpine F1 Team
+63,7,0,2015,2015-10-25,United States,AlphaTauri
+36,8,0,2015,2015-10-25,United States,Alfa Romeo
+27,9,0,2015,2015-10-25,United States,McLaren
+617,1,14,2015,2015-11-01,Mexican,Mercedes
+374,2,3,2015,2015-11-01,Mexican,Ferrari
+243,3,0,2015,2015-11-01,Mexican,Williams
+172,4,0,2015,2015-11-01,Mexican,Red Bull
+112,5,0,2015,2015-11-01,Mexican,Aston Martin
+71,6,0,2015,2015-11-01,Mexican,Alpine F1 Team
+65,7,0,2015,2015-11-01,Mexican,AlphaTauri
+36,8,0,2015,2015-11-01,Mexican,Alfa Romeo
+27,9,0,2015,2015-11-01,Mexican,McLaren
+660,1,15,2015,2015-11-15,Brazilian,Mercedes
+401,2,3,2015,2015-11-15,Brazilian,Ferrari
+253,3,0,2015,2015-11-15,Brazilian,Williams
+178,4,0,2015,2015-11-15,Brazilian,Red Bull
+120,5,0,2015,2015-11-15,Brazilian,Aston Martin
+76,6,0,2015,2015-11-15,Brazilian,Alpine F1 Team
+67,7,0,2015,2015-11-15,Brazilian,AlphaTauri
+36,8,0,2015,2015-11-15,Brazilian,Alfa Romeo
+27,9,0,2015,2015-11-15,Brazilian,McLaren
+703,1,16,2015,2015-11-29,Abu Dhabi,Mercedes
+428,2,3,2015,2015-11-29,Abu Dhabi,Ferrari
+257,3,0,2015,2015-11-29,Abu Dhabi,Williams
+187,4,0,2015,2015-11-29,Abu Dhabi,Red Bull
+136,5,0,2015,2015-11-29,Abu Dhabi,Aston Martin
+78,6,0,2015,2015-11-29,Abu Dhabi,Alpine F1 Team
+67,7,0,2015,2015-11-29,Abu Dhabi,AlphaTauri
+36,8,0,2015,2015-11-29,Abu Dhabi,Alfa Romeo
+27,9,0,2015,2015-11-29,Abu Dhabi,McLaren
+43,1,1,2016,2016-03-20,Australian,Mercedes
+15,2,0,2016,2016-03-20,Australian,Ferrari
+14,3,0,2016,2016-03-20,Australian,Williams
+12,4,0,2016,2016-03-20,Australian,Red Bull
+8,5,0,2016,2016-03-20,Australian,Haas F1 Team
+6,6,0,2016,2016-03-20,Australian,Aston Martin
+3,7,0,2016,2016-03-20,Australian,AlphaTauri
+0,8,0,2016,2016-03-20,Australian,Alpine F1 Team
+0,9,0,2016,2016-03-20,Australian,McLaren
+0,10,0,2016,2016-03-20,Australian,Alfa Romeo
+83,1,2,2016,2016-04-03,Bahrain,Mercedes
+33,2,0,2016,2016-04-03,Bahrain,Ferrari
+30,3,0,2016,2016-04-03,Bahrain,Red Bull
+20,4,0,2016,2016-04-03,Bahrain,Williams
+18,5,0,2016,2016-04-03,Bahrain,Haas F1 Team
+11,6,0,2016,2016-04-03,Bahrain,AlphaTauri
+6,7,0,2016,2016-04-03,Bahrain,Aston Martin
+1,8,0,2016,2016-04-03,Bahrain,McLaren
+0,9,0,2016,2016-04-03,Bahrain,Alpine F1 Team
+0,10,0,2016,2016-04-03,Bahrain,Alfa Romeo
+114,1,3,2016,2016-04-17,Chinese,Mercedes
+61,2,0,2016,2016-04-17,Chinese,Ferrari
+57,3,0,2016,2016-04-17,Chinese,Red Bull
+29,4,0,2016,2016-04-17,Chinese,Williams
+18,5,0,2016,2016-04-17,Chinese,Haas F1 Team
+17,6,0,2016,2016-04-17,Chinese,AlphaTauri
+6,7,0,2016,2016-04-17,Chinese,Aston Martin
+1,8,0,2016,2016-04-17,Chinese,McLaren
+0,9,0,2016,2016-04-17,Chinese,Alpine F1 Team
+0,10,0,2016,2016-04-17,Chinese,Alfa Romeo
+157,1,4,2016,2016-05-01,Russian,Mercedes
+76,2,0,2016,2016-05-01,Russian,Ferrari
+57,3,0,2016,2016-05-01,Russian,Red Bull
+51,4,0,2016,2016-05-01,Russian,Williams
+22,5,0,2016,2016-05-01,Russian,Haas F1 Team
+17,6,0,2016,2016-05-01,Russian,AlphaTauri
+10,7,0,2016,2016-05-01,Russian,McLaren
+8,8,0,2016,2016-05-01,Russian,Aston Martin
+6,9,0,2016,2016-05-01,Russian,Alpine F1 Team
+0,10,0,2016,2016-05-01,Russian,Alfa Romeo
+157,1,4,2016,2016-05-15,Spanish,Mercedes
+109,2,0,2016,2016-05-15,Spanish,Ferrari
+94,3,1,2016,2016-05-15,Spanish,Red Bull
+65,4,0,2016,2016-05-15,Spanish,Williams
+26,5,0,2016,2016-05-15,Spanish,AlphaTauri
+22,6,0,2016,2016-05-15,Spanish,Haas F1 Team
+14,7,0,2016,2016-05-15,Spanish,Aston Martin
+12,8,0,2016,2016-05-15,Spanish,McLaren
+6,9,0,2016,2016-05-15,Spanish,Alpine F1 Team
+0,10,0,2016,2016-05-15,Spanish,Alfa Romeo
+188,1,5,2016,2016-05-29,Monaco,Mercedes
+121,2,0,2016,2016-05-29,Monaco,Ferrari
+112,3,1,2016,2016-05-29,Monaco,Red Bull
+66,4,0,2016,2016-05-29,Monaco,Williams
+37,5,0,2016,2016-05-29,Monaco,Aston Martin
+30,6,0,2016,2016-05-29,Monaco,AlphaTauri
+24,7,0,2016,2016-05-29,Monaco,McLaren
+22,8,0,2016,2016-05-29,Monaco,Haas F1 Team
+6,9,0,2016,2016-05-29,Monaco,Alpine F1 Team
+0,10,0,2016,2016-05-29,Monaco,Alfa Romeo
+223,1,6,2016,2016-06-12,Canadian,Mercedes
+147,2,0,2016,2016-06-12,Canadian,Ferrari
+130,3,1,2016,2016-06-12,Canadian,Red Bull
+81,4,0,2016,2016-06-12,Canadian,Williams
+42,5,0,2016,2016-06-12,Canadian,Aston Martin
+32,6,0,2016,2016-06-12,Canadian,AlphaTauri
+24,7,0,2016,2016-06-12,Canadian,McLaren
+22,8,0,2016,2016-06-12,Canadian,Haas F1 Team
+6,9,0,2016,2016-06-12,Canadian,Alpine F1 Team
+0,10,0,2016,2016-06-12,Canadian,Alfa Romeo
+258,1,7,2016,2016-06-19,European,Mercedes
+177,2,0,2016,2016-06-19,European,Ferrari
+140,3,1,2016,2016-06-19,European,Red Bull
+90,4,0,2016,2016-06-19,European,Williams
+59,5,0,2016,2016-06-19,European,Aston Martin
+32,6,0,2016,2016-06-19,European,AlphaTauri
+24,7,0,2016,2016-06-19,European,McLaren
+22,8,0,2016,2016-06-19,European,Haas F1 Team
+6,9,0,2016,2016-06-19,European,Alpine F1 Team
+0,10,0,2016,2016-06-19,European,Alfa Romeo
+295,1,8,2016,2016-07-03,Austrian,Mercedes
+192,2,0,2016,2016-07-03,Austrian,Ferrari
+168,3,1,2016,2016-07-03,Austrian,Red Bull
+92,4,0,2016,2016-07-03,Austrian,Williams
+59,5,0,2016,2016-07-03,Austrian,Aston Martin
+36,6,0,2016,2016-07-03,Austrian,AlphaTauri
+32,7,0,2016,2016-07-03,Austrian,McLaren
+28,8,0,2016,2016-07-03,Austrian,Haas F1 Team
+6,9,0,2016,2016-07-03,Austrian,Alpine F1 Team
+0,11,0,2016,2016-07-03,Austrian,Alfa Romeo
+335,1,9,2016,2016-07-10,British,Mercedes
+204,2,0,2016,2016-07-10,British,Ferrari
+198,3,1,2016,2016-07-10,British,Red Bull
+92,4,0,2016,2016-07-10,British,Williams
+73,5,0,2016,2016-07-10,British,Aston Martin
+41,6,0,2016,2016-07-10,British,AlphaTauri
+32,7,0,2016,2016-07-10,British,McLaren
+28,8,0,2016,2016-07-10,British,Haas F1 Team
+6,9,0,2016,2016-07-10,British,Alpine F1 Team
+0,11,0,2016,2016-07-10,British,Alfa Romeo
+378,1,10,2016,2016-07-24,Hungarian,Mercedes
+224,2,0,2016,2016-07-24,Hungarian,Ferrari
+223,3,1,2016,2016-07-24,Hungarian,Red Bull
+94,4,0,2016,2016-07-24,Hungarian,Williams
+74,5,0,2016,2016-07-24,Hungarian,Aston Martin
+45,6,0,2016,2016-07-24,Hungarian,AlphaTauri
+38,7,0,2016,2016-07-24,Hungarian,McLaren
+28,8,0,2016,2016-07-24,Hungarian,Haas F1 Team
+6,9,0,2016,2016-07-24,Hungarian,Alpine F1 Team
+0,11,0,2016,2016-07-24,Hungarian,Alfa Romeo
+415,1,11,2016,2016-07-31,German,Mercedes
+256,2,1,2016,2016-07-31,German,Red Bull
+242,3,0,2016,2016-07-31,German,Ferrari
+96,4,0,2016,2016-07-31,German,Williams
+81,5,0,2016,2016-07-31,German,Aston Martin
+45,6,0,2016,2016-07-31,German,AlphaTauri
+42,7,0,2016,2016-07-31,German,McLaren
+28,8,0,2016,2016-07-31,German,Haas F1 Team
+6,9,0,2016,2016-07-31,German,Alpine F1 Team
+0,11,0,2016,2016-07-31,German,Alfa Romeo
+455,1,12,2016,2016-08-28,Belgian,Mercedes
+274,2,1,2016,2016-08-28,Belgian,Red Bull
+252,3,0,2016,2016-08-28,Belgian,Ferrari
+103,4,0,2016,2016-08-28,Belgian,Aston Martin
+101,5,0,2016,2016-08-28,Belgian,Williams
+48,6,0,2016,2016-08-28,Belgian,McLaren
+45,7,0,2016,2016-08-28,Belgian,AlphaTauri
+28,8,0,2016,2016-08-28,Belgian,Haas F1 Team
+6,9,0,2016,2016-08-28,Belgian,Alpine F1 Team
+0,11,0,2016,2016-08-28,Belgian,Alfa Romeo
+498,1,13,2016,2016-09-04,Italian,Mercedes
+290,2,1,2016,2016-09-04,Italian,Red Bull
+279,3,0,2016,2016-09-04,Italian,Ferrari
+111,4,0,2016,2016-09-04,Italian,Williams
+108,5,0,2016,2016-09-04,Italian,Aston Martin
+48,6,0,2016,2016-09-04,Italian,McLaren
+45,7,0,2016,2016-09-04,Italian,AlphaTauri
+28,8,0,2016,2016-09-04,Italian,Haas F1 Team
+6,9,0,2016,2016-09-04,Italian,Alpine F1 Team
+0,11,0,2016,2016-09-04,Italian,Alfa Romeo
+538,1,14,2016,2016-09-18,Singapore,Mercedes
+316,2,1,2016,2016-09-18,Singapore,Red Bull
+301,3,0,2016,2016-09-18,Singapore,Ferrari
+112,4,0,2016,2016-09-18,Singapore,Aston Martin
+111,5,0,2016,2016-09-18,Singapore,Williams
+54,6,0,2016,2016-09-18,Singapore,McLaren
+47,7,0,2016,2016-09-18,Singapore,AlphaTauri
+28,8,0,2016,2016-09-18,Singapore,Haas F1 Team
+7,9,0,2016,2016-09-18,Singapore,Alpine F1 Team
+0,11,0,2016,2016-09-18,Singapore,Alfa Romeo
+553,1,14,2016,2016-10-02,Malaysian,Mercedes
+359,2,2,2016,2016-10-02,Malaysian,Red Bull
+313,3,0,2016,2016-10-02,Malaysian,Ferrari
+124,4,0,2016,2016-10-02,Malaysian,Aston Martin
+121,5,0,2016,2016-10-02,Malaysian,Williams
+62,6,0,2016,2016-10-02,Malaysian,McLaren
+47,7,0,2016,2016-10-02,Malaysian,AlphaTauri
+28,8,0,2016,2016-10-02,Malaysian,Haas F1 Team
+8,9,0,2016,2016-10-02,Malaysian,Alpine F1 Team
+0,11,0,2016,2016-10-02,Malaysian,Alfa Romeo
+593,1,15,2016,2016-10-09,Japanese,Mercedes
+385,2,2,2016,2016-10-09,Japanese,Red Bull
+335,3,0,2016,2016-10-09,Japanese,Ferrari
+134,4,0,2016,2016-10-09,Japanese,Aston Martin
+124,5,0,2016,2016-10-09,Japanese,Williams
+62,6,0,2016,2016-10-09,Japanese,McLaren
+47,7,0,2016,2016-10-09,Japanese,AlphaTauri
+28,8,0,2016,2016-10-09,Japanese,Haas F1 Team
+8,9,0,2016,2016-10-09,Japanese,Alpine F1 Team
+0,11,0,2016,2016-10-09,Japanese,Alfa Romeo
+636,1,16,2016,2016-10-23,United States,Mercedes
+400,2,2,2016,2016-10-23,United States,Red Bull
+347,3,0,2016,2016-10-23,United States,Ferrari
+138,4,0,2016,2016-10-23,United States,Aston Martin
+130,5,0,2016,2016-10-23,United States,Williams
+74,6,0,2016,2016-10-23,United States,McLaren
+55,7,0,2016,2016-10-23,United States,AlphaTauri
+29,8,0,2016,2016-10-23,United States,Haas F1 Team
+8,9,0,2016,2016-10-23,United States,Alpine F1 Team
+0,11,0,2016,2016-10-23,United States,Alfa Romeo
+679,1,17,2016,2016-10-30,Mexican,Mercedes
+427,2,2,2016,2016-10-30,Mexican,Red Bull
+365,3,0,2016,2016-10-30,Mexican,Ferrari
+145,4,0,2016,2016-10-30,Mexican,Aston Martin
+136,5,0,2016,2016-10-30,Mexican,Williams
+74,6,0,2016,2016-10-30,Mexican,McLaren
+55,7,0,2016,2016-10-30,Mexican,AlphaTauri
+29,8,0,2016,2016-10-30,Mexican,Haas F1 Team
+8,9,0,2016,2016-10-30,Mexican,Alpine F1 Team
+0,11,0,2016,2016-10-30,Mexican,Alfa Romeo
+722,1,18,2016,2016-11-13,Brazilian,Mercedes
+446,2,2,2016,2016-11-13,Brazilian,Red Bull
+375,3,0,2016,2016-11-13,Brazilian,Ferrari
+163,4,0,2016,2016-11-13,Brazilian,Aston Martin
+136,5,0,2016,2016-11-13,Brazilian,Williams
+75,6,0,2016,2016-11-13,Brazilian,McLaren
+63,7,0,2016,2016-11-13,Brazilian,AlphaTauri
+29,8,0,2016,2016-11-13,Brazilian,Haas F1 Team
+8,9,0,2016,2016-11-13,Brazilian,Alpine F1 Team
+2,10,0,2016,2016-11-13,Brazilian,Alfa Romeo
+765,1,19,2016,2016-11-27,Abu Dhabi,Mercedes
+468,2,2,2016,2016-11-27,Abu Dhabi,Red Bull
+398,3,0,2016,2016-11-27,Abu Dhabi,Ferrari
+173,4,0,2016,2016-11-27,Abu Dhabi,Aston Martin
+138,5,0,2016,2016-11-27,Abu Dhabi,Williams
+76,6,0,2016,2016-11-27,Abu Dhabi,McLaren
+63,7,0,2016,2016-11-27,Abu Dhabi,AlphaTauri
+29,8,0,2016,2016-11-27,Abu Dhabi,Haas F1 Team
+8,9,0,2016,2016-11-27,Abu Dhabi,Alpine F1 Team
+2,10,0,2016,2016-11-27,Abu Dhabi,Alfa Romeo
+37,1,1,2017,2017-03-26,Australian,Ferrari
+33,2,0,2017,2017-03-26,Australian,Mercedes
+10,3,0,2017,2017-03-26,Australian,Red Bull
+8,4,0,2017,2017-03-26,Australian,Williams
+7,5,0,2017,2017-03-26,Australian,Aston Martin
+6,6,0,2017,2017-03-26,Australian,AlphaTauri
+0,7,0,2017,2017-03-26,Australian,Alpine F1 Team
+0,8,0,2017,2017-03-26,Australian,Alfa Romeo
+0,9,0,2017,2017-03-26,Australian,McLaren
+0,10,0,2017,2017-03-26,Australian,Haas F1 Team
+66,1,1,2017,2017-04-09,Chinese,Mercedes
+65,2,1,2017,2017-04-09,Chinese,Ferrari
+37,3,0,2017,2017-04-09,Chinese,Red Bull
+12,4,0,2017,2017-04-09,Chinese,AlphaTauri
+10,5,0,2017,2017-04-09,Chinese,Aston Martin
+8,6,0,2017,2017-04-09,Chinese,Williams
+4,7,0,2017,2017-04-09,Chinese,Haas F1 Team
+0,8,0,2017,2017-04-09,Chinese,Alpine F1 Team
+0,9,0,2017,2017-04-09,Chinese,Alfa Romeo
+0,10,0,2017,2017-04-09,Chinese,McLaren
+102,1,2,2017,2017-04-16,Bahrain,Ferrari
+99,2,1,2017,2017-04-16,Bahrain,Mercedes
+47,3,0,2017,2017-04-16,Bahrain,Red Bull
+17,4,0,2017,2017-04-16,Bahrain,Aston Martin
+16,5,0,2017,2017-04-16,Bahrain,Williams
+12,6,0,2017,2017-04-16,Bahrain,AlphaTauri
+8,7,0,2017,2017-04-16,Bahrain,Haas F1 Team
+2,8,0,2017,2017-04-16,Bahrain,Alpine F1 Team
+0,9,0,2017,2017-04-16,Bahrain,Alfa Romeo
+0,10,0,2017,2017-04-16,Bahrain,McLaren
+136,1,2,2017,2017-04-30,Russian,Mercedes
+135,2,2,2017,2017-04-30,Russian,Ferrari
+57,3,0,2017,2017-04-30,Russian,Red Bull
+31,4,0,2017,2017-04-30,Russian,Aston Martin
+18,5,0,2017,2017-04-30,Russian,Williams
+13,6,0,2017,2017-04-30,Russian,AlphaTauri
+8,7,0,2017,2017-04-30,Russian,Haas F1 Team
+6,8,0,2017,2017-04-30,Russian,Alpine F1 Team
+0,9,0,2017,2017-04-30,Russian,Alfa Romeo
+0,10,0,2017,2017-04-30,Russian,McLaren
+161,1,3,2017,2017-05-14,Spanish,Mercedes
+153,2,2,2017,2017-05-14,Spanish,Ferrari
+72,3,0,2017,2017-05-14,Spanish,Red Bull
+53,4,0,2017,2017-05-14,Spanish,Aston Martin
+21,5,0,2017,2017-05-14,Spanish,AlphaTauri
+18,6,0,2017,2017-05-14,Spanish,Williams
+14,7,0,2017,2017-05-14,Spanish,Alpine F1 Team
+9,8,0,2017,2017-05-14,Spanish,Haas F1 Team
+4,9,0,2017,2017-05-14,Spanish,Alfa Romeo
+0,10,0,2017,2017-05-14,Spanish,McLaren
+196,1,3,2017,2017-05-28,Monaco,Ferrari
+179,2,3,2017,2017-05-28,Monaco,Mercedes
+97,3,0,2017,2017-05-28,Monaco,Red Bull
+53,4,0,2017,2017-05-28,Monaco,Aston Martin
+29,5,0,2017,2017-05-28,Monaco,AlphaTauri
+20,6,0,2017,2017-05-28,Monaco,Williams
+14,7,0,2017,2017-05-28,Monaco,Alpine F1 Team
+14,8,0,2017,2017-05-28,Monaco,Haas F1 Team
+4,9,0,2017,2017-05-28,Monaco,Alfa Romeo
+0,10,0,2017,2017-05-28,Monaco,McLaren
+222,1,4,2017,2017-06-11,Canadian,Mercedes
+214,2,3,2017,2017-06-11,Canadian,Ferrari
+112,3,0,2017,2017-06-11,Canadian,Red Bull
+71,4,0,2017,2017-06-11,Canadian,Aston Martin
+29,5,0,2017,2017-06-11,Canadian,AlphaTauri
+22,6,0,2017,2017-06-11,Canadian,Williams
+18,7,0,2017,2017-06-11,Canadian,Alpine F1 Team
+15,8,0,2017,2017-06-11,Canadian,Haas F1 Team
+4,9,0,2017,2017-06-11,Canadian,Alfa Romeo
+0,10,0,2017,2017-06-11,Canadian,McLaren
+250,1,4,2017,2017-06-25,Azerbaijan,Mercedes
+226,2,3,2017,2017-06-25,Azerbaijan,Ferrari
+137,3,1,2017,2017-06-25,Azerbaijan,Red Bull
+79,4,0,2017,2017-06-25,Azerbaijan,Aston Martin
+37,5,0,2017,2017-06-25,Azerbaijan,Williams
+33,6,0,2017,2017-06-25,Azerbaijan,AlphaTauri
+21,7,0,2017,2017-06-25,Azerbaijan,Haas F1 Team
+18,8,0,2017,2017-06-25,Azerbaijan,Alpine F1 Team
+5,9,0,2017,2017-06-25,Azerbaijan,Alfa Romeo
+2,10,0,2017,2017-06-25,Azerbaijan,McLaren
+287,1,5,2017,2017-07-09,Austrian,Mercedes
+254,2,3,2017,2017-07-09,Austrian,Ferrari
+152,3,1,2017,2017-07-09,Austrian,Red Bull
+89,4,0,2017,2017-07-09,Austrian,Aston Martin
+40,5,0,2017,2017-07-09,Austrian,Williams
+33,6,0,2017,2017-07-09,Austrian,AlphaTauri
+29,7,0,2017,2017-07-09,Austrian,Haas F1 Team
+18,8,0,2017,2017-07-09,Austrian,Alpine F1 Team
+5,9,0,2017,2017-07-09,Austrian,Alfa Romeo
+2,10,0,2017,2017-07-09,Austrian,McLaren
+330,1,6,2017,2017-07-16,British,Mercedes
+275,2,3,2017,2017-07-16,British,Ferrari
+174,3,1,2017,2017-07-16,British,Red Bull
+95,4,0,2017,2017-07-16,British,Aston Martin
+41,5,0,2017,2017-07-16,British,Williams
+33,6,0,2017,2017-07-16,British,AlphaTauri
+29,7,0,2017,2017-07-16,British,Haas F1 Team
+26,8,0,2017,2017-07-16,British,Alpine F1 Team
+5,9,0,2017,2017-07-16,British,Alfa Romeo
+2,10,0,2017,2017-07-16,British,McLaren
+357,1,6,2017,2017-07-30,Hungarian,Mercedes
+318,2,4,2017,2017-07-30,Hungarian,Ferrari
+184,3,1,2017,2017-07-30,Hungarian,Red Bull
+101,4,0,2017,2017-07-30,Hungarian,Aston Martin
+41,5,0,2017,2017-07-30,Hungarian,Williams
+39,6,0,2017,2017-07-30,Hungarian,AlphaTauri
+29,7,0,2017,2017-07-30,Hungarian,Haas F1 Team
+26,8,0,2017,2017-07-30,Hungarian,Alpine F1 Team
+11,9,0,2017,2017-07-30,Hungarian,McLaren
+5,10,0,2017,2017-07-30,Hungarian,Alfa Romeo
+392,1,7,2017,2017-08-27,Belgian,Mercedes
+348,2,4,2017,2017-08-27,Belgian,Ferrari
+199,3,1,2017,2017-08-27,Belgian,Red Bull
+103,4,0,2017,2017-08-27,Belgian,Aston Martin
+45,5,0,2017,2017-08-27,Belgian,Williams
+40,6,0,2017,2017-08-27,Belgian,AlphaTauri
+35,7,0,2017,2017-08-27,Belgian,Haas F1 Team
+34,8,0,2017,2017-08-27,Belgian,Alpine F1 Team
+11,9,0,2017,2017-08-27,Belgian,McLaren
+5,10,0,2017,2017-08-27,Belgian,Alfa Romeo
+435,1,8,2017,2017-09-03,Italian,Mercedes
+373,2,4,2017,2017-09-03,Italian,Ferrari
+212,3,1,2017,2017-09-03,Italian,Red Bull
+113,4,0,2017,2017-09-03,Italian,Aston Martin
+55,5,0,2017,2017-09-03,Italian,Williams
+40,6,0,2017,2017-09-03,Italian,AlphaTauri
+35,7,0,2017,2017-09-03,Italian,Haas F1 Team
+34,8,0,2017,2017-09-03,Italian,Alpine F1 Team
+11,9,0,2017,2017-09-03,Italian,McLaren
+5,10,0,2017,2017-09-03,Italian,Alfa Romeo
+475,1,9,2017,2017-09-17,Singapore,Mercedes
+373,2,4,2017,2017-09-17,Singapore,Ferrari
+230,3,1,2017,2017-09-17,Singapore,Red Bull
+124,4,0,2017,2017-09-17,Singapore,Aston Martin
+59,5,0,2017,2017-09-17,Singapore,Williams
+52,6,0,2017,2017-09-17,Singapore,AlphaTauri
+42,7,0,2017,2017-09-17,Singapore,Alpine F1 Team
+37,8,0,2017,2017-09-17,Singapore,Haas F1 Team
+17,9,0,2017,2017-09-17,Singapore,McLaren
+5,10,0,2017,2017-09-17,Singapore,Alfa Romeo
+503,1,9,2017,2017-10-01,Malaysian,Mercedes
+385,2,4,2017,2017-10-01,Malaysian,Ferrari
+270,3,2,2017,2017-10-01,Malaysian,Red Bull
+133,4,0,2017,2017-10-01,Malaysian,Aston Martin
+65,5,0,2017,2017-10-01,Malaysian,Williams
+52,6,0,2017,2017-10-01,Malaysian,AlphaTauri
+42,7,0,2017,2017-10-01,Malaysian,Alpine F1 Team
+37,8,0,2017,2017-10-01,Malaysian,Haas F1 Team
+23,9,0,2017,2017-10-01,Malaysian,McLaren
+5,10,0,2017,2017-10-01,Malaysian,Alfa Romeo
+540,1,10,2017,2017-10-08,Japanese,Mercedes
+395,2,4,2017,2017-10-08,Japanese,Ferrari
+303,3,2,2017,2017-10-08,Japanese,Red Bull
+147,4,0,2017,2017-10-08,Japanese,Aston Martin
+66,5,0,2017,2017-10-08,Japanese,Williams
+52,6,0,2017,2017-10-08,Japanese,AlphaTauri
+43,7,0,2017,2017-10-08,Japanese,Haas F1 Team
+42,8,0,2017,2017-10-08,Japanese,Alpine F1 Team
+23,9,0,2017,2017-10-08,Japanese,McLaren
+5,10,0,2017,2017-10-08,Japanese,Alfa Romeo
+575,1,11,2017,2017-10-22,United States,Mercedes
+428,2,4,2017,2017-10-22,United States,Ferrari
+315,3,2,2017,2017-10-22,United States,Red Bull
+159,4,0,2017,2017-10-22,United States,Aston Martin
+68,5,0,2017,2017-10-22,United States,Williams
+53,6,0,2017,2017-10-22,United States,AlphaTauri
+48,7,0,2017,2017-10-22,United States,Alpine F1 Team
+43,8,0,2017,2017-10-22,United States,Haas F1 Team
+23,9,0,2017,2017-10-22,United States,McLaren
+5,10,0,2017,2017-10-22,United States,Alfa Romeo
+595,1,11,2017,2017-10-29,Mexican,Mercedes
+455,2,4,2017,2017-10-29,Mexican,Ferrari
+340,3,3,2017,2017-10-29,Mexican,Red Bull
+175,4,0,2017,2017-10-29,Mexican,Aston Martin
+76,5,0,2017,2017-10-29,Mexican,Williams
+53,6,0,2017,2017-10-29,Mexican,AlphaTauri
+48,7,0,2017,2017-10-29,Mexican,Alpine F1 Team
+47,8,0,2017,2017-10-29,Mexican,Haas F1 Team
+24,9,0,2017,2017-10-29,Mexican,McLaren
+5,10,0,2017,2017-10-29,Mexican,Alfa Romeo
+625,1,11,2017,2017-11-12,Brazilian,Mercedes
+495,2,5,2017,2017-11-12,Brazilian,Ferrari
+358,3,3,2017,2017-11-12,Brazilian,Red Bull
+177,4,0,2017,2017-11-12,Brazilian,Aston Martin
+82,5,0,2017,2017-11-12,Brazilian,Williams
+53,6,0,2017,2017-11-12,Brazilian,AlphaTauri
+49,7,0,2017,2017-11-12,Brazilian,Alpine F1 Team
+47,8,0,2017,2017-11-12,Brazilian,Haas F1 Team
+28,9,0,2017,2017-11-12,Brazilian,McLaren
+5,10,0,2017,2017-11-12,Brazilian,Alfa Romeo
+668,1,12,2017,2017-11-26,Abu Dhabi,Mercedes
+522,2,5,2017,2017-11-26,Abu Dhabi,Ferrari
+368,3,3,2017,2017-11-26,Abu Dhabi,Red Bull
+187,4,0,2017,2017-11-26,Abu Dhabi,Aston Martin
+83,5,0,2017,2017-11-26,Abu Dhabi,Williams
+57,6,0,2017,2017-11-26,Abu Dhabi,Alpine F1 Team
+53,7,0,2017,2017-11-26,Abu Dhabi,AlphaTauri
+47,8,0,2017,2017-11-26,Abu Dhabi,Haas F1 Team
+30,9,0,2017,2017-11-26,Abu Dhabi,McLaren
+5,10,0,2017,2017-11-26,Abu Dhabi,Alfa Romeo
+40,1,1,2018,2018-03-25,Australian,Ferrari
+22,2,0,2018,2018-03-25,Australian,Mercedes
+20,3,0,2018,2018-03-25,Australian,Red Bull
+12,4,0,2018,2018-03-25,Australian,McLaren
+7,5,0,2018,2018-03-25,Australian,Alpine F1 Team
+0,6,0,2018,2018-03-25,Australian,Aston Martin
+0,7,0,2018,2018-03-25,Australian,Alfa Romeo
+0,8,0,2018,2018-03-25,Australian,Williams
+0,9,0,2018,2018-03-25,Australian,AlphaTauri
+0,10,0,2018,2018-03-25,Australian,Haas F1 Team
+65,1,2,2018,2018-04-08,Bahrain,Ferrari
+55,2,0,2018,2018-04-08,Bahrain,Mercedes
+22,3,0,2018,2018-04-08,Bahrain,McLaren
+20,4,0,2018,2018-04-08,Bahrain,Red Bull
+15,5,0,2018,2018-04-08,Bahrain,Alpine F1 Team
+12,6,0,2018,2018-04-08,Bahrain,AlphaTauri
+10,7,0,2018,2018-04-08,Bahrain,Haas F1 Team
+2,8,0,2018,2018-04-08,Bahrain,Alfa Romeo
+1,9,0,2018,2018-04-08,Bahrain,Aston Martin
+0,10,0,2018,2018-04-08,Bahrain,Williams
+85,1,0,2018,2018-04-15,Chinese,Mercedes
+84,2,2,2018,2018-04-15,Chinese,Ferrari
+55,3,1,2018,2018-04-15,Chinese,Red Bull
+28,4,0,2018,2018-04-15,Chinese,McLaren
+25,5,0,2018,2018-04-15,Chinese,Alpine F1 Team
+12,6,0,2018,2018-04-15,Chinese,AlphaTauri
+11,7,0,2018,2018-04-15,Chinese,Haas F1 Team
+2,8,0,2018,2018-04-15,Chinese,Alfa Romeo
+1,9,0,2018,2018-04-15,Chinese,Aston Martin
+0,10,0,2018,2018-04-15,Chinese,Williams
+114,1,2,2018,2018-04-29,Azerbaijan,Ferrari
+110,2,1,2018,2018-04-29,Azerbaijan,Mercedes
+55,3,1,2018,2018-04-29,Azerbaijan,Red Bull
+36,4,0,2018,2018-04-29,Azerbaijan,McLaren
+35,5,0,2018,2018-04-29,Azerbaijan,Alpine F1 Team
+16,6,0,2018,2018-04-29,Azerbaijan,Aston Martin
+13,7,0,2018,2018-04-29,Azerbaijan,AlphaTauri
+11,8,0,2018,2018-04-29,Azerbaijan,Haas F1 Team
+10,9,0,2018,2018-04-29,Azerbaijan,Alfa Romeo
+4,10,0,2018,2018-04-29,Azerbaijan,Williams
+153,1,2,2018,2018-05-13,Spanish,Mercedes
+126,2,2,2018,2018-05-13,Spanish,Ferrari
+80,3,1,2018,2018-05-13,Spanish,Red Bull
+41,4,0,2018,2018-05-13,Spanish,Alpine F1 Team
+40,5,0,2018,2018-05-13,Spanish,McLaren
+19,6,0,2018,2018-05-13,Spanish,Haas F1 Team
+18,7,0,2018,2018-05-13,Spanish,Aston Martin
+13,8,0,2018,2018-05-13,Spanish,AlphaTauri
+11,9,0,2018,2018-05-13,Spanish,Alfa Romeo
+4,10,0,2018,2018-05-13,Spanish,Williams
+178,1,2,2018,2018-05-27,Monaco,Mercedes
+156,2,2,2018,2018-05-27,Monaco,Ferrari
+107,3,2,2018,2018-05-27,Monaco,Red Bull
+46,4,0,2018,2018-05-27,Monaco,Alpine F1 Team
+40,5,0,2018,2018-05-27,Monaco,McLaren
+26,6,0,2018,2018-05-27,Monaco,Aston Martin
+19,7,0,2018,2018-05-27,Monaco,AlphaTauri
+19,8,0,2018,2018-05-27,Monaco,Haas F1 Team
+11,9,0,2018,2018-05-27,Monaco,Alfa Romeo
+4,10,0,2018,2018-05-27,Monaco,Williams
+206,1,2,2018,2018-06-10,Canadian,Mercedes
+189,2,3,2018,2018-06-10,Canadian,Ferrari
+134,3,2,2018,2018-06-10,Canadian,Red Bull
+56,4,0,2018,2018-06-10,Canadian,Alpine F1 Team
+40,5,0,2018,2018-06-10,Canadian,McLaren
+28,6,0,2018,2018-06-10,Canadian,Aston Martin
+19,7,0,2018,2018-06-10,Canadian,AlphaTauri
+19,8,0,2018,2018-06-10,Canadian,Haas F1 Team
+12,9,0,2018,2018-06-10,Canadian,Alfa Romeo
+4,10,0,2018,2018-06-10,Canadian,Williams
+237,1,3,2018,2018-06-24,French,Mercedes
+214,2,3,2018,2018-06-24,French,Ferrari
+164,3,2,2018,2018-06-24,French,Red Bull
+62,4,0,2018,2018-06-24,French,Alpine F1 Team
+40,5,0,2018,2018-06-24,French,McLaren
+28,6,0,2018,2018-06-24,French,Aston Martin
+27,7,0,2018,2018-06-24,French,Haas F1 Team
+19,8,0,2018,2018-06-24,French,AlphaTauri
+13,9,0,2018,2018-06-24,French,Alfa Romeo
+4,10,0,2018,2018-06-24,French,Williams
+247,1,3,2018,2018-07-01,Austrian,Ferrari
+237,2,3,2018,2018-07-01,Austrian,Mercedes
+189,3,3,2018,2018-07-01,Austrian,Red Bull
+62,4,0,2018,2018-07-01,Austrian,Alpine F1 Team
+49,5,0,2018,2018-07-01,Austrian,Haas F1 Team
+44,6,0,2018,2018-07-01,Austrian,McLaren
+42,7,0,2018,2018-07-01,Austrian,Aston Martin
+19,8,0,2018,2018-07-01,Austrian,AlphaTauri
+16,9,0,2018,2018-07-01,Austrian,Alfa Romeo
+4,10,0,2018,2018-07-01,Austrian,Williams
+287,1,4,2018,2018-07-08,British,Ferrari
+267,2,3,2018,2018-07-08,British,Mercedes
+199,3,3,2018,2018-07-08,British,Red Bull
+70,4,0,2018,2018-07-08,British,Alpine F1 Team
+51,5,0,2018,2018-07-08,British,Haas F1 Team
+49,6,0,2018,2018-07-08,British,Aston Martin
+48,7,0,2018,2018-07-08,British,McLaren
+19,8,0,2018,2018-07-08,British,AlphaTauri
+16,9,0,2018,2018-07-08,British,Alfa Romeo
+4,10,0,2018,2018-07-08,British,Williams
+310,1,4,2018,2018-07-22,German,Mercedes
+302,2,4,2018,2018-07-22,German,Ferrari
+211,3,3,2018,2018-07-22,German,Red Bull
+80,4,0,2018,2018-07-22,German,Alpine F1 Team
+59,5,0,2018,2018-07-22,German,Aston Martin
+59,6,0,2018,2018-07-22,German,Haas F1 Team
+48,7,0,2018,2018-07-22,German,McLaren
+20,8,0,2018,2018-07-22,German,AlphaTauri
+18,9,0,2018,2018-07-22,German,Alfa Romeo
+4,10,0,2018,2018-07-22,German,Williams
+345,1,5,2018,2018-07-29,Hungarian,Mercedes
+335,2,4,2018,2018-07-29,Hungarian,Ferrari
+223,3,3,2018,2018-07-29,Hungarian,Red Bull
+82,4,0,2018,2018-07-29,Hungarian,Alpine F1 Team
+66,5,0,2018,2018-07-29,Hungarian,Haas F1 Team
+59,6,0,2018,2018-07-29,Hungarian,Aston Martin
+52,7,0,2018,2018-07-29,Hungarian,McLaren
+28,8,0,2018,2018-07-29,Hungarian,AlphaTauri
+18,9,0,2018,2018-07-29,Hungarian,Alfa Romeo
+4,10,0,2018,2018-07-29,Hungarian,Williams
+375,1,5,2018,2018-08-26,Belgian,Mercedes
+360,2,5,2018,2018-08-26,Belgian,Ferrari
+238,3,3,2018,2018-08-26,Belgian,Red Bull
+82,4,0,2018,2018-08-26,Belgian,Alpine F1 Team
+76,5,0,2018,2018-08-26,Belgian,Haas F1 Team
+52,6,0,2018,2018-08-26,Belgian,McLaren
+30,7,0,2018,2018-08-26,Belgian,AlphaTauri
+19,8,0,2018,2018-08-26,Belgian,Alfa Romeo
+18,9,0,2018,2018-08-26,Belgian,Aston Martin
+4,10,0,2018,2018-08-26,Belgian,Williams
+415,1,6,2018,2018-09-02,Italian,Mercedes
+390,2,5,2018,2018-09-02,Italian,Ferrari
+248,3,3,2018,2018-09-02,Italian,Red Bull
+86,4,0,2018,2018-09-02,Italian,Alpine F1 Team
+76,5,0,2018,2018-09-02,Italian,Haas F1 Team
+52,6,0,2018,2018-09-02,Italian,McLaren
+32,7,0,2018,2018-09-02,Italian,Aston Martin
+30,8,0,2018,2018-09-02,Italian,AlphaTauri
+19,9,0,2018,2018-09-02,Italian,Alfa Romeo
+7,10,0,2018,2018-09-02,Italian,Williams
+452,1,7,2018,2018-09-16,Singapore,Mercedes
+415,2,5,2018,2018-09-16,Singapore,Ferrari
+274,3,3,2018,2018-09-16,Singapore,Red Bull
+91,4,0,2018,2018-09-16,Singapore,Alpine F1 Team
+76,5,0,2018,2018-09-16,Singapore,Haas F1 Team
+58,6,0,2018,2018-09-16,Singapore,McLaren
+32,7,0,2018,2018-09-16,Singapore,Aston Martin
+30,8,0,2018,2018-09-16,Singapore,AlphaTauri
+21,9,0,2018,2018-09-16,Singapore,Alfa Romeo
+7,10,0,2018,2018-09-16,Singapore,Williams
+495,1,8,2018,2018-09-30,Russian,Mercedes
+442,2,5,2018,2018-09-30,Russian,Ferrari
+292,3,3,2018,2018-09-30,Russian,Red Bull
+91,4,0,2018,2018-09-30,Russian,Alpine F1 Team
+80,5,0,2018,2018-09-30,Russian,Haas F1 Team
+58,6,0,2018,2018-09-30,Russian,McLaren
+35,7,0,2018,2018-09-30,Russian,Aston Martin
+30,8,0,2018,2018-09-30,Russian,AlphaTauri
+27,9,0,2018,2018-09-30,Russian,Alfa Romeo
+7,10,0,2018,2018-09-30,Russian,Williams
+538,1,9,2018,2018-10-07,Japanese,Mercedes
+460,2,5,2018,2018-10-07,Japanese,Ferrari
+319,3,3,2018,2018-10-07,Japanese,Red Bull
+92,4,0,2018,2018-10-07,Japanese,Alpine F1 Team
+84,5,0,2018,2018-10-07,Japanese,Haas F1 Team
+58,6,0,2018,2018-10-07,Japanese,McLaren
+43,7,0,2018,2018-10-07,Japanese,Aston Martin
+30,8,0,2018,2018-10-07,Japanese,AlphaTauri
+27,9,0,2018,2018-10-07,Japanese,Alfa Romeo
+7,10,0,2018,2018-10-07,Japanese,Williams
+563,1,9,2018,2018-10-21,United States,Mercedes
+497,2,6,2018,2018-10-21,United States,Ferrari
+337,3,3,2018,2018-10-21,United States,Red Bull
+106,4,0,2018,2018-10-21,United States,Alpine F1 Team
+84,5,0,2018,2018-10-21,United States,Haas F1 Team
+58,6,0,2018,2018-10-21,United States,McLaren
+47,7,0,2018,2018-10-21,United States,Aston Martin
+32,8,0,2018,2018-10-21,United States,AlphaTauri
+28,9,0,2018,2018-10-21,United States,Alfa Romeo
+7,10,0,2018,2018-10-21,United States,Williams
+585,1,9,2018,2018-10-28,Mexican,Mercedes
+530,2,6,2018,2018-10-28,Mexican,Ferrari
+362,3,4,2018,2018-10-28,Mexican,Red Bull
+114,4,0,2018,2018-10-28,Mexican,Alpine F1 Team
+84,5,0,2018,2018-10-28,Mexican,Haas F1 Team
+62,6,0,2018,2018-10-28,Mexican,McLaren
+47,7,0,2018,2018-10-28,Mexican,Aston Martin
+36,8,0,2018,2018-10-28,Mexican,Alfa Romeo
+33,9,0,2018,2018-10-28,Mexican,AlphaTauri
+7,10,0,2018,2018-10-28,Mexican,Williams
+620,1,10,2018,2018-11-11,Brazilian,Mercedes
+553,2,6,2018,2018-11-11,Brazilian,Ferrari
+392,3,4,2018,2018-11-11,Brazilian,Red Bull
+114,4,0,2018,2018-11-11,Brazilian,Alpine F1 Team
+90,5,0,2018,2018-11-11,Brazilian,Haas F1 Team
+62,6,0,2018,2018-11-11,Brazilian,McLaren
+48,7,0,2018,2018-11-11,Brazilian,Aston Martin
+42,8,0,2018,2018-11-11,Brazilian,Alfa Romeo
+33,9,0,2018,2018-11-11,Brazilian,AlphaTauri
+7,10,0,2018,2018-11-11,Brazilian,Williams
+655,1,11,2018,2018-11-25,Abu Dhabi,Mercedes
+571,2,6,2018,2018-11-25,Abu Dhabi,Ferrari
+419,3,4,2018,2018-11-25,Abu Dhabi,Red Bull
+122,4,0,2018,2018-11-25,Abu Dhabi,Alpine F1 Team
+93,5,0,2018,2018-11-25,Abu Dhabi,Haas F1 Team
+62,6,0,2018,2018-11-25,Abu Dhabi,McLaren
+52,7,0,2018,2018-11-25,Abu Dhabi,Aston Martin
+48,8,0,2018,2018-11-25,Abu Dhabi,Alfa Romeo
+33,9,0,2018,2018-11-25,Abu Dhabi,AlphaTauri
+7,10,0,2018,2018-11-25,Abu Dhabi,Williams
+44,1,1,2019,2019-03-17,Australian,Mercedes
+22,2,0,2019,2019-03-17,Australian,Ferrari
+15,3,0,2019,2019-03-17,Australian,Red Bull
+8,4,0,2019,2019-03-17,Australian,Haas F1 Team
+6,5,0,2019,2019-03-17,Australian,Alpine F1 Team
+4,6,0,2019,2019-03-17,Australian,Alfa Romeo
+2,7,0,2019,2019-03-17,Australian,Aston Martin
+1,8,0,2019,2019-03-17,Australian,AlphaTauri
+0,9,0,2019,2019-03-17,Australian,McLaren
+0,10,0,2019,2019-03-17,Australian,Williams
+87,1,2,2019,2019-03-31,Bahrain,Mercedes
+48,2,0,2019,2019-03-31,Bahrain,Ferrari
+31,3,0,2019,2019-03-31,Bahrain,Red Bull
+10,4,0,2019,2019-03-31,Bahrain,Alfa Romeo
+8,5,0,2019,2019-03-31,Bahrain,McLaren
+8,6,0,2019,2019-03-31,Bahrain,Haas F1 Team
+6,7,0,2019,2019-03-31,Bahrain,Alpine F1 Team
+3,8,0,2019,2019-03-31,Bahrain,AlphaTauri
+3,9,0,2019,2019-03-31,Bahrain,Aston Martin
+0,10,0,2019,2019-03-31,Bahrain,Williams
+130,1,3,2019,2019-04-14,Chinese,Mercedes
+73,2,0,2019,2019-04-14,Chinese,Ferrari
+52,3,0,2019,2019-04-14,Chinese,Red Bull
+12,4,0,2019,2019-04-14,Chinese,Alpine F1 Team
+12,5,0,2019,2019-04-14,Chinese,Alfa Romeo
+8,6,0,2019,2019-04-14,Chinese,Haas F1 Team
+8,7,0,2019,2019-04-14,Chinese,McLaren
+7,8,0,2019,2019-04-14,Chinese,Aston Martin
+4,9,0,2019,2019-04-14,Chinese,AlphaTauri
+0,10,0,2019,2019-04-14,Chinese,Williams
+173,1,4,2019,2019-04-28,Azerbaijan,Mercedes
+99,2,0,2019,2019-04-28,Azerbaijan,Ferrari
+64,3,0,2019,2019-04-28,Azerbaijan,Red Bull
+18,4,0,2019,2019-04-28,Azerbaijan,McLaren
+17,5,0,2019,2019-04-28,Azerbaijan,Aston Martin
+13,6,0,2019,2019-04-28,Azerbaijan,Alfa Romeo
+12,7,0,2019,2019-04-28,Azerbaijan,Alpine F1 Team
+8,8,0,2019,2019-04-28,Azerbaijan,Haas F1 Team
+4,9,0,2019,2019-04-28,Azerbaijan,AlphaTauri
+0,10,0,2019,2019-04-28,Azerbaijan,Williams
+217,1,5,2019,2019-05-12,Spanish,Mercedes
+121,2,0,2019,2019-05-12,Spanish,Ferrari
+87,3,0,2019,2019-05-12,Spanish,Red Bull
+22,4,0,2019,2019-05-12,Spanish,McLaren
+17,5,0,2019,2019-05-12,Spanish,Aston Martin
+15,6,0,2019,2019-05-12,Spanish,Haas F1 Team
+13,7,0,2019,2019-05-12,Spanish,Alfa Romeo
+12,8,0,2019,2019-05-12,Spanish,Alpine F1 Team
+6,9,0,2019,2019-05-12,Spanish,AlphaTauri
+0,10,0,2019,2019-05-12,Spanish,Williams
+257,1,6,2019,2019-05-26,Monaco,Mercedes
+139,2,0,2019,2019-05-26,Monaco,Ferrari
+110,3,0,2019,2019-05-26,Monaco,Red Bull
+30,4,0,2019,2019-05-26,Monaco,McLaren
+17,5,0,2019,2019-05-26,Monaco,Aston Martin
+16,6,0,2019,2019-05-26,Monaco,Haas F1 Team
+16,7,0,2019,2019-05-26,Monaco,AlphaTauri
+14,8,0,2019,2019-05-26,Monaco,Alpine F1 Team
+13,9,0,2019,2019-05-26,Monaco,Alfa Romeo
+0,10,0,2019,2019-05-26,Monaco,Williams
+295,1,7,2019,2019-06-09,Canadian,Mercedes
+172,2,0,2019,2019-06-09,Canadian,Ferrari
+124,3,0,2019,2019-06-09,Canadian,Red Bull
+30,4,0,2019,2019-06-09,Canadian,McLaren
+28,5,0,2019,2019-06-09,Canadian,Alpine F1 Team
+19,6,0,2019,2019-06-09,Canadian,Aston Martin
+17,7,0,2019,2019-06-09,Canadian,AlphaTauri
+16,8,0,2019,2019-06-09,Canadian,Haas F1 Team
+13,9,0,2019,2019-06-09,Canadian,Alfa Romeo
+0,10,0,2019,2019-06-09,Canadian,Williams
+338,1,8,2019,2019-06-23,French,Mercedes
+198,2,0,2019,2019-06-23,French,Ferrari
+137,3,0,2019,2019-06-23,French,Red Bull
+40,4,0,2019,2019-06-23,French,McLaren
+32,5,0,2019,2019-06-23,French,Alpine F1 Team
+19,6,0,2019,2019-06-23,French,Aston Martin
+19,7,0,2019,2019-06-23,French,Alfa Romeo
+17,8,0,2019,2019-06-23,French,AlphaTauri
+16,9,0,2019,2019-06-23,French,Haas F1 Team
+0,10,0,2019,2019-06-23,French,Williams
+363,1,8,2019,2019-06-30,Austrian,Mercedes
+228,2,0,2019,2019-06-30,Austrian,Ferrari
+169,3,1,2019,2019-06-30,Austrian,Red Bull
+52,4,0,2019,2019-06-30,Austrian,McLaren
+32,5,0,2019,2019-06-30,Austrian,Alpine F1 Team
+22,6,0,2019,2019-06-30,Austrian,Alfa Romeo
+19,7,0,2019,2019-06-30,Austrian,Aston Martin
+17,8,0,2019,2019-06-30,Austrian,AlphaTauri
+16,9,0,2019,2019-06-30,Austrian,Haas F1 Team
+0,10,0,2019,2019-06-30,Austrian,Williams
+407,1,9,2019,2019-07-14,British,Mercedes
+243,2,0,2019,2019-07-14,British,Ferrari
+191,3,1,2019,2019-07-14,British,Red Bull
+60,4,0,2019,2019-07-14,British,McLaren
+39,5,0,2019,2019-07-14,British,Alpine F1 Team
+26,6,0,2019,2019-07-14,British,Alfa Romeo
+19,7,0,2019,2019-07-14,British,Aston Martin
+19,8,0,2019,2019-07-14,British,AlphaTauri
+16,9,0,2019,2019-07-14,British,Haas F1 Team
+0,10,0,2019,2019-07-14,British,Williams
+409,1,9,2019,2019-07-28,German,Mercedes
+261,2,0,2019,2019-07-28,German,Ferrari
+217,3,2,2019,2019-07-28,German,Red Bull
+70,4,0,2019,2019-07-28,German,McLaren
+42,5,0,2019,2019-07-28,German,AlphaTauri
+39,6,0,2019,2019-07-28,German,Alpine F1 Team
+31,7,0,2019,2019-07-28,German,Aston Martin
+26,8,0,2019,2019-07-28,German,Haas F1 Team
+26,9,0,2019,2019-07-28,German,Alfa Romeo
+1,10,0,2019,2019-07-28,German,Williams
+438,1,10,2019,2019-08-04,Hungarian,Mercedes
+288,2,0,2019,2019-08-04,Hungarian,Ferrari
+244,3,2,2019,2019-08-04,Hungarian,Red Bull
+82,4,0,2019,2019-08-04,Hungarian,McLaren
+43,5,0,2019,2019-08-04,Hungarian,AlphaTauri
+39,6,0,2019,2019-08-04,Hungarian,Alpine F1 Team
+32,7,0,2019,2019-08-04,Hungarian,Alfa Romeo
+31,8,0,2019,2019-08-04,Hungarian,Aston Martin
+26,9,0,2019,2019-08-04,Hungarian,Haas F1 Team
+1,10,0,2019,2019-08-04,Hungarian,Williams
+471,1,10,2019,2019-09-01,Belgian,Mercedes
+326,2,1,2019,2019-09-01,Belgian,Ferrari
+254,3,2,2019,2019-09-01,Belgian,Red Bull
+82,4,0,2019,2019-09-01,Belgian,McLaren
+51,5,0,2019,2019-09-01,Belgian,AlphaTauri
+43,6,0,2019,2019-09-01,Belgian,Alpine F1 Team
+40,7,0,2019,2019-09-01,Belgian,Aston Martin
+32,8,0,2019,2019-09-01,Belgian,Alfa Romeo
+26,9,0,2019,2019-09-01,Belgian,Haas F1 Team
+1,10,0,2019,2019-09-01,Belgian,Williams
+505,1,10,2019,2019-09-08,Italian,Mercedes
+351,2,2,2019,2019-09-08,Italian,Ferrari
+266,3,2,2019,2019-09-08,Italian,Red Bull
+83,4,0,2019,2019-09-08,Italian,McLaren
+65,5,0,2019,2019-09-08,Italian,Alpine F1 Team
+51,6,0,2019,2019-09-08,Italian,AlphaTauri
+46,7,0,2019,2019-09-08,Italian,Aston Martin
+34,8,0,2019,2019-09-08,Italian,Alfa Romeo
+26,9,0,2019,2019-09-08,Italian,Haas F1 Team
+1,10,0,2019,2019-09-08,Italian,Williams
+527,1,10,2019,2019-09-22,Singapore,Mercedes
+394,2,3,2019,2019-09-22,Singapore,Ferrari
+289,3,2,2019,2019-09-22,Singapore,Red Bull
+89,4,0,2019,2019-09-22,Singapore,McLaren
+67,5,0,2019,2019-09-22,Singapore,Alpine F1 Team
+55,6,0,2019,2019-09-22,Singapore,AlphaTauri
+46,7,0,2019,2019-09-22,Singapore,Aston Martin
+35,8,0,2019,2019-09-22,Singapore,Alfa Romeo
+26,9,0,2019,2019-09-22,Singapore,Haas F1 Team
+1,10,0,2019,2019-09-22,Singapore,Williams
+571,1,11,2019,2019-09-29,Russian,Mercedes
+409,2,3,2019,2019-09-29,Russian,Ferrari
+311,3,2,2019,2019-09-29,Russian,Red Bull
+101,4,0,2019,2019-09-29,Russian,McLaren
+68,5,0,2019,2019-09-29,Russian,Alpine F1 Team
+55,6,0,2019,2019-09-29,Russian,AlphaTauri
+52,7,0,2019,2019-09-29,Russian,Aston Martin
+35,8,0,2019,2019-09-29,Russian,Alfa Romeo
+28,9,0,2019,2019-09-29,Russian,Haas F1 Team
+1,10,0,2019,2019-09-29,Russian,Williams
+612,1,12,2019,2019-10-13,Japanese,Mercedes
+435,2,3,2019,2019-10-13,Japanese,Ferrari
+323,3,2,2019,2019-10-13,Japanese,Red Bull
+111,4,0,2019,2019-10-13,Japanese,McLaren
+68,5,0,2019,2019-10-13,Japanese,Alpine F1 Team
+62,6,0,2019,2019-10-13,Japanese,AlphaTauri
+58,7,0,2019,2019-10-13,Japanese,Aston Martin
+35,8,0,2019,2019-10-13,Japanese,Alfa Romeo
+28,9,0,2019,2019-10-13,Japanese,Haas F1 Team
+1,10,0,2019,2019-10-13,Japanese,Williams
+652,1,13,2019,2019-10-27,Mexican,Mercedes
+466,2,3,2019,2019-10-27,Mexican,Ferrari
+341,3,2,2019,2019-10-27,Mexican,Red Bull
+111,4,0,2019,2019-10-27,Mexican,McLaren
+73,5,0,2019,2019-10-27,Mexican,Alpine F1 Team
+64,6,0,2019,2019-10-27,Mexican,AlphaTauri
+64,7,0,2019,2019-10-27,Mexican,Aston Martin
+35,8,0,2019,2019-10-27,Mexican,Alfa Romeo
+28,9,0,2019,2019-10-27,Mexican,Haas F1 Team
+1,10,0,2019,2019-10-27,Mexican,Williams
+695,1,14,2019,2019-11-03,United States,Mercedes
+479,2,3,2019,2019-11-03,United States,Ferrari
+366,3,2,2019,2019-11-03,United States,Red Bull
+121,4,0,2019,2019-11-03,United States,McLaren
+83,5,0,2019,2019-11-03,United States,Alpine F1 Team
+65,6,0,2019,2019-11-03,United States,Aston Martin
+64,7,0,2019,2019-11-03,United States,AlphaTauri
+35,8,0,2019,2019-11-03,United States,Alfa Romeo
+28,9,0,2019,2019-11-03,United States,Haas F1 Team
+1,10,0,2019,2019-11-03,United States,Williams
+701,1,14,2019,2019-11-17,Brazilian,Mercedes
+479,2,3,2019,2019-11-17,Brazilian,Ferrari
+391,3,3,2019,2019-11-17,Brazilian,Red Bull
+140,4,0,2019,2019-11-17,Brazilian,McLaren
+91,5,0,2019,2019-11-17,Brazilian,Alpine F1 Team
+83,6,0,2019,2019-11-17,Brazilian,AlphaTauri
+67,7,0,2019,2019-11-17,Brazilian,Aston Martin
+57,8,0,2019,2019-11-17,Brazilian,Alfa Romeo
+28,9,0,2019,2019-11-17,Brazilian,Haas F1 Team
+1,10,0,2019,2019-11-17,Brazilian,Williams
+739,1,15,2019,2019-12-01,Abu Dhabi,Mercedes
+504,2,3,2019,2019-12-01,Abu Dhabi,Ferrari
+417,3,3,2019,2019-12-01,Abu Dhabi,Red Bull
+145,4,0,2019,2019-12-01,Abu Dhabi,McLaren
+91,5,0,2019,2019-12-01,Abu Dhabi,Alpine F1 Team
+85,6,0,2019,2019-12-01,Abu Dhabi,AlphaTauri
+73,7,0,2019,2019-12-01,Abu Dhabi,Aston Martin
+57,8,0,2019,2019-12-01,Abu Dhabi,Alfa Romeo
+28,9,0,2019,2019-12-01,Abu Dhabi,Haas F1 Team
+1,10,0,2019,2019-12-01,Abu Dhabi,Williams
+37,1,1,2020,2020-07-05,Austrian,Mercedes
+26,2,0,2020,2020-07-05,Austrian,McLaren
+19,3,0,2020,2020-07-05,Austrian,Ferrari
+8,4,0,2020,2020-07-05,Austrian,Aston Martin
+6,5,0,2020,2020-07-05,Austrian,AlphaTauri
+4,6,0,2020,2020-07-05,Austrian,Alpine F1 Team
+2,7,0,2020,2020-07-05,Austrian,Alfa Romeo
+0,8,0,2020,2020-07-05,Austrian,Williams
+0,9,0,2020,2020-07-05,Austrian,Red Bull
+0,10,0,2020,2020-07-05,Austrian,Haas F1 Team
+80,1,2,2020,2020-07-12,Styrian,Mercedes
+39,2,0,2020,2020-07-12,Styrian,McLaren
+27,3,0,2020,2020-07-12,Styrian,Red Bull
+22,4,0,2020,2020-07-12,Styrian,Aston Martin
+19,5,0,2020,2020-07-12,Styrian,Ferrari
+8,6,0,2020,2020-07-12,Styrian,Alpine F1 Team
+7,7,0,2020,2020-07-12,Styrian,AlphaTauri
+2,8,0,2020,2020-07-12,Styrian,Alfa Romeo
+0,9,0,2020,2020-07-12,Styrian,Williams
+0,10,0,2020,2020-07-12,Styrian,Haas F1 Team
+121,1,3,2020,2020-07-19,Hungarian,Mercedes
+55,2,0,2020,2020-07-19,Hungarian,Red Bull
+41,3,0,2020,2020-07-19,Hungarian,McLaren
+40,4,0,2020,2020-07-19,Hungarian,Aston Martin
+27,5,0,2020,2020-07-19,Hungarian,Ferrari
+12,6,0,2020,2020-07-19,Hungarian,Alpine F1 Team
+7,7,0,2020,2020-07-19,Hungarian,AlphaTauri
+2,8,0,2020,2020-07-19,Hungarian,Alfa Romeo
+1,9,0,2020,2020-07-19,Hungarian,Haas F1 Team
+0,10,0,2020,2020-07-19,Hungarian,Williams
+146,1,4,2020,2020-08-02,British,Mercedes
+78,2,0,2020,2020-08-02,British,Red Bull
+51,3,0,2020,2020-08-02,British,McLaren
+43,4,0,2020,2020-08-02,British,Ferrari
+42,5,0,2020,2020-08-02,British,Aston Martin
+32,6,0,2020,2020-08-02,British,Alpine F1 Team
+13,7,0,2020,2020-08-02,British,AlphaTauri
+2,8,0,2020,2020-08-02,British,Alfa Romeo
+1,9,0,2020,2020-08-02,British,Haas F1 Team
+0,10,0,2020,2020-08-02,British,Williams
+180,1,4,2020,2020-08-09,70th Anniversary,Mercedes
+113,2,1,2020,2020-08-09,70th Anniversary,Red Bull
+55,3,0,2020,2020-08-09,70th Anniversary,Ferrari
+53,4,0,2020,2020-08-09,70th Anniversary,McLaren
+41,5,0,2020,2020-08-09,70th Anniversary,Aston Martin
+36,6,0,2020,2020-08-09,70th Anniversary,Alpine F1 Team
+14,7,0,2020,2020-08-09,70th Anniversary,AlphaTauri
+2,8,0,2020,2020-08-09,70th Anniversary,Alfa Romeo
+1,9,0,2020,2020-08-09,70th Anniversary,Haas F1 Team
+0,10,0,2020,2020-08-09,70th Anniversary,Williams
+221,1,5,2020,2020-08-16,Spanish,Mercedes
+135,2,1,2020,2020-08-16,Spanish,Red Bull
+63,3,0,2020,2020-08-16,Spanish,Aston Martin
+62,4,0,2020,2020-08-16,Spanish,McLaren
+61,5,0,2020,2020-08-16,Spanish,Ferrari
+36,6,0,2020,2020-08-16,Spanish,Alpine F1 Team
+16,7,0,2020,2020-08-16,Spanish,AlphaTauri
+2,8,0,2020,2020-08-16,Spanish,Alfa Romeo
+1,9,0,2020,2020-08-16,Spanish,Haas F1 Team
+0,10,0,2020,2020-08-16,Spanish,Williams
+264,1,6,2020,2020-08-30,Belgian,Mercedes
+158,2,1,2020,2020-08-30,Belgian,Red Bull
+68,3,0,2020,2020-08-30,Belgian,McLaren
+66,4,0,2020,2020-08-30,Belgian,Aston Martin
+61,5,0,2020,2020-08-30,Belgian,Ferrari
+59,6,0,2020,2020-08-30,Belgian,Alpine F1 Team
+20,7,0,2020,2020-08-30,Belgian,AlphaTauri
+2,8,0,2020,2020-08-30,Belgian,Alfa Romeo
+1,9,0,2020,2020-08-30,Belgian,Haas F1 Team
+0,10,0,2020,2020-08-30,Belgian,Williams
+281,1,6,2020,2020-09-06,Italian,Mercedes
+158,2,1,2020,2020-09-06,Italian,Red Bull
+98,3,0,2020,2020-09-06,Italian,McLaren
+82,4,0,2020,2020-09-06,Italian,Aston Martin
+71,5,0,2020,2020-09-06,Italian,Alpine F1 Team
+61,6,0,2020,2020-09-06,Italian,Ferrari
+47,7,1,2020,2020-09-06,Italian,AlphaTauri
+2,8,0,2020,2020-09-06,Italian,Alfa Romeo
+1,9,0,2020,2020-09-06,Italian,Haas F1 Team
+0,10,0,2020,2020-09-06,Italian,Williams
+325,1,7,2020,2020-09-13,Tuscan,Mercedes
+173,2,1,2020,2020-09-13,Tuscan,Red Bull
+106,3,0,2020,2020-09-13,Tuscan,McLaren
+92,4,0,2020,2020-09-13,Tuscan,Aston Martin
+83,5,0,2020,2020-09-13,Tuscan,Alpine F1 Team
+66,6,0,2020,2020-09-13,Tuscan,Ferrari
+53,7,1,2020,2020-09-13,Tuscan,AlphaTauri
+4,8,0,2020,2020-09-13,Tuscan,Alfa Romeo
+1,9,0,2020,2020-09-13,Tuscan,Haas F1 Team
+0,10,0,2020,2020-09-13,Tuscan,Williams
+366,1,8,2020,2020-09-27,Russian,Mercedes
+192,2,1,2020,2020-09-27,Russian,Red Bull
+106,3,0,2020,2020-09-27,Russian,McLaren
+104,4,0,2020,2020-09-27,Russian,Aston Martin
+99,5,0,2020,2020-09-27,Russian,Alpine F1 Team
+74,6,0,2020,2020-09-27,Russian,Ferrari
+59,7,1,2020,2020-09-27,Russian,AlphaTauri
+4,8,0,2020,2020-09-27,Russian,Alfa Romeo
+1,9,0,2020,2020-09-27,Russian,Haas F1 Team
+0,10,0,2020,2020-09-27,Russian,Williams
+391,1,9,2020,2020-10-11,Eifel,Mercedes
+211,2,1,2020,2020-10-11,Eifel,Red Bull
+120,3,0,2020,2020-10-11,Eifel,Aston Martin
+116,4,0,2020,2020-10-11,Eifel,McLaren
+114,5,0,2020,2020-10-11,Eifel,Alpine F1 Team
+80,6,0,2020,2020-10-11,Eifel,Ferrari
+67,7,1,2020,2020-10-11,Eifel,AlphaTauri
+5,8,0,2020,2020-10-11,Eifel,Alfa Romeo
+3,9,0,2020,2020-10-11,Eifel,Haas F1 Team
+0,10,0,2020,2020-10-11,Eifel,Williams
+435,1,10,2020,2020-10-25,Portuguese,Mercedes
+226,2,1,2020,2020-10-25,Portuguese,Red Bull
+126,3,0,2020,2020-10-25,Portuguese,Aston Martin
+124,4,0,2020,2020-10-25,Portuguese,McLaren
+120,5,0,2020,2020-10-25,Portuguese,Alpine F1 Team
+93,6,0,2020,2020-10-25,Portuguese,Ferrari
+77,7,1,2020,2020-10-25,Portuguese,AlphaTauri
+5,8,0,2020,2020-10-25,Portuguese,Alfa Romeo
+3,9,0,2020,2020-10-25,Portuguese,Haas F1 Team
+0,10,0,2020,2020-10-25,Portuguese,Williams
+479,1,11,2020,2020-11-01,Emilia Romagna,Mercedes
+226,2,1,2020,2020-11-01,Emilia Romagna,Red Bull
+135,3,0,2020,2020-11-01,Emilia Romagna,Alpine F1 Team
+134,4,0,2020,2020-11-01,Emilia Romagna,McLaren
+134,5,0,2020,2020-11-01,Emilia Romagna,Aston Martin
+103,6,0,2020,2020-11-01,Emilia Romagna,Ferrari
+89,7,1,2020,2020-11-01,Emilia Romagna,AlphaTauri
+8,8,0,2020,2020-11-01,Emilia Romagna,Alfa Romeo
+3,9,0,2020,2020-11-01,Emilia Romagna,Haas F1 Team
+0,10,0,2020,2020-11-01,Emilia Romagna,Williams
+504,1,12,2020,2020-11-15,Turkish,Mercedes
+240,2,1,2020,2020-11-15,Turkish,Red Bull
+154,3,0,2020,2020-11-15,Turkish,Aston Martin
+149,4,0,2020,2020-11-15,Turkish,McLaren
+136,5,0,2020,2020-11-15,Turkish,Alpine F1 Team
+130,6,0,2020,2020-11-15,Turkish,Ferrari
+89,7,1,2020,2020-11-15,Turkish,AlphaTauri
+8,8,0,2020,2020-11-15,Turkish,Alfa Romeo
+3,9,0,2020,2020-11-15,Turkish,Haas F1 Team
+0,10,0,2020,2020-11-15,Turkish,Williams
+533,1,13,2020,2020-11-29,Bahrain,Mercedes
+274,2,1,2020,2020-11-29,Bahrain,Red Bull
+171,3,0,2020,2020-11-29,Bahrain,McLaren
+154,4,0,2020,2020-11-29,Bahrain,Aston Martin
+144,5,0,2020,2020-11-29,Bahrain,Alpine F1 Team
+131,6,0,2020,2020-11-29,Bahrain,Ferrari
+97,7,1,2020,2020-11-29,Bahrain,AlphaTauri
+8,8,0,2020,2020-11-29,Bahrain,Alfa Romeo
+3,9,0,2020,2020-11-29,Bahrain,Haas F1 Team
+0,10,0,2020,2020-11-29,Bahrain,Williams
+540,1,13,2020,2020-12-06,Sakhir,Mercedes
+282,2,1,2020,2020-12-06,Sakhir,Red Bull
+194,3,1,2020,2020-12-06,Sakhir,Aston Martin
+184,4,0,2020,2020-12-06,Sakhir,McLaren
+172,5,0,2020,2020-12-06,Sakhir,Alpine F1 Team
+131,6,0,2020,2020-12-06,Sakhir,Ferrari
+103,7,1,2020,2020-12-06,Sakhir,AlphaTauri
+8,8,0,2020,2020-12-06,Sakhir,Alfa Romeo
+3,9,0,2020,2020-12-06,Sakhir,Haas F1 Team
+0,10,0,2020,2020-12-06,Sakhir,Williams
+573,1,13,2020,2020-12-13,Abu Dhabi,Mercedes
+319,2,2,2020,2020-12-13,Abu Dhabi,Red Bull
+202,3,0,2020,2020-12-13,Abu Dhabi,McLaren
+195,4,1,2020,2020-12-13,Abu Dhabi,Aston Martin
+181,5,0,2020,2020-12-13,Abu Dhabi,Alpine F1 Team
+131,6,0,2020,2020-12-13,Abu Dhabi,Ferrari
+107,7,1,2020,2020-12-13,Abu Dhabi,AlphaTauri
+8,8,0,2020,2020-12-13,Abu Dhabi,Alfa Romeo
+3,9,0,2020,2020-12-13,Abu Dhabi,Haas F1 Team
+0,10,0,2020,2020-12-13,Abu Dhabi,Williams
+41,1,1,2021,2021-03-28,Bahrain,Mercedes
+28,2,0,2021,2021-03-28,Bahrain,Red Bull
+18,3,0,2021,2021-03-28,Bahrain,McLaren
+12,4,0,2021,2021-03-28,Bahrain,Ferrari
+2,5,0,2021,2021-03-28,Bahrain,AlphaTauri
+1,6,0,2021,2021-03-28,Bahrain,Aston Martin
+0,7,0,2021,2021-03-28,Bahrain,Alfa Romeo
+0,8,0,2021,2021-03-28,Bahrain,Alpine F1 Team
+0,9,0,2021,2021-03-28,Bahrain,Williams
+0,10,0,2021,2021-03-28,Bahrain,Haas F1 Team
+60,1,1,2021,2021-04-18,Emilia Romagna,Mercedes
+53,2,1,2021,2021-04-18,Emilia Romagna,Red Bull
+41,3,0,2021,2021-04-18,Emilia Romagna,McLaren
+34,4,0,2021,2021-04-18,Emilia Romagna,Ferrari
+8,5,0,2021,2021-04-18,Emilia Romagna,AlphaTauri
+5,6,0,2021,2021-04-18,Emilia Romagna,Aston Martin
+3,7,0,2021,2021-04-18,Emilia Romagna,Alpine F1 Team
+0,8,0,2021,2021-04-18,Emilia Romagna,Alfa Romeo
+0,9,0,2021,2021-04-18,Emilia Romagna,Williams
+0,10,0,2021,2021-04-18,Emilia Romagna,Haas F1 Team
+101,1,2,2021,2021-05-02,Portuguese,Mercedes
+83,2,1,2021,2021-05-02,Portuguese,Red Bull
+53,3,0,2021,2021-05-02,Portuguese,McLaren
+42,4,0,2021,2021-05-02,Portuguese,Ferrari
+13,5,0,2021,2021-05-02,Portuguese,Alpine F1 Team
+9,6,0,2021,2021-05-02,Portuguese,AlphaTauri
+5,7,0,2021,2021-05-02,Portuguese,Aston Martin
+0,8,0,2021,2021-05-02,Portuguese,Alfa Romeo
+0,9,0,2021,2021-05-02,Portuguese,Williams
+0,10,0,2021,2021-05-02,Portuguese,Haas F1 Team
+141,1,3,2021,2021-05-09,Spanish,Mercedes
+112,2,1,2021,2021-05-09,Spanish,Red Bull
+65,3,0,2021,2021-05-09,Spanish,McLaren
+60,4,0,2021,2021-05-09,Spanish,Ferrari
+15,5,0,2021,2021-05-09,Spanish,Alpine F1 Team
+10,6,0,2021,2021-05-09,Spanish,AlphaTauri
+5,7,0,2021,2021-05-09,Spanish,Aston Martin
+0,8,0,2021,2021-05-09,Spanish,Alfa Romeo
+0,9,0,2021,2021-05-09,Spanish,Williams
+0,10,0,2021,2021-05-09,Spanish,Haas F1 Team
+149,1,2,2021,2021-05-23,Monaco,Red Bull
+148,2,3,2021,2021-05-23,Monaco,Mercedes
+80,3,0,2021,2021-05-23,Monaco,McLaren
+78,4,0,2021,2021-05-23,Monaco,Ferrari
+19,5,0,2021,2021-05-23,Monaco,Aston Martin
+18,6,0,2021,2021-05-23,Monaco,AlphaTauri
+17,7,0,2021,2021-05-23,Monaco,Alpine F1 Team
+1,8,0,2021,2021-05-23,Monaco,Alfa Romeo
+0,9,0,2021,2021-05-23,Monaco,Williams
+0,10,0,2021,2021-05-23,Monaco,Haas F1 Team
+174,1,3,2021,2021-06-06,Azerbaijan,Red Bull
+148,2,3,2021,2021-06-06,Azerbaijan,Mercedes
+94,3,0,2021,2021-06-06,Azerbaijan,Ferrari
+92,4,0,2021,2021-06-06,Azerbaijan,McLaren
+39,5,0,2021,2021-06-06,Azerbaijan,AlphaTauri
+37,6,0,2021,2021-06-06,Azerbaijan,Aston Martin
+25,7,0,2021,2021-06-06,Azerbaijan,Alpine F1 Team
+2,8,0,2021,2021-06-06,Azerbaijan,Alfa Romeo
+0,9,0,2021,2021-06-06,Azerbaijan,Haas F1 Team
+0,10,0,2021,2021-06-06,Azerbaijan,Williams
+215,1,4,2021,2021-06-20,French,Red Bull
+178,2,3,2021,2021-06-20,French,Mercedes
+110,3,0,2021,2021-06-20,French,McLaren
+94,4,0,2021,2021-06-20,French,Ferrari
+45,5,0,2021,2021-06-20,French,AlphaTauri
+40,6,0,2021,2021-06-20,French,Aston Martin
+29,7,0,2021,2021-06-20,French,Alpine F1 Team
+2,8,0,2021,2021-06-20,French,Alfa Romeo
+0,9,0,2021,2021-06-20,French,Williams
+0,10,0,2021,2021-06-20,French,Haas F1 Team
+252,1,5,2021,2021-06-27,Styrian,Red Bull
+212,2,3,2021,2021-06-27,Styrian,Mercedes
+120,3,0,2021,2021-06-27,Styrian,McLaren
+108,4,0,2021,2021-06-27,Styrian,Ferrari
+46,5,0,2021,2021-06-27,Styrian,AlphaTauri
+44,6,0,2021,2021-06-27,Styrian,Aston Martin
+31,7,0,2021,2021-06-27,Styrian,Alpine F1 Team
+2,8,0,2021,2021-06-27,Styrian,Alfa Romeo
+0,9,0,2021,2021-06-27,Styrian,Williams
+0,10,0,2021,2021-06-27,Styrian,Haas F1 Team
+286,1,6,2021,2021-07-04,Austrian,Red Bull
+242,2,3,2021,2021-07-04,Austrian,Mercedes
+141,3,0,2021,2021-07-04,Austrian,McLaren
+122,4,0,2021,2021-07-04,Austrian,Ferrari
+48,5,0,2021,2021-07-04,Austrian,AlphaTauri
+44,6,0,2021,2021-07-04,Austrian,Aston Martin
+32,7,0,2021,2021-07-04,Austrian,Alpine F1 Team
+2,8,0,2021,2021-07-04,Austrian,Alfa Romeo
+0,9,0,2021,2021-07-04,Austrian,Williams
+0,10,0,2021,2021-07-04,Austrian,Haas F1 Team
+289,1,6,2021,2021-07-18,British,Red Bull
+285,2,4,2021,2021-07-18,British,Mercedes
+163,3,0,2021,2021-07-18,British,McLaren
+148,4,0,2021,2021-07-18,British,Ferrari
+49,5,0,2021,2021-07-18,British,AlphaTauri
+48,6,0,2021,2021-07-18,British,Aston Martin
+40,7,0,2021,2021-07-18,British,Alpine F1 Team
+2,8,0,2021,2021-07-18,British,Alfa Romeo
+0,9,0,2021,2021-07-18,British,Williams
+0,10,0,2021,2021-07-18,British,Haas F1 Team
+303,1,4,2021,2021-08-01,Hungarian,Mercedes
+291,2,6,2021,2021-08-01,Hungarian,Red Bull
+163,3,0,2021,2021-08-01,Hungarian,Ferrari
+163,4,0,2021,2021-08-01,Hungarian,McLaren
+77,5,1,2021,2021-08-01,Hungarian,Alpine F1 Team
+68,6,0,2021,2021-08-01,Hungarian,AlphaTauri
+48,7,0,2021,2021-08-01,Hungarian,Aston Martin
+10,8,0,2021,2021-08-01,Hungarian,Williams
+3,9,0,2021,2021-08-01,Hungarian,Alfa Romeo
+0,10,0,2021,2021-08-01,Hungarian,Haas F1 Team
+310.5,1,4,2021,2021-08-29,Belgian,Mercedes
+303.5,2,7,2021,2021-08-29,Belgian,Red Bull
+169,3,0,2021,2021-08-29,Belgian,McLaren
+165.5,4,0,2021,2021-08-29,Belgian,Ferrari
+80,5,1,2021,2021-08-29,Belgian,Alpine F1 Team
+72,6,0,2021,2021-08-29,Belgian,AlphaTauri
+53,7,0,2021,2021-08-29,Belgian,Aston Martin
+20,8,0,2021,2021-08-29,Belgian,Williams
+3,9,0,2021,2021-08-29,Belgian,Alfa Romeo
+0,10,0,2021,2021-08-29,Belgian,Haas F1 Team
+344.5,1,4,2021,2021-09-05,Dutch,Mercedes
+332.5,2,8,2021,2021-09-05,Dutch,Red Bull
+181.5,3,0,2021,2021-09-05,Dutch,Ferrari
+170,4,0,2021,2021-09-05,Dutch,McLaren
+90,5,1,2021,2021-09-05,Dutch,Alpine F1 Team
+84,6,0,2021,2021-09-05,Dutch,AlphaTauri
+53,7,0,2021,2021-09-05,Dutch,Aston Martin
+20,8,0,2021,2021-09-05,Dutch,Williams
+3,9,0,2021,2021-09-05,Dutch,Alfa Romeo
+0,10,0,2021,2021-09-05,Dutch,Haas F1 Team
+362.5,1,4,2021,2021-09-12,Italian,Mercedes
+344.5,2,8,2021,2021-09-12,Italian,Red Bull
+215,3,1,2021,2021-09-12,Italian,McLaren
+201.5,4,0,2021,2021-09-12,Italian,Ferrari
+95,5,1,2021,2021-09-12,Italian,Alpine F1 Team
+84,6,0,2021,2021-09-12,Italian,AlphaTauri
+59,7,0,2021,2021-09-12,Italian,Aston Martin
+22,8,0,2021,2021-09-12,Italian,Williams
+3,9,0,2021,2021-09-12,Italian,Alfa Romeo
+0,10,0,2021,2021-09-12,Italian,Haas F1 Team
+397.5,1,5,2021,2021-09-26,Russian,Mercedes
+364.5,2,8,2021,2021-09-26,Russian,Red Bull
+234,3,1,2021,2021-09-26,Russian,McLaren
+216.5,4,0,2021,2021-09-26,Russian,Ferrari
+103,5,1,2021,2021-09-26,Russian,Alpine F1 Team
+84,6,0,2021,2021-09-26,Russian,AlphaTauri
+59,7,0,2021,2021-09-26,Russian,Aston Martin
+23,8,0,2021,2021-09-26,Russian,Williams
+7,9,0,2021,2021-09-26,Russian,Alfa Romeo
+0,10,0,2021,2021-09-26,Russian,Haas F1 Team
+433.5,1,6,2021,2021-10-10,Turkish,Mercedes
+397.5,2,8,2021,2021-10-10,Turkish,Red Bull
+240,3,1,2021,2021-10-10,Turkish,McLaren
+232.5,4,0,2021,2021-10-10,Turkish,Ferrari
+104,5,1,2021,2021-10-10,Turkish,Alpine F1 Team
+92,6,0,2021,2021-10-10,Turkish,AlphaTauri
+61,7,0,2021,2021-10-10,Turkish,Aston Martin
+23,8,0,2021,2021-10-10,Turkish,Williams
+7,9,0,2021,2021-10-10,Turkish,Alfa Romeo
+0,10,0,2021,2021-10-10,Turkish,Haas F1 Team
+460.5,1,6,2021,2021-10-24,United States,Mercedes
+437.5,2,9,2021,2021-10-24,United States,Red Bull
+254,3,1,2021,2021-10-24,United States,McLaren
+250.5,4,0,2021,2021-10-24,United States,Ferrari
+104,5,1,2021,2021-10-24,United States,Alpine F1 Team
+94,6,0,2021,2021-10-24,United States,AlphaTauri
+62,7,0,2021,2021-10-24,United States,Aston Martin
+23,8,0,2021,2021-10-24,United States,Williams
+7,9,0,2021,2021-10-24,United States,Alfa Romeo
+0,10,0,2021,2021-10-24,United States,Haas F1 Team
+478.5,1,6,2021,2021-11-07,Mexico City,Mercedes
+477.5,2,10,2021,2021-11-07,Mexico City,Red Bull
+268.5,3,0,2021,2021-11-07,Mexico City,Ferrari
+255,4,1,2021,2021-11-07,Mexico City,McLaren
+106,5,1,2021,2021-11-07,Mexico City,Alpine F1 Team
+106,6,0,2021,2021-11-07,Mexico City,AlphaTauri
+68,7,0,2021,2021-11-07,Mexico City,Aston Martin
+23,8,0,2021,2021-11-07,Mexico City,Williams
+11,9,0,2021,2021-11-07,Mexico City,Alfa Romeo
+0,10,0,2021,2021-11-07,Mexico City,Haas F1 Team
+521.5,1,7,2021,2021-11-14,São Paulo,Mercedes
+510.5,2,10,2021,2021-11-14,São Paulo,Red Bull
+287.5,3,0,2021,2021-11-14,São Paulo,Ferrari
+256,4,1,2021,2021-11-14,São Paulo,McLaren
+112,5,1,2021,2021-11-14,São Paulo,Alpine F1 Team
+112,6,0,2021,2021-11-14,São Paulo,AlphaTauri
+68,7,0,2021,2021-11-14,São Paulo,Aston Martin
+23,8,0,2021,2021-11-14,São Paulo,Williams
+11,9,0,2021,2021-11-14,São Paulo,Alfa Romeo
+0,10,0,2021,2021-11-14,São Paulo,Haas F1 Team
+546.5,1,8,2021,2021-11-21,Qatar,Mercedes
+541.5,2,10,2021,2021-11-21,Qatar,Red Bull
+297.5,3,0,2021,2021-11-21,Qatar,Ferrari
+258,4,1,2021,2021-11-21,Qatar,McLaren
+137,5,1,2021,2021-11-21,Qatar,Alpine F1 Team
+112,6,0,2021,2021-11-21,Qatar,AlphaTauri
+77,7,0,2021,2021-11-21,Qatar,Aston Martin
+23,8,0,2021,2021-11-21,Qatar,Williams
+11,9,0,2021,2021-11-21,Qatar,Alfa Romeo
+0,10,0,2021,2021-11-21,Qatar,Haas F1 Team
+587.5,1,9,2021,2021-12-05,Saudi Arabian,Mercedes
+559.5,2,10,2021,2021-12-05,Saudi Arabian,Red Bull
+307.5,3,0,2021,2021-12-05,Saudi Arabian,Ferrari
+269,4,1,2021,2021-12-05,Saudi Arabian,McLaren
+149,5,1,2021,2021-12-05,Saudi Arabian,Alpine F1 Team
+120,6,0,2021,2021-12-05,Saudi Arabian,AlphaTauri
+77,7,0,2021,2021-12-05,Saudi Arabian,Aston Martin
+23,8,0,2021,2021-12-05,Saudi Arabian,Williams
+13,9,0,2021,2021-12-05,Saudi Arabian,Alfa Romeo
+0,10,0,2021,2021-12-05,Saudi Arabian,Haas F1 Team
+613.5,1,9,2021,2021-12-12,Abu Dhabi,Mercedes
+585.5,2,11,2021,2021-12-12,Abu Dhabi,Red Bull
+323.5,3,0,2021,2021-12-12,Abu Dhabi,Ferrari
+275,4,1,2021,2021-12-12,Abu Dhabi,McLaren
+155,5,1,2021,2021-12-12,Abu Dhabi,Alpine F1 Team
+142,6,0,2021,2021-12-12,Abu Dhabi,AlphaTauri
+77,7,0,2021,2021-12-12,Abu Dhabi,Aston Martin
+23,8,0,2021,2021-12-12,Abu Dhabi,Williams
+13,9,0,2021,2021-12-12,Abu Dhabi,Alfa Romeo
+0,10,0,2021,2021-12-12,Abu Dhabi,Haas F1 Team
+44,1,1,2022,2022-03-20,Bahrain,Ferrari
+27,2,0,2022,2022-03-20,Bahrain,Mercedes
+10,3,0,2022,2022-03-20,Bahrain,Haas F1 Team
+9,4,0,2022,2022-03-20,Bahrain,Alfa Romeo
+8,5,0,2022,2022-03-20,Bahrain,Alpine F1 Team
+4,6,0,2022,2022-03-20,Bahrain,AlphaTauri
+0,7,0,2022,2022-03-20,Bahrain,Aston Martin
+0,8,0,2022,2022-03-20,Bahrain,Williams
+0,9,0,2022,2022-03-20,Bahrain,McLaren
+0,10,0,2022,2022-03-20,Bahrain,Red Bull
+78,1,1,2022,2022-03-27,Saudi Arabian,Ferrari
+38,2,0,2022,2022-03-27,Saudi Arabian,Mercedes
+37,3,1,2022,2022-03-27,Saudi Arabian,Red Bull
+16,4,0,2022,2022-03-27,Saudi Arabian,Alpine F1 Team
+12,5,0,2022,2022-03-27,Saudi Arabian,Haas F1 Team
+9,6,0,2022,2022-03-27,Saudi Arabian,Alfa Romeo
+8,7,0,2022,2022-03-27,Saudi Arabian,AlphaTauri
+6,8,0,2022,2022-03-27,Saudi Arabian,McLaren
+0,9,0,2022,2022-03-27,Saudi Arabian,Aston Martin
+0,10,0,2022,2022-03-27,Saudi Arabian,Williams
+104,1,2,2022,2022-04-10,Australian,Ferrari
+65,2,0,2022,2022-04-10,Australian,Mercedes
+55,3,1,2022,2022-04-10,Australian,Red Bull
+24,4,0,2022,2022-04-10,Australian,McLaren
+22,5,0,2022,2022-04-10,Australian,Alpine F1 Team
+13,6,0,2022,2022-04-10,Australian,Alfa Romeo
+12,7,0,2022,2022-04-10,Australian,Haas F1 Team
+10,8,0,2022,2022-04-10,Australian,AlphaTauri
+1,9,0,2022,2022-04-10,Australian,Williams
+0,10,0,2022,2022-04-10,Australian,Aston Martin
+124,1,2,2022,2022-04-24,Emilia Romagna,Ferrari
+113,2,2,2022,2022-04-24,Emilia Romagna,Red Bull
+77,3,0,2022,2022-04-24,Emilia Romagna,Mercedes
+46,4,0,2022,2022-04-24,Emilia Romagna,McLaren
+25,5,0,2022,2022-04-24,Emilia Romagna,Alfa Romeo
+22,6,0,2022,2022-04-24,Emilia Romagna,Alpine F1 Team
+16,7,0,2022,2022-04-24,Emilia Romagna,AlphaTauri
+15,8,0,2022,2022-04-24,Emilia Romagna,Haas F1 Team
+5,9,0,2022,2022-04-24,Emilia Romagna,Aston Martin
+1,10,0,2022,2022-04-24,Emilia Romagna,Williams
+157,1,2,2022,2022-05-08,Miami,Ferrari
+151,2,3,2022,2022-05-08,Miami,Red Bull
+95,3,0,2022,2022-05-08,Miami,Mercedes
+46,4,0,2022,2022-05-08,Miami,McLaren
+31,5,0,2022,2022-05-08,Miami,Alfa Romeo
+26,6,0,2022,2022-05-08,Miami,Alpine F1 Team
+16,7,0,2022,2022-05-08,Miami,AlphaTauri
+15,8,0,2022,2022-05-08,Miami,Haas F1 Team
+6,9,0,2022,2022-05-08,Miami,Aston Martin
+3,10,0,2022,2022-05-08,Miami,Williams
+195,1,4,2022,2022-05-22,Spanish,Red Bull
+169,2,2,2022,2022-05-22,Spanish,Ferrari
+120,3,0,2022,2022-05-22,Spanish,Mercedes
+50,4,0,2022,2022-05-22,Spanish,McLaren
+39,5,0,2022,2022-05-22,Spanish,Alfa Romeo
+34,6,0,2022,2022-05-22,Spanish,Alpine F1 Team
+17,7,0,2022,2022-05-22,Spanish,AlphaTauri
+15,8,0,2022,2022-05-22,Spanish,Haas F1 Team
+6,9,0,2022,2022-05-22,Spanish,Aston Martin
+3,10,0,2022,2022-05-22,Spanish,Williams
+235,1,5,2022,2022-05-29,Monaco,Red Bull
+199,2,2,2022,2022-05-29,Monaco,Ferrari
+134,3,0,2022,2022-05-29,Monaco,Mercedes
+59,4,0,2022,2022-05-29,Monaco,McLaren
+41,5,0,2022,2022-05-29,Monaco,Alfa Romeo
+40,6,0,2022,2022-05-29,Monaco,Alpine F1 Team
+17,7,0,2022,2022-05-29,Monaco,AlphaTauri
+15,8,0,2022,2022-05-29,Monaco,Haas F1 Team
+7,9,0,2022,2022-05-29,Monaco,Aston Martin
+3,10,0,2022,2022-05-29,Monaco,Williams
+279,1,6,2022,2022-06-12,Azerbaijan,Red Bull
+199,2,2,2022,2022-06-12,Azerbaijan,Ferrari
+161,3,0,2022,2022-06-12,Azerbaijan,Mercedes
+65,4,0,2022,2022-06-12,Azerbaijan,McLaren
+47,5,0,2022,2022-06-12,Azerbaijan,Alpine F1 Team
+41,6,0,2022,2022-06-12,Azerbaijan,Alfa Romeo
+27,7,0,2022,2022-06-12,Azerbaijan,AlphaTauri
+15,8,0,2022,2022-06-12,Azerbaijan,Haas F1 Team
+15,9,0,2022,2022-06-12,Azerbaijan,Aston Martin
+3,10,0,2022,2022-06-12,Azerbaijan,Williams
+304,1,7,2022,2022-06-19,Canadian,Red Bull
+228,2,2,2022,2022-06-19,Canadian,Ferrari
+188,3,0,2022,2022-06-19,Canadian,Mercedes
+65,4,0,2022,2022-06-19,Canadian,McLaren
+57,5,0,2022,2022-06-19,Canadian,Alpine F1 Team
+51,6,0,2022,2022-06-19,Canadian,Alfa Romeo
+27,7,0,2022,2022-06-19,Canadian,AlphaTauri
+16,8,0,2022,2022-06-19,Canadian,Aston Martin
+15,9,0,2022,2022-06-19,Canadian,Haas F1 Team
+3,10,0,2022,2022-06-19,Canadian,Williams
+328,1,7,2022,2022-07-03,British,Red Bull
+265,2,3,2022,2022-07-03,British,Ferrari
+204,3,0,2022,2022-07-03,British,Mercedes
+73,4,0,2022,2022-07-03,British,McLaren
+67,5,0,2022,2022-07-03,British,Alpine F1 Team
+51,6,0,2022,2022-07-03,British,Alfa Romeo
+27,7,0,2022,2022-07-03,British,AlphaTauri
+20,8,0,2022,2022-07-03,British,Haas F1 Team
+18,9,0,2022,2022-07-03,British,Aston Martin
+3,10,0,2022,2022-07-03,British,Williams
+359,1,7,2022,2022-07-10,Austrian,Red Bull
+303,2,4,2022,2022-07-10,Austrian,Ferrari
+237,3,0,2022,2022-07-10,Austrian,Mercedes
+81,4,0,2022,2022-07-10,Austrian,McLaren
+81,5,0,2022,2022-07-10,Austrian,Alpine F1 Team
+51,6,0,2022,2022-07-10,Austrian,Alfa Romeo
+34,7,0,2022,2022-07-10,Austrian,Haas F1 Team
+27,8,0,2022,2022-07-10,Austrian,AlphaTauri
+18,9,0,2022,2022-07-10,Austrian,Aston Martin
+3,10,0,2022,2022-07-10,Austrian,Williams
+396,1,8,2022,2022-07-24,French,Red Bull
+314,2,4,2022,2022-07-24,French,Ferrari
+270,3,0,2022,2022-07-24,French,Mercedes
+93,4,0,2022,2022-07-24,French,Alpine F1 Team
+89,5,0,2022,2022-07-24,French,McLaren
+51,6,0,2022,2022-07-24,French,Alfa Romeo
+34,7,0,2022,2022-07-24,French,Haas F1 Team
+27,8,0,2022,2022-07-24,French,AlphaTauri
+19,9,0,2022,2022-07-24,French,Aston Martin
+3,10,0,2022,2022-07-24,French,Williams
+431,1,9,2022,2022-07-31,Hungarian,Red Bull
+334,2,4,2022,2022-07-31,Hungarian,Ferrari
+304,3,0,2022,2022-07-31,Hungarian,Mercedes
+99,4,0,2022,2022-07-31,Hungarian,Alpine F1 Team
+95,5,0,2022,2022-07-31,Hungarian,McLaren
+51,6,0,2022,2022-07-31,Hungarian,Alfa Romeo
+34,7,0,2022,2022-07-31,Hungarian,Haas F1 Team
+27,8,0,2022,2022-07-31,Hungarian,AlphaTauri
+20,9,0,2022,2022-07-31,Hungarian,Aston Martin
+3,10,0,2022,2022-07-31,Hungarian,Williams
+475,1,10,2022,2022-08-28,Belgian,Red Bull
+357,2,4,2022,2022-08-28,Belgian,Ferrari
+316,3,0,2022,2022-08-28,Belgian,Mercedes
+115,4,0,2022,2022-08-28,Belgian,Alpine F1 Team
+95,5,0,2022,2022-08-28,Belgian,McLaren
+51,6,0,2022,2022-08-28,Belgian,Alfa Romeo
+34,7,0,2022,2022-08-28,Belgian,Haas F1 Team
+29,8,0,2022,2022-08-28,Belgian,AlphaTauri
+24,9,0,2022,2022-08-28,Belgian,Aston Martin
+4,10,0,2022,2022-08-28,Belgian,Williams
+511,1,11,2022,2022-09-04,Dutch,Red Bull
+376,2,4,2022,2022-09-04,Dutch,Ferrari
+346,3,0,2022,2022-09-04,Dutch,Mercedes
+125,4,0,2022,2022-09-04,Dutch,Alpine F1 Team
+101,5,0,2022,2022-09-04,Dutch,McLaren
+51,6,0,2022,2022-09-04,Dutch,Alfa Romeo
+34,7,0,2022,2022-09-04,Dutch,Haas F1 Team
+29,8,0,2022,2022-09-04,Dutch,AlphaTauri
+25,9,0,2022,2022-09-04,Dutch,Aston Martin
+4,10,0,2022,2022-09-04,Dutch,Williams
+545,1,12,2022,2022-09-11,Italian,Red Bull
+406,2,4,2022,2022-09-11,Italian,Ferrari
+371,3,0,2022,2022-09-11,Italian,Mercedes
+125,4,0,2022,2022-09-11,Italian,Alpine F1 Team
+107,5,0,2022,2022-09-11,Italian,McLaren
+52,6,0,2022,2022-09-11,Italian,Alfa Romeo
+34,7,0,2022,2022-09-11,Italian,Haas F1 Team
+33,8,0,2022,2022-09-11,Italian,AlphaTauri
+25,9,0,2022,2022-09-11,Italian,Aston Martin
+6,10,0,2022,2022-09-11,Italian,Williams
+576,1,13,2022,2022-10-02,Singapore,Red Bull
+439,2,4,2022,2022-10-02,Singapore,Ferrari
+373,3,0,2022,2022-10-02,Singapore,Mercedes
+129,4,0,2022,2022-10-02,Singapore,McLaren
+125,5,0,2022,2022-10-02,Singapore,Alpine F1 Team
+52,6,0,2022,2022-10-02,Singapore,Alfa Romeo
+37,7,0,2022,2022-10-02,Singapore,Aston Martin
+34,8,0,2022,2022-10-02,Singapore,Haas F1 Team
+34,9,0,2022,2022-10-02,Singapore,AlphaTauri
+6,10,0,2022,2022-10-02,Singapore,Williams
+619,1,14,2022,2022-10-09,Japanese,Red Bull
+454,2,4,2022,2022-10-09,Japanese,Ferrari
+387,3,0,2022,2022-10-09,Japanese,Mercedes
+143,4,0,2022,2022-10-09,Japanese,Alpine F1 Team
+130,5,0,2022,2022-10-09,Japanese,McLaren
+52,6,0,2022,2022-10-09,Japanese,Alfa Romeo
+45,7,0,2022,2022-10-09,Japanese,Aston Martin
+34,8,0,2022,2022-10-09,Japanese,Haas F1 Team
+34,9,0,2022,2022-10-09,Japanese,AlphaTauri
+8,10,0,2022,2022-10-09,Japanese,Williams
+656,1,15,2022,2022-10-23,United States,Red Bull
+469,2,4,2022,2022-10-23,United States,Ferrari
+416,3,0,2022,2022-10-23,United States,Mercedes
+149,4,0,2022,2022-10-23,United States,Alpine F1 Team
+138,5,0,2022,2022-10-23,United States,McLaren
+52,6,0,2022,2022-10-23,United States,Alfa Romeo
+49,7,0,2022,2022-10-23,United States,Aston Martin
+36,8,0,2022,2022-10-23,United States,Haas F1 Team
+35,9,0,2022,2022-10-23,United States,AlphaTauri
+8,10,0,2022,2022-10-23,United States,Williams
+696,1,16,2022,2022-10-30,Mexico City,Red Bull
+487,2,4,2022,2022-10-30,Mexico City,Ferrari
+447,3,0,2022,2022-10-30,Mexico City,Mercedes
+153,4,0,2022,2022-10-30,Mexico City,Alpine F1 Team
+146,5,0,2022,2022-10-30,Mexico City,McLaren
+53,6,0,2022,2022-10-30,Mexico City,Alfa Romeo
+49,7,0,2022,2022-10-30,Mexico City,Aston Martin
+36,8,0,2022,2022-10-30,Mexico City,Haas F1 Team
+35,9,0,2022,2022-10-30,Mexico City,AlphaTauri
+8,10,0,2022,2022-10-30,Mexico City,Williams
+719,1,16,2022,2022-11-13,São Paulo,Red Bull
+524,2,4,2022,2022-11-13,São Paulo,Ferrari
+505,3,1,2022,2022-11-13,São Paulo,Mercedes
+167,4,0,2022,2022-11-13,São Paulo,Alpine F1 Team
+148,5,0,2022,2022-11-13,São Paulo,McLaren
+55,6,0,2022,2022-11-13,São Paulo,Alfa Romeo
+50,7,0,2022,2022-11-13,São Paulo,Aston Martin
+37,8,0,2022,2022-11-13,São Paulo,Haas F1 Team
+35,9,0,2022,2022-11-13,São Paulo,AlphaTauri
+8,10,0,2022,2022-11-13,São Paulo,Williams
+759,1,17,2022,2022-11-20,Abu Dhabi,Red Bull
+554,2,4,2022,2022-11-20,Abu Dhabi,Ferrari
+515,3,1,2022,2022-11-20,Abu Dhabi,Mercedes
+173,4,0,2022,2022-11-20,Abu Dhabi,Alpine F1 Team
+159,5,0,2022,2022-11-20,Abu Dhabi,McLaren
+55,6,0,2022,2022-11-20,Abu Dhabi,Alfa Romeo
+55,7,0,2022,2022-11-20,Abu Dhabi,Aston Martin
+37,8,0,2022,2022-11-20,Abu Dhabi,Haas F1 Team
+35,9,0,2022,2022-11-20,Abu Dhabi,AlphaTauri
+8,10,0,2022,2022-11-20,Abu Dhabi,Williams
+43,1,1,2023,2023-03-05,Bahrain,Red Bull
+23,2,0,2023,2023-03-05,Bahrain,Aston Martin
+16,3,0,2023,2023-03-05,Bahrain,Mercedes
+12,4,0,2023,2023-03-05,Bahrain,Ferrari
+4,5,0,2023,2023-03-05,Bahrain,Alfa Romeo
+2,6,0,2023,2023-03-05,Bahrain,Alpine F1 Team
+1,7,0,2023,2023-03-05,Bahrain,Williams
+0,8,0,2023,2023-03-05,Bahrain,AlphaTauri
+0,9,0,2023,2023-03-05,Bahrain,Haas F1 Team
+0,10,0,2023,2023-03-05,Bahrain,McLaren
+87,1,2,2023,2023-03-19,Saudi Arabian,Red Bull
+38,2,0,2023,2023-03-19,Saudi Arabian,Aston Martin
+38,3,0,2023,2023-03-19,Saudi Arabian,Mercedes
+26,4,0,2023,2023-03-19,Saudi Arabian,Ferrari
+8,5,0,2023,2023-03-19,Saudi Arabian,Alpine F1 Team
+4,6,0,2023,2023-03-19,Saudi Arabian,Alfa Romeo
+1,7,0,2023,2023-03-19,Saudi Arabian,Haas F1 Team
+1,8,0,2023,2023-03-19,Saudi Arabian,Williams
+0,9,0,2023,2023-03-19,Saudi Arabian,AlphaTauri
+0,10,0,2023,2023-03-19,Saudi Arabian,McLaren
+123,1,3,2023,2023-04-02,Australian,Red Bull
+65,2,0,2023,2023-04-02,Australian,Aston Martin
+56,3,0,2023,2023-04-02,Australian,Mercedes
+26,4,0,2023,2023-04-02,Australian,Ferrari
+12,5,0,2023,2023-04-02,Australian,McLaren
+8,6,0,2023,2023-04-02,Australian,Alpine F1 Team
+7,7,0,2023,2023-04-02,Australian,Haas F1 Team
+6,8,0,2023,2023-04-02,Australian,Alfa Romeo
+1,9,0,2023,2023-04-02,Australian,AlphaTauri
+1,10,0,2023,2023-04-02,Australian,Williams
+180,1,4,2023,2023-04-30,Azerbaijan,Red Bull
+87,2,0,2023,2023-04-30,Azerbaijan,Aston Martin
+76,3,0,2023,2023-04-30,Azerbaijan,Mercedes
+62,4,0,2023,2023-04-30,Azerbaijan,Ferrari
+14,5,0,2023,2023-04-30,Azerbaijan,McLaren
+8,6,0,2023,2023-04-30,Azerbaijan,Alpine F1 Team
+7,7,0,2023,2023-04-30,Azerbaijan,Haas F1 Team
+6,8,0,2023,2023-04-30,Azerbaijan,Alfa Romeo
+2,9,0,2023,2023-04-30,Azerbaijan,AlphaTauri
+1,10,0,2023,2023-04-30,Azerbaijan,Williams
+224,1,5,2023,2023-05-07,Miami,Red Bull
+102,2,0,2023,2023-05-07,Miami,Aston Martin
+96,3,0,2023,2023-05-07,Miami,Mercedes
+78,4,0,2023,2023-05-07,Miami,Ferrari
+14,5,0,2023,2023-05-07,Miami,McLaren
+14,6,0,2023,2023-05-07,Miami,Alpine F1 Team
+8,7,0,2023,2023-05-07,Miami,Haas F1 Team
+6,8,0,2023,2023-05-07,Miami,Alfa Romeo
+2,9,0,2023,2023-05-07,Miami,AlphaTauri
+1,10,0,2023,2023-05-07,Miami,Williams
+249,1,6,2023,2023-05-28,Monaco,Red Bull
+120,2,0,2023,2023-05-28,Monaco,Aston Martin
+119,3,0,2023,2023-05-28,Monaco,Mercedes
+90,4,0,2023,2023-05-28,Monaco,Ferrari
+35,5,0,2023,2023-05-28,Monaco,Alpine F1 Team
+17,6,0,2023,2023-05-28,Monaco,McLaren
+8,7,0,2023,2023-05-28,Monaco,Haas F1 Team
+6,8,0,2023,2023-05-28,Monaco,Alfa Romeo
+2,9,0,2023,2023-05-28,Monaco,AlphaTauri
+1,10,0,2023,2023-05-28,Monaco,Williams
+287,1,7,2023,2023-06-04,Spanish,Red Bull
+152,2,0,2023,2023-06-04,Spanish,Mercedes
+134,3,0,2023,2023-06-04,Spanish,Aston Martin
+100,4,0,2023,2023-06-04,Spanish,Ferrari
+40,5,0,2023,2023-06-04,Spanish,Alpine F1 Team
+17,6,0,2023,2023-06-04,Spanish,McLaren
+8,7,0,2023,2023-06-04,Spanish,Haas F1 Team
+8,8,0,2023,2023-06-04,Spanish,Alfa Romeo
+2,9,0,2023,2023-06-04,Spanish,AlphaTauri
+1,10,0,2023,2023-06-04,Spanish,Williams
+321,1,8,2023,2023-06-18,Canadian,Red Bull
+167,2,0,2023,2023-06-18,Canadian,Mercedes
+154,3,0,2023,2023-06-18,Canadian,Aston Martin
+122,4,0,2023,2023-06-18,Canadian,Ferrari
+44,5,0,2023,2023-06-18,Canadian,Alpine F1 Team
+17,6,0,2023,2023-06-18,Canadian,McLaren
+9,7,0,2023,2023-06-18,Canadian,Alfa Romeo
+8,8,0,2023,2023-06-18,Canadian,Haas F1 Team
+7,9,0,2023,2023-06-18,Canadian,Williams
+2,10,0,2023,2023-06-18,Canadian,AlphaTauri
+377,1,9,2023,2023-07-02,Austrian,Red Bull
+178,2,0,2023,2023-07-02,Austrian,Mercedes
+175,3,0,2023,2023-07-02,Austrian,Aston Martin
+154,4,0,2023,2023-07-02,Austrian,Ferrari
+47,5,0,2023,2023-07-02,Austrian,Alpine F1 Team
+29,6,0,2023,2023-07-02,Austrian,McLaren
+11,7,0,2023,2023-07-02,Austrian,Haas F1 Team
+9,8,0,2023,2023-07-02,Austrian,Alfa Romeo
+7,9,0,2023,2023-07-02,Austrian,Williams
+2,10,0,2023,2023-07-02,Austrian,AlphaTauri
+411,1,10,2023,2023-07-09,British,Red Bull
+203,2,0,2023,2023-07-09,British,Mercedes
+181,3,0,2023,2023-07-09,British,Aston Martin
+157,4,0,2023,2023-07-09,British,Ferrari
+59,5,0,2023,2023-07-09,British,McLaren
+47,6,0,2023,2023-07-09,British,Alpine F1 Team
+11,7,0,2023,2023-07-09,British,Williams
+11,8,0,2023,2023-07-09,British,Haas F1 Team
+9,9,0,2023,2023-07-09,British,Alfa Romeo
+2,10,0,2023,2023-07-09,British,AlphaTauri
+452,1,11,2023,2023-07-23,Hungarian,Red Bull
+223,2,0,2023,2023-07-23,Hungarian,Mercedes
+184,3,0,2023,2023-07-23,Hungarian,Aston Martin
+167,4,0,2023,2023-07-23,Hungarian,Ferrari
+87,5,0,2023,2023-07-23,Hungarian,McLaren
+47,6,0,2023,2023-07-23,Hungarian,Alpine F1 Team
+11,7,0,2023,2023-07-23,Hungarian,Williams
+11,8,0,2023,2023-07-23,Hungarian,Haas F1 Team
+9,9,0,2023,2023-07-23,Hungarian,Alfa Romeo
+2,10,0,2023,2023-07-23,Hungarian,AlphaTauri
+503,1,12,2023,2023-07-30,Belgian,Red Bull
+247,2,0,2023,2023-07-30,Belgian,Mercedes
+196,3,0,2023,2023-07-30,Belgian,Aston Martin
+191,4,0,2023,2023-07-30,Belgian,Ferrari
+103,5,0,2023,2023-07-30,Belgian,McLaren
+57,6,0,2023,2023-07-30,Belgian,Alpine F1 Team
+11,7,0,2023,2023-07-30,Belgian,Williams
+11,8,0,2023,2023-07-30,Belgian,Haas F1 Team
+9,9,0,2023,2023-07-30,Belgian,Alfa Romeo
+3,10,0,2023,2023-07-30,Belgian,AlphaTauri
+540,1,13,2023,2023-08-27,Dutch,Red Bull
+255,2,0,2023,2023-08-27,Dutch,Mercedes
+215,3,0,2023,2023-08-27,Dutch,Aston Martin
+201,4,0,2023,2023-08-27,Dutch,Ferrari
+111,5,0,2023,2023-08-27,Dutch,McLaren
+73,6,0,2023,2023-08-27,Dutch,Alpine F1 Team
+15,7,0,2023,2023-08-27,Dutch,Williams
+11,8,0,2023,2023-08-27,Dutch,Haas F1 Team
+9,9,0,2023,2023-08-27,Dutch,Alfa Romeo
+3,10,0,2023,2023-08-27,Dutch,AlphaTauri
+583,1,14,2023,2023-09-03,Italian,Red Bull
+273,2,0,2023,2023-09-03,Italian,Mercedes
+228,3,0,2023,2023-09-03,Italian,Ferrari
+217,4,0,2023,2023-09-03,Italian,Aston Martin
+115,5,0,2023,2023-09-03,Italian,McLaren
+73,6,0,2023,2023-09-03,Italian,Alpine F1 Team
+21,7,0,2023,2023-09-03,Italian,Williams
+11,8,0,2023,2023-09-03,Italian,Haas F1 Team
+10,9,0,2023,2023-09-03,Italian,Alfa Romeo
+3,10,0,2023,2023-09-03,Italian,AlphaTauri
+597,1,14,2023,2023-09-17,Singapore,Red Bull
+289,2,0,2023,2023-09-17,Singapore,Mercedes
+265,3,1,2023,2023-09-17,Singapore,Ferrari
+217,4,0,2023,2023-09-17,Singapore,Aston Martin
+139,5,0,2023,2023-09-17,Singapore,McLaren
+81,6,0,2023,2023-09-17,Singapore,Alpine F1 Team
+21,7,0,2023,2023-09-17,Singapore,Williams
+12,8,0,2023,2023-09-17,Singapore,Haas F1 Team
+10,9,0,2023,2023-09-17,Singapore,Alfa Romeo
+5,10,0,2023,2023-09-17,Singapore,AlphaTauri
+623,1,15,2023,2023-09-24,Japanese,Red Bull
+305,2,0,2023,2023-09-24,Japanese,Mercedes
+285,3,1,2023,2023-09-24,Japanese,Ferrari
+221,4,0,2023,2023-09-24,Japanese,Aston Martin
+172,5,0,2023,2023-09-24,Japanese,McLaren
+84,6,0,2023,2023-09-24,Japanese,Alpine F1 Team
+21,7,0,2023,2023-09-24,Japanese,Williams
+12,8,0,2023,2023-09-24,Japanese,Haas F1 Team
+10,9,0,2023,2023-09-24,Japanese,Alfa Romeo
+5,10,0,2023,2023-09-24,Japanese,AlphaTauri
+657,1,16,2023,2023-10-08,Qatar,Red Bull
+326,2,0,2023,2023-10-08,Qatar,Mercedes
+298,3,1,2023,2023-10-08,Qatar,Ferrari
+230,4,0,2023,2023-10-08,Qatar,Aston Martin
+219,5,0,2023,2023-10-08,Qatar,McLaren
+90,6,0,2023,2023-10-08,Qatar,Alpine F1 Team
+23,7,0,2023,2023-10-08,Qatar,Williams
+16,8,0,2023,2023-10-08,Qatar,Alfa Romeo
+12,9,0,2023,2023-10-08,Qatar,Haas F1 Team
+5,10,0,2023,2023-10-08,Qatar,AlphaTauri
+706,1,17,2023,2023-10-22,United States,Red Bull
+344,2,0,2023,2023-10-22,United States,Mercedes
+322,3,1,2023,2023-10-22,United States,Ferrari
+242,4,0,2023,2023-10-22,United States,McLaren
+236,5,0,2023,2023-10-22,United States,Aston Martin
+100,6,0,2023,2023-10-22,United States,Alpine F1 Team
+26,7,0,2023,2023-10-22,United States,Williams
+16,8,0,2023,2023-10-22,United States,Alfa Romeo
+12,9,0,2023,2023-10-22,United States,Haas F1 Team
+10,10,0,2023,2023-10-22,United States,AlphaTauri
+731,1,18,2023,2023-10-29,Mexico City,Red Bull
+371,2,0,2023,2023-10-29,Mexico City,Mercedes
+349,3,1,2023,2023-10-29,Mexico City,Ferrari
+256,4,0,2023,2023-10-29,Mexico City,McLaren
+236,5,0,2023,2023-10-29,Mexico City,Aston Martin
+101,6,0,2023,2023-10-29,Mexico City,Alpine F1 Team
+28,7,0,2023,2023-10-29,Mexico City,Williams
+16,8,0,2023,2023-10-29,Mexico City,AlphaTauri
+16,9,0,2023,2023-10-29,Mexico City,Alfa Romeo
+12,10,0,2023,2023-10-29,Mexico City,Haas F1 Team
+782,1,19,2023,2023-11-05,São Paulo,Red Bull
+382,2,0,2023,2023-11-05,São Paulo,Mercedes
+362,3,1,2023,2023-11-05,São Paulo,Ferrari
+282,4,0,2023,2023-11-05,São Paulo,McLaren
+261,5,0,2023,2023-11-05,São Paulo,Aston Martin
+108,6,0,2023,2023-11-05,São Paulo,Alpine F1 Team
+28,7,0,2023,2023-11-05,São Paulo,Williams
+21,8,0,2023,2023-11-05,São Paulo,AlphaTauri
+16,9,0,2023,2023-11-05,São Paulo,Alfa Romeo
+12,10,0,2023,2023-11-05,São Paulo,Haas F1 Team
+822,1,20,2023,2023-11-19,Las Vegas,Red Bull
+392,2,0,2023,2023-11-19,Las Vegas,Mercedes
+388,3,1,2023,2023-11-19,Las Vegas,Ferrari
+284,4,0,2023,2023-11-19,Las Vegas,McLaren
+273,5,0,2023,2023-11-19,Las Vegas,Aston Martin
+120,6,0,2023,2023-11-19,Las Vegas,Alpine F1 Team
+28,7,0,2023,2023-11-19,Las Vegas,Williams
+21,8,0,2023,2023-11-19,Las Vegas,AlphaTauri
+16,9,0,2023,2023-11-19,Las Vegas,Alfa Romeo
+12,10,0,2023,2023-11-19,Las Vegas,Haas F1 Team
+860,1,21,2023,2023-11-26,Abu Dhabi,Red Bull
+409,2,0,2023,2023-11-26,Abu Dhabi,Mercedes
+406,3,1,2023,2023-11-26,Abu Dhabi,Ferrari
+302,4,0,2023,2023-11-26,Abu Dhabi,McLaren
+280,5,0,2023,2023-11-26,Abu Dhabi,Aston Martin
+120,6,0,2023,2023-11-26,Abu Dhabi,Alpine F1 Team
+28,7,0,2023,2023-11-26,Abu Dhabi,Williams
+25,8,0,2023,2023-11-26,Abu Dhabi,AlphaTauri
+16,9,0,2023,2023-11-26,Abu Dhabi,Alfa Romeo
+12,10,0,2023,2023-11-26,Abu Dhabi,Haas F1 Team

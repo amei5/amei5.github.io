@@ -5,20 +5,95 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Constructor Standings</title>
   <script src="https://d3js.org/d3.v7.min.js"></script>
+  <script src="d3-annotation.min.js"></script>
   <style>
+   body {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        text-align: center;
+	    font-family: Verdana, sans-serif;
+    }
+
+    h1 {
+	    text-align: center;
+	    font-size: 25px;
+	    color: darkslategrey;
+	    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.3);
+	    margin-bottom: 10px;
+    }
     /* CSS styles for the chart */
     .line {
       fill: none;
       stroke-width: 2px;
     }
+
+    .point {
+      fill: steelblue;
+      stroke: #fff;
+      stroke-width: 1.5px;
+    }
+
+    .controls {
+        display: flex;
+        justify-content: center;
+        gap: 20px;
+        padding: 20px;
+    }
+
+    .buttons {
+        display: inline-block;
+        justify-content: center;
+        gap: 20px;
+        padding: 20px;
+    }
+
+    .narrative-text{
+	    margin-top: 20px;
+	    font-size: 15px;
+	    text-align: center;
+	    color: darkslategrey;
+    }
+
+    .footnote{
+	    font-size: 12px;
+	    text-align: center;
+	    color: darkslategrey;
+    } 
   </style>
 </head>
 <body>
-  <div id="chart-container">
-    <!-- SVG container for the chart -->
-    <svg id="chart" width="800" height="400"></svg>
-  </div>
+    <div id="chart-container">
+        <h1>Formula 1 Constructor Standings (2000-2023)</h1>
+        <div class="narrative-text">
+            <p>
+            <br>The FIA Formula 1 World Championship started in 1950. With a series of races held in different locations around the globe, each team (known as Constructors,) competes to finish with the most points at the end of the season.
+            The winner is the first to cross the finish line and points are awarded based on top ten positions — the one with the most at the end of the year is crowned World Champion. 
+            In 1950 there were seven championship rounds, but as the sport has grown, there are now 24 feature 24 races in the 2024 season. We'll track the modern era of Formula 1 since 2000 and look at how constructor standings have changed over time.</br> 
 
-  <script src="details.js"></script>
+            <br>There are ten teams that compete in Formula 1 – which are either privately owned or run by car manufacturers – and they must each run two cars, so 20 drivers line-up on the grid.</br> 
+            </p>
+        </div>
+    <!-- SVG container for the chart -->
+    <svg id="chart" width="1400" height="1000"></svg>
+    <div class="controls">
+        <div>
+            <div id="y-axis-select"></div>
+            <label><input type="radio" name="values" value="position" checked> Position</label>
+            <label><input type="radio" name="values" value="points"> Total Points</label>
+        </div>
+    </div>
+    <div class="buttons">
+        <button onclick="location.href='yearly_standings.html'">Race Breakdown By Year</button>
+    </div>
+    <div class="footnote">
+        <p>
+        <br>* Some teams went through name changes over the years. For consistency purposes, they are labeled with their most current name as of 2024.</br>
+        <br>* We follow the history of the 10 teams on the current grid in 2024. Some teams that are no longer on the grid but participated in past seasons will not be featured.</br>
+        </p>
+    </div>
+  <script src="constructor_standings.js"></script>
+</div>
 </body>
 </html>

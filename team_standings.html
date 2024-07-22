@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Constructor Standings</title>
+  <script src="https://d3js.org/d3.v7.min.js"></script>
+  <script src="d3-annotation.min.js"></script>
+  <style>
+    h1 {
+      text-align: center;
+    }
+    /* CSS styles for the chart */
+    .line {
+      fill: none;
+      stroke-width: 2px;
+    }
+
+    .point {
+      fill: steelblue;
+      stroke: #fff;
+      stroke-width: 1.5px;
+    }
+  </style>
+</head>
+<body>
+  <div id="chart-container">
+    <h1>Team Standings</h1>
+    <!-- SVG container for the chart -->
+    <svg id="chart" width="700" height="600"></svg>
+  </div>
+  <script src="team_details.js"></script>
+</body>
+</html>
