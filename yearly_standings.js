@@ -68,16 +68,7 @@ d3.csv('race_details.csv').then(function(data) {
         .attr("class", "constructor-line");
 
     const tooltip = d3.select('body').append('div')
-        .attr("class", "tooltip")
-        .style("background", "rgba(69,77,93,.9)")
-        .style("border-radius", ".2rem")
-        .style("color", "#fff")
-        .style("padding", ".6rem")
-        .style("position", "absolute")
-        .style("text-overflow", "ellipsis")
-        .style("white-space", "pre")
-        .style("line-height", "1em")
-        .style("z-index", "300");
+        .attr("class", "tooltip");
 
     constructorLines.append("path")
         .attr("class", "line")
@@ -103,6 +94,14 @@ d3.csv('race_details.csv').then(function(data) {
         .style("fill", function(d) { return color(d.constructor); })
         .on('mouseover', function (event, d) {
             tooltip.style('opacity', 1);
+            tooltip.style("background", "rgba(69,77,93,.9)");
+            tooltip.style("border-radius", ".2rem");
+            tooltip.style("color", "#fff");
+            tooltip.style("padding", ".6rem");
+            tooltip.style("position", "absolute");
+            tooltip.style("white-space", "pre");
+            tooltip.style("line-height", "1em");
+            tooltip.style("z-index", "300");
             tooltip.html(`<strong>Constructor:</strong> ${d.constructor} <br><strong>Race:</strong> ${d.race}<br><strong>Date:</strong> ${d.date}<br><strong>Position:</strong> ${d.position}<br><strong>Points:</strong> ${d.points}`)
             .style('left', (event.pageX + 10) + "px")
             .style('top', (event.pageY - 28) + "px");
