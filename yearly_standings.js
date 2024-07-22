@@ -10,7 +10,7 @@ d3.csv('race_details.csv').then(function(data) {
       });
 
     // Set initial year filter
-    var currentYear = 2000;
+    var selectedYear = 2023;
     var selectedOption = 'position';
 
     // Function to filter data based on year
@@ -20,17 +20,18 @@ d3.csv('race_details.csv').then(function(data) {
          });
     }
 
-    function updateChart(year, selectedOption) {
+    function updateChart(selectedYear, selectedOption) {
 
-        var filteredData = filterDataByYear(year);
+        var filteredData = filterDataByYear(selectedYear);
         var constructors = [...new Set(filteredData.map(d => d.constructor))].sort();
-    
+        var races = [...new Set(filteredData.map(d => d.race))];
+
         d3.select("#chart").selectAll("*").remove();
 
     // Set up dimensions for the chart
-    var margin = { top: 50, right: 200, bottom: 120, left: 60 },
+    var margin = { top: 80, right: 200, bottom: 120, left: 60 },
     width = 1400 - margin.left - margin.right,
-    height = 600 - margin.top - margin.bottom;
+    height = 630 - margin.top - margin.bottom;
 
     // Append SVG to the chart container
     var svg = d3.select("#chart")
@@ -242,7 +243,44 @@ d3.csv('race_details.csv').then(function(data) {
             var selectedOption = this.value;
             updateYAxis(selectedOption);
          });
-
+    
+    if (selectedYear === 2023) {
+    
+         let annotations = [
+            {
+                note: {label: "Red Bull wins the 2023 Constructor's World Championship." },
+                subject: {
+                    y1: margin.top - 25,
+                    y2: height + 55
+                },
+                y: 60,
+                x: 1174,
+                align: "middle",
+            },
+            ]
+        // Add annotation to the chart
+        const type = d3.annotationCustomType(
+            d3.annotationXYThreshold, 
+            {"note":{
+                "lineType":"none",
+                "orientation": "top",
+                "align":"middle"}
+            }
+        )
+    
+        const makeAnnotations = d3.annotation()
+            .type(type)
+            .annotations(annotations)
+            .textWrap(230)
+    
+        d3.select("svg")
+            .append("g")
+            .attr("class", "annotation-group")
+            .style("font-size", "14px")
+            .style("text-align", "center")
+            .style("stroke-dasharray", ("5, 5"))
+            .call(makeAnnotations);
+    }
     // Add legend
     var legend = svg.selectAll(".legend")
         .data(constructors)
@@ -269,18 +307,18 @@ d3.csv('race_details.csv').then(function(data) {
     // Slider change event listener
     d3.select("#year-slider").on("input", function() {
         var year = +d3.select(this).property("value");
-        d3.select("#slider-value").text(year);
-        currentYear = year;
+        d3.select("#slider-value").text(selectedYear);
+        selectedYear = year;
         if (d3.select('input[name="values"]:checked').property("value") === 'points') {
             selectedOption = 'points';
         }
         else {selectedOption = 'position'}
-        updateChart(currentYear, selectedOption);
+        updateChart(selectedYear, selectedOption);
     });
 
     //Load the initial year
     document.getElementById('sliderLabel').textContent = `Select Year:`;
-    d3.select("#slider-value").text(currentYear);
+    d3.select("#slider-value").text(selectedYear);
     d3.select('input[name="values"][value="' + selectedOption + '"]').property("checked", true); // Set initial radio button selection
-    updateChart(currentYear, selectedOption);
+    updateChart(selectedYear, selectedOption);
 });

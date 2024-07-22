@@ -25,8 +25,8 @@ d3.csv('driver_details.csv').then(function(data) {
         .text(function(d) { return d; });
     
     // Set initial selections
-    var selectedConstructor = constructors[0]; // Default to first constructor
-    var selectedYear = 2000; // Default to most recent year
+    var selectedConstructor = constructorDropdown.property("value", "Red Bull"); // Default to Red Bull
+    var selectedYear = 2023; // Default to most recent year
     var selectedOption = 'totalpoints'
     
     // Function to filter data based on constructor and year
@@ -210,6 +210,39 @@ d3.csv('driver_details.csv').then(function(data) {
     .style("text-anchor", "middle")
     .text("Grand Prix (Race)");
 
+    if (selectedConstructor === 'Red Bull' && selectedYear === 2023) {
+
+        let annotations = [
+            {
+                note: {label: "Max Verstappen dominates the 2023 season in points and leads Red Bull to become Constructor's World Champions."},
+                y: margin.top + 5,
+                x: 1180,
+                dx: -80,
+                dy: -10,
+                type: d3.annotationCallout,
+                connector: {
+                    type: "line",
+                    end: "arrow"
+                },
+                bgPadding: { top: 10, right: 10, bottom: 10, left: 10 },
+                padding: 5,
+                textWrap: 300,
+                align: "middle",
+            },
+        ]
+
+        const makeAnnotations = d3.annotation()
+            .type(d3.annotationCallout)
+            .annotations(annotations)
+            .textWrap(300)
+    
+    d3.select("svg")
+        .append("g")
+        .attr("class", "annotation-group")
+        .style("font-size", "14px")
+        .style("stroke-dasharray", ("5, 5"))
+        .call(makeAnnotations);
+    }
     // Add legend
     var legend = svg.selectAll(".legend")
         .data(drivers)
@@ -234,11 +267,13 @@ d3.csv('driver_details.csv').then(function(data) {
     // Tooltip div element
     const tooltip = d3.select('body').append('div')
         .attr("class", "tooltip");
+
     }
 
     //Initial update
     document.getElementById('sliderLabel').textContent = `Select Year:`;
     d3.select("#slider-value").text(selectedYear);
+    selectedConstructor = d3.select("#constructor-select").property("value");
     d3.select('input[name="values"][value="' + selectedOption + '"]').property("checked", true); // Set initial radio button selection
     updateChart(selectedConstructor, selectedYear, selectedOption);
     
