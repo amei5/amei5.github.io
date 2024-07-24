@@ -40,14 +40,14 @@
         justify-content: center;
         font-size: 15px;
         gap: 20px;
-        padding: 10px;
+        padding: 20px;
     }
 
     .buttons {
         display: flex;
         justify-content: center;
         gap: 20px;
-        padding: 20px;
+        padding: 10px;
     }
 
     .narrative-text{
@@ -56,11 +56,27 @@
 	    text-align: center;
 	    color: darkslategrey;
     }
+
+    .footnote{
+	    font-size: 12px;
+	    text-align: center;
+	    color: darkslategrey;
+    } 
   </style>
 </head>
 <body>
   <div id="chart-container">
     <h1>Formula 1 Driver Points Each Year</h1>
+    <div class="narrative-text">
+      <p>Every Formula 1 season, there are a series of races (also known as a Grand Prix) to determine the Driver's World Champion and the Constructor's World Champion.
+        The drivers that finish in the top 10 of each race earns a certain number of points based on their finishing position. These points are accumulated for both the individual driver basis and for the team constructor points.
+      </p>
+      <p>In the chart below, one can view a single constructor's driver performance for the season. This can be defined as their total points accumulated or the points scored per race. By summing up the total points earned by the drivers, the constructor with the most points at the end of the year is crowned the Constructor World Champion.
+        To highlight the most recent 2023 season, Red Bull's Max Verstappen earned a whopping 575 points by the Abu Dhabi Grand Prix. With a combined 860 points by the end, Red Bull won the 2023 Constructor's World Championship.
+      </p>
+      <p>To view different constructors or previous previous seasons, select the constructor in the dropdown and move the slider to the relevant year. The view can be toggled to display Total Points vs. Points Per Race as well. Hover over each bar to view more details about each driver, the grand prix, and the points earned.
+      </p>
+  </div>
     <!-- SVG container for the chart -->
     <svg id="chart" width="700" height="1400"></svg>
     <div class="controls">
@@ -82,5 +98,12 @@
     </div>
     <script src="driver_details_bar.js"></script>
   </div>
+  <div class="footnote">
+    <p>
+    <br>* Drivers that do not have a bar in 'Total Points' did not complete the specific race.</br>
+    <br>* Drivers that do not have a bar in 'Points Per Race' scored 0 points.</br>
+    <br>* Some constructors did not particupate in earlier seasons. The chart for those years are displayed as empty.</br>
+    </p>
+</div>
 </body>
 </html>

@@ -70,12 +70,16 @@
 </head>
 <body>
   <div id="chart-container">
-    <h1 id="title">Formula 1 Constructor Standings Each Year</h1>
+    <h1 id="title">Formula 1 Constructor Standings Each Seson</h1>
     <div class="narrative-text">
-      <p>
-      
+      <p>Every Formula 1 season, there are a series of races (also known as a Grand Prix) to determine the Driver's World Champion and the Constructor's World Champion.
+        The drivers that finish in the top 10 of each race earns a certain number of points based on their finishing position. These points are accumulated for both the individual driver basis and for the team constructor points.
       </p>
-      
+      <p>In the chart below, one can view each constructor's overall position after each grand prix and the total points accumulated for the season (year.) The constructor with the most points at the end of the year is crowned the Constructor World Champion.
+        To highlight the most recent 2023 season, Red Bull started out at the Bahrain Grand Prix with the most points scored from their drivers. By the last race at the Abu Dhabi Grand Prix, they maintained their position and were crowned 2023 Constructor's Champions.
+      </p>
+      <p>To view constructor standings for previous seasons, move the slider to the relevant year. The view can be toggled to display Position vs. Total Points as well. Hover over each point to view more information about the constructor, the grand prix, the position, and points earned.
+      </p>
   </div>
     <!-- SVG container for the chart -->
     <svg id="chart" width="1400" height="700"></svg>
@@ -92,10 +96,15 @@
     <label><input type="radio" name="values" value="points"> Total Points</label>
 </div>
 </div>
-
   <div class="buttons">
-    <button onclick="location.href='index.html'">Back to Constructor Standings</button>
-    <button onclick="location.href='driver_details.html'">Driver Breakdown</button>
+    <button onclick="location.href='index.html'">Back to Overview</button>
+    <button onclick="location.href='driver_details.html'">Next to Driver Breakdown</button>
+</div>
+<div class="footnote">
+  <p>
+  <br>* Some teams went through name changes over the years. For consistency purposes, they are labeled with their most current name as of 2024.</br>
+  <br>* We follow the history of the 10 teams on the current grid in 2024. Some teams that are no longer on the grid but participated in past seasons will not be featured.</br>
+  </p>
 </div>
 <script src="yearly_standings.js"></script>
 </div>

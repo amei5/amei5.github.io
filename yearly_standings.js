@@ -248,7 +248,7 @@ d3.csv('race_details.csv').then(function(data) {
     
          let annotations = [
             {
-                note: {label: "Red Bull wins the 2023 Constructor's World Championship." },
+                note: {label: "Red Bull stays on top the entire season and ultimately wins the 2023 Constructor's World Championship." },
                 subject: {
                     y1: margin.top - 25,
                     y2: height + 55
@@ -271,7 +271,7 @@ d3.csv('race_details.csv').then(function(data) {
         const makeAnnotations = d3.annotation()
             .type(type)
             .annotations(annotations)
-            .textWrap(230)
+            .textWrap(280)
     
         d3.select("svg")
             .append("g")
