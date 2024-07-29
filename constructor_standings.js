@@ -2,27 +2,25 @@
 d3.csv('constructor_standings.csv').then(function(data) {
     // Parse the data
     data.forEach(function(d) {
-      d.year = +d.year; // Convert year to numeric
-      d.position = +d.position; // Convert position to numeric
-      d.points = +d.points; // Convert points to numeric
+      d.year = +d.year;
+      d.position = +d.position; 
+      d.points = +d.points; 
     });
   
-    // Extract unique constructors from the data
-    var constructors = [...new Set(data.map(d => d.constructor))].sort();  // nest function allows to group the calculation per level of a factor
+    // Extract unique constructors
+    var constructors = [...new Set(data.map(d => d.constructor))].sort();
 
-    // Set up dimensions for the chart
+    // Set up dimensions, scales, and axes
     var margin = { top: 100, right: 200, bottom: 50, left: 60 },
     width = 1400 - margin.left - margin.right,
     height = 600 - margin.top - margin.bottom;
 
-    // Append SVG to the chart container
     var svg = d3.select("#chart")
         .attr("width", width + margin.left + margin.right)
         .attr("height", height + margin.top + margin.bottom)
         .append("g")
         .attr("transform", "translate(" + margin.left + "," + margin.top + ")");
 
-    // Define scales and axes
     var x = d3.scaleLinear()
         .domain(d3.extent(data, function(d) { return d.year; }))
         .range([0, width]);
@@ -93,9 +91,8 @@ d3.csv('constructor_standings.csv').then(function(data) {
             tooltip.style('opacity', 0);
         });
 
-    // Function to update y-axis based on dropdown selection
+    // Function to update y-axis based on radio buton
     function updateYAxis(selectedOption) {
-    // Update y scale and line function based on selected option
         switch (selectedOption) {
             case 'position':
                 yScale = yPosition;
@@ -144,13 +141,6 @@ d3.csv('constructor_standings.csv').then(function(data) {
     // Initial call to update y-axis
     updateYAxis('position');
 
-    // Dropdown change handler
-    d3.select("#y-axis-select")
-        .on("change", function() {
-            var selectedOption = d3.select(this).property("value");
-            updateYAxis(selectedOption);
-        });
-
     // Radio button change event listener
     d3.selectAll('input[name="values"]').on("change", function() {
         var selectedOption = this.value;
@@ -167,7 +157,7 @@ d3.csv('constructor_standings.csv').then(function(data) {
         .attr("class", "y-axis")
         .call(d3.axisLeft(yPosition));
 
-    // Add axis labels
+    // Add labels
     svg.append("text")
         .attr("class","y-axis-label")
         .attr("transform", "rotate(-90)")
@@ -183,6 +173,7 @@ d3.csv('constructor_standings.csv').then(function(data) {
         .style("text-anchor", "middle")
         .text("Year");
 
+    // Add annotations
     let annotations = [
         {
             note: {label: "V10 Engine" },
@@ -222,7 +213,6 @@ d3.csv('constructor_standings.csv').then(function(data) {
         },
         ]
 
-    // Add annotation to the chart
     const type = d3.annotationCustomType(
         d3.annotationXYThreshold, 
         {"note":{

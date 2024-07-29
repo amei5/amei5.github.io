@@ -2,24 +2,25 @@
 d3.csv('race_details.csv').then(function(data) {
     // Parse the data
     data.forEach(function(d) {
-        d.year = +d.year; // Convert year to numeric
+        d.year = +d.year;
         d.date = d.date;
         d.race = d.race_name.trim();
-        d.position = +d.position; // Convert position to numeric
-        d.points = +d.points; // Convert points to numeric
+        d.position = +d.position; 
+        d.points = +d.points; 
       });
 
-    // Set initial year filter
+    // Set default parameters
     var selectedYear = 2023;
     var selectedOption = 'position';
 
-    // Function to filter data based on year
+    // Filter data based on year parameter
     function filterDataByYear(year) {
         return data.filter(function(d) {
             return d.year === year;
          });
     }
 
+    // Update chart when a parameter is changed
     function updateChart(selectedYear, selectedOption) {
 
         var filteredData = filterDataByYear(selectedYear);
@@ -28,19 +29,17 @@ d3.csv('race_details.csv').then(function(data) {
 
         d3.select("#chart").selectAll("*").remove();
 
-    // Set up dimensions for the chart
+    // Set up the chart dimensions and scales
     var margin = { top: 80, right: 200, bottom: 120, left: 60 },
     width = 1400 - margin.left - margin.right,
     height = 630 - margin.top - margin.bottom;
 
-    // Append SVG to the chart container
     var svg = d3.select("#chart")
         .attr("width", width + margin.left + margin.right)
         .attr("height", height + margin.top + margin.bottom)
         .append("g")
         .attr("transform", "translate(" + margin.left + "," + margin.top + ")");
 
-    // Define scales and axes
     var x = d3.scaleBand()
         .domain(filteredData.map(d => d.race))
         .range([0, width]);
@@ -54,6 +53,8 @@ d3.csv('race_details.csv').then(function(data) {
         .range([height, 0])
         .nice();
 
+    // Set up color for each constructor
+
     var color = d3.scaleOrdinal()
         .domain(constructors)
         .range(d3.schemeCategory10);
@@ -62,7 +63,7 @@ d3.csv('race_details.csv').then(function(data) {
         .x(function(d) { return x(d.race) + x.bandwidth() / 2; })
         .y(function(d) { return yPosition(d.position); });
 
-    // Draw lines for each constructor
+    // Create lines for each constructor
     var constructorLines = svg.selectAll(".constructor-line")
         .data(constructors)
         .enter().append("g")
@@ -80,7 +81,7 @@ d3.csv('race_details.csv').then(function(data) {
         })
         .style("stroke", function(c) { return color(c); });
 
-    // Add points for each data point
+    // Add points and tooltips for each data point
     constructorLines.selectAll(".point")
         .data(function(c) {
             return filteredData.filter(function(d) {
@@ -144,9 +145,8 @@ d3.csv('race_details.csv').then(function(data) {
     .call(d3.axisLeft(yPosition));
 
     
-    // Function to update y-axis based on dropdown selection
+    // Function to update y-axis based on radio buttons
     function updateYAxis(selectedOption) {
-    // Update y scale and line function based on selected option
         switch (selectedOption) {
             case 'position':
                 yScale = yPosition;
@@ -162,7 +162,7 @@ d3.csv('race_details.csv').then(function(data) {
                 break;
         }
 
-        // Update the y-axis
+        // Update the lines
         svg.selectAll(".constructor-line")
             .select(".line")
             .transition()
@@ -192,8 +192,8 @@ d3.csv('race_details.csv').then(function(data) {
             .call(d3.axisLeft(yScale));
     }
 
-    function updateInitialYAxis(selectedOption) { //without transitions
-        // Update y scale and line function based on selected option
+    // Same function as above without transitions (for initial load)
+    function updateInitialYAxis(selectedOption) {
             switch (selectedOption) {
                 case 'position':
                     yScale = yPosition;
@@ -209,7 +209,7 @@ d3.csv('race_details.csv').then(function(data) {
                     break;
             }
     
-            // Update the y-axis
+            // Update the liness
             svg.selectAll(".constructor-line")
                 .select(".line")
                 .attr("d", function(c) {
@@ -258,6 +258,7 @@ d3.csv('race_details.csv').then(function(data) {
                 align: "middle",
             },
             ]
+
         // Add annotation to the chart
         const type = d3.annotationCustomType(
             d3.annotationXYThreshold, 
@@ -281,6 +282,7 @@ d3.csv('race_details.csv').then(function(data) {
             .style("stroke-dasharray", ("5, 5"))
             .call(makeAnnotations);
     }
+
     // Add legend
     var legend = svg.selectAll(".legend")
         .data(constructors)
@@ -315,7 +317,7 @@ d3.csv('race_details.csv').then(function(data) {
         updateChart(selectedYear, selectedOption);
     });
 
-    //Load the initial year
+    //Load the initial parameters
     document.getElementById('sliderLabel').textContent = `Select Year:`;
     d3.select("#slider-value").text(selectedYear);
     d3.select('input[name="values"][value="' + selectedOption + '"]').property("checked", true); // Set initial radio button selection

@@ -3,14 +3,14 @@ d3.csv('driver_details.csv').then(function(data) {
 
     // Parse the data
     data.forEach(function(d) {
-        d.year = +d.year; // Convert year to numeric
+        d.year = +d.year;
         d.date = d.date;
         d.race = d.race_name.trim();
         d.firstname = d.firstname.trim();
         d.lastname = d.lastname.trim();
         d.name = d.firstname + ' ' + d.lastname;
-        d.position = +d.position; // Convert position to numeric
-        d.points = +d.points; // Convert points to numeric
+        d.position = +d.position; 
+        d.points = +d.points; 
         d.totalpoints = +d.cumulative_points
       });
       
@@ -18,14 +18,14 @@ d3.csv('driver_details.csv').then(function(data) {
     var constructors = [...new Set(data.map(d => d.constructor))].sort();
     //var years = [...new Set(data.map(d => d.year))].sort().reverse(); //Descending order
 
-    // Populate the dropdowns with options
+    // Populate the dropdowns with constructors
     var constructorDropdown = d3.select("#constructor-select");
     constructorDropdown.selectAll("option")
         .data(constructors)
         .enter().append("option")
         .text(function(d) { return d; });
     
-    // Set initial selections
+    // Set initial parameters
     var selectedConstructor = constructorDropdown.property("value", "Red Bull"); // Default to Red Bull
     var selectedYear = 2023; // Default to most recent year
     var selectedOption = 'totalpoints'
@@ -37,32 +37,29 @@ d3.csv('driver_details.csv').then(function(data) {
         });
     }
 
-    // Function to update chart based on selected constructor and year
+    // Function to update chart based on selected constructor, year, and option
     function updateChart(selectedConstructor, selectedYear, selectedOption) {
-        // Filter data based on selected constructor and year
+
         var filteredData = filterData(selectedConstructor, selectedYear);
     
-        // Remove existing chart elements
+        // Remove existing elements
         d3.select("#chart").selectAll("*").remove();
     
-
-    // Extract unique races
+    // Extract unique races and drivers
     var races = [...new Set(filteredData.map(d => d.race))];
-    var drivers = [...new Set(filteredData.map(d => d.lastname))].sort();  // nest function allows to group the calculation per level of a factor
+    var drivers = [...new Set(filteredData.map(d => d.lastname))].sort();
 
-    // Set up dimensions for the chart
+    // Set up dimensions, scales, and axes for the chart
     var margin = { top: 100, right: 200, bottom: 110, left: 60 },
         width = 1400 - margin.left - margin.right,
         height = 600 - margin.top - margin.bottom;
 
-    // Append SVG to the chart container
     var svg = d3.select("#chart")
         .attr("width", width + margin.left + margin.right)
         .attr("height", height + margin.top + margin.bottom)
         .append("g")
         .attr("transform", "translate(" + margin.left + "," + margin.top + ")");
 
-    // Define scales and axes
     var x0 = d3.scaleBand()
         .domain(races)
         .rangeRound([0, width])
@@ -82,7 +79,6 @@ d3.csv('driver_details.csv').then(function(data) {
         .domain(drivers)
         .range(d3.schemeCategory10);
 
-    // Update y-axis function for transition
     var yAxis = svg.append("g")
         .attr("class", "y-axis")
         .call(d3.axisLeft(yScale));
@@ -122,7 +118,7 @@ d3.csv('driver_details.csv').then(function(data) {
             tooltip.style('opacity', 0);
         });
 
-    // Function to update y-axis based on dropdown selection
+    // Function to update y-axis based on radio button selection
     function updateYAxis(selectedOption) {
         switch (selectedOption) {
             case 'totalpoints':
@@ -152,7 +148,7 @@ d3.csv('driver_details.csv').then(function(data) {
             .text(selectedOption === 'totalpoints' ? "Total Points" : "Points Per Race");
     }
 
-    // Initial Function to update y-axis based on dropdown selection w/out transition
+    // Initial Function to update y-axis based on radio buttons w/out transition
     function updateInitialYAxis(selectedOption) {
         switch (selectedOption) {
             case 'totalpoints':
@@ -179,7 +175,7 @@ d3.csv('driver_details.csv').then(function(data) {
             .text(selectedOption === 'totalpoints' ? "Total Points" : "Points Per Race");
     }
 
-    //Initial update
+    // Initial update
     updateInitialYAxis(selectedOption);
 
     // Radio button change event listener
@@ -250,6 +246,7 @@ d3.csv('driver_details.csv').then(function(data) {
         .style("stroke-dasharray", ("5, 5"))
         .call(makeAnnotations);
     }
+
     // Add legend
     var legend = svg.selectAll(".legend")
         .data(drivers)
@@ -277,7 +274,7 @@ d3.csv('driver_details.csv').then(function(data) {
 
     }
 
-    //Initial update
+    // Initial update
     document.getElementById('sliderLabel').textContent = `Select Year:`;
     d3.select("#slider-value").text(selectedYear);
     selectedConstructor = d3.select("#constructor-select").property("value");
